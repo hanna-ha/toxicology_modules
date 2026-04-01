@@ -1,0 +1,3070 @@
+gene,bmd,bmdl,bmdu,model,aic,pvalue,converged,error
+AAGAB_23638,,,,,,,False,No valid model fit
+AAMDC_12899,,,,,,,False,No valid model fit
+AAMP_2,5.510551929473877,2.1930935252709696,7.103494824553337,Polynomial 2,17.237472268322346,0.5997583410952996,True,
+AAR2_25893,0.4014936475894903,0.06819727683319149,2.516198378572967,Hill,59.121214274894974,0.9268979191822581,True,
+AARD_13511,,,,,,,False,No valid model fit
+AARS1_3,,,,,,,False,No valid model fit
+AARS2_26243,,,,,,,False,No valid model fit
+AATF_26432,0.9115902769179527,0.16933024604432023,9.48404853367884,Hill,39.03773119875166,0.34416247288839286,True,
+ABCA10_22688,,,,,,,False,No valid model fit
+ABCA2_16971,,,,,,,False,No valid model fit
+ABCA7_19998,6.509376764297485,3.774457020959851,23.37737569792512,Linear,44.438046839544874,0.25383756287335324,True,
+ABCB1_12,,,,,,,False,No valid model fit
+ABCB7_19494,4.286141183388854,2.8275094471832416,9.860931846526812,Power,40.463657652460384,0.4572695661461801,True,
+ABCB9_91680,,,,,,,False,No valid model fit
+ABCB9_91718,5.831112379542699,3.5150316215481174,16.9363952907247,Power,20.732795274298454,0.11951782113979648,True,
+ABCC1_15868,1.788318157196045,1.0272330566980543,2.909579598870589,Linear,7.6550920356537775,0.6114995689259628,True,
+ABCC4_26789,,,,,,,False,No valid model fit
+ABCC6_20229,4.8149049282073975,3.0786588551472343,10.920822060729996,Linear,46.2170656198639,0.5678339087619941,True,
+ABCC8_20778,,,,,,,False,No valid model fit
+ABCE1_32,5.069742202758789,3.1940176950151358,12.159246702040104,Linear,37.34939370101346,0.25389976319680585,True,
+ABCF1_35,,,,,,,False,No valid model fit
+ABCF2_92347,6.469675302505493,3.0820767492524275,9.117858478417936,Polynomial 2,34.402675417336894,0.3414781580423035,True,
+ABCF2_92348,,,,,,,False,No valid model fit
+ABHD17B_14459,,,,,,,False,No valid model fit
+ABHD18_22249,,,,,,,False,No valid model fit
+ABHD1_88958,4.772051572799683,3.0589204304407316,10.726741649674755,Linear,55.3893404914721,0.10973268829002614,True,
+ABHD6_45,,,,,,,False,No valid model fit
+ABI1_18228,5.292255878448486,2.211593809956475,6.719400471218295,Polynomial 2,2.9676568033423654,0.527598260763182,True,
+ABLIM2_13870,,,,,,,False,No valid model fit
+ABRACL_13071,,,,,,,False,No valid model fit
+ABRAXAS1_16175,3.073837161064148,2.1757727199165866,5.156678970516031,Linear,41.18104354395486,0.2347585573003721,True,
+ABT1_21258,8.041074275970459,8.021815857731497,8.069839857531054,Linear,24.511745866481878,0.30370429058662607,True,
+AC093157.1_3829,,,,,,,False,No valid model fit
+ACACA_90988,,,,,,,False,No valid model fit
+ACACA_91463,,,,,,,False,No valid model fit
+ACACA_91650,,,,,,,False,No valid model fit
+ACACA_91723,0.9572696685791016,0.9224952053979594,0.9627097430248309,Linear,15.238608503918805,0.9148234448456103,True,
+ACAD8_17448,,,,,,,False,No valid model fit
+ACAP2_16752,,,,,,,False,No valid model fit
+ACAT2_56,,,,,,,False,No valid model fit
+ACER2_17896,,,,,,,False,No valid model fit
+ACP6_12367,,,,,,,False,No valid model fit
+ACSF2_12748,,,,,,,False,No valid model fit
+ACSL3_16977,,,,,,,False,No valid model fit
+ACSL4_22501,,,,,,,False,No valid model fit
+ACSL5_23312,,,,,,,False,No valid model fit
+ACTA2_14836,,,,,,,False,No valid model fit
+ACTN1_19142,,,,,,,False,No valid model fit
+ACTR1A_12784,,,,,,,False,No valid model fit
+ACTR1B_21374,,,,,,,False,No valid model fit
+ACTR3B_21219,,,,,,,False,No valid model fit
+ADAM9_17290,,,,,,,False,No valid model fit
+ADAMTS10_24127,,,,,,,False,No valid model fit
+ADAMTS13_87744,,,,,,,False,No valid model fit
+ADAMTS13_90224,,,,,,,False,No valid model fit
+ADAMTS13_90412,,,,,,,False,No valid model fit
+ADAMTS9_12161,,,,,,,False,No valid model fit
+ADCK5_13567,,,,,,,False,No valid model fit
+ADCY7_20085,,,,,,,False,No valid model fit
+ADCY7_26803,2.826312780380249,2.0291586598203497,4.585435222988305,Linear,40.87776880871375,0.2675042776069141,True,
+ADD2_22235,,,,,,,False,No valid model fit
+ADD3_16935,,,,,,,False,No valid model fit
+ADGRB2_18024,,,,,,,False,No valid model fit
+ADGRG2_21222,,,,,,,False,No valid model fit
+ADGRL1_23280,2.7576055239065216,1.9874891267156383,9.595565405864962,Power,-9.58875757173214,0.559484238570852,True,
+ADIPOR2_15469,,,,,,,False,No valid model fit
+ADK_139,,,,,,,False,No valid model fit
+ADPRM_26057,,,,,,,False,No valid model fit
+ADSS1_20985,,,,,,,False,No valid model fit
+AEN_18198,2.6853346824645996,1.9422866011895419,4.278536654456924,Linear,27.986974984176364,0.9479074612686618,True,
+AFDN_17939,,,,,,,False,No valid model fit
+AFG1L_23517,0.2256688141628454,0.057731608640819346,0.9658285729282158,Hill,20.106978432270477,0.9353855892827769,True,
+AGAP5_23961,,,,,,,False,No valid model fit
+AGAP6_17408,,,,,,,False,No valid model fit
+AGA_12005,,,,,,,False,No valid model fit
+AGMAT_20040,,,,,,,False,No valid model fit
+AGO3_90330,,,,,,,False,No valid model fit
+AHCY_88959,,,,,,,False,No valid model fit
+AHSA1_24801,,,,,,,False,No valid model fit
+AHSA2P_23663,,,,,,,False,No valid model fit
+AIDA_93148,,,,,,,False,No valid model fit
+AIFM1_183,,,,,,,False,No valid model fit
+AIMP2_14728,,,,,,,False,No valid model fit
+AK1_20871,,,,,,,False,No valid model fit
+AK4_15459,,,,,,,False,No valid model fit
+AK6_33624,,,,,,,False,No valid model fit
+AK8_28575,,,,,,,False,No valid model fit
+AK9_26816,,,,,,,False,No valid model fit
+AKAP3_20165,,,,,,,False,No valid model fit
+AKR7L_33676,,,,,,,False,No valid model fit
+AKT3_15615,,,,,,,False,No valid model fit
+AL022312.1_89097,,,,,,,False,No valid model fit
+ALAS1_28273,,,,,,,False,No valid model fit
+ALDH1A2_14646,,,,,,,False,No valid model fit
+ALDH2_225,,,,,,,False,No valid model fit
+ALDOC_233,,,,,,,False,No valid model fit
+ALG10B_23875,,,,,,,False,No valid model fit
+ALG1_13319,6.933698654174805,3.4072563110395655,10.373898322768369,Polynomial 2,23.07380319315836,0.30917382179648467,True,
+ALKBH1_88236,5.1378611483905745,3.2237184518946513,10.22199862052882,Power,-4.399728197120867,0.1280875823915021,True,
+ALKBH5_16565,,,,,,,False,No valid model fit
+ALS2_10879,4.865503311157227,3.102733695943659,11.15607150811644,Linear,15.843112370182919,0.2476389108423046,True,
+ALYREF_93130,,,,,,,False,No valid model fit
+AMD1_247,,,,,,,False,No valid model fit
+AMIGO1_17797,,,,,,,False,No valid model fit
+AMOTL1_18638,4.7345781326293945,3.0417650318369005,10.55986621645175,Linear,26.768194326365954,0.7269856183741117,True,
+AMOT_12156,,,,,,,False,No valid model fit
+AMPH_16332,,,,,,,False,No valid model fit
+AMT_11074,0.13047157189720324,0.01634443403296115,1.0741276866478415,Hill,43.67825979413938,0.78329583267312,True,
+AMY1B_33725,,,,,,,False,No valid model fit
+AMY2A_13847,,,,,,,False,No valid model fit
+AMY2B_26823,,,,,,,False,No valid model fit
+AMZ2_93171,,,,,,,False,No valid model fit
+AMZ2_93173,2.9924464225769043,0.5865274541017998,10.264900986806731,Exponential 5,19.34082907071244,0.11114545833583223,True,
+ANAPC7_22450,,,,,,,False,No valid model fit
+ANKFY1_11606,,,,,,,False,No valid model fit
+ANKRA2_22381,,,,,,,False,No valid model fit
+ANKRD10_277,,,,,,,False,No valid model fit
+ANKRD17_280,,,,,,,False,No valid model fit
+ANKRD24_22938,,,,,,,False,No valid model fit
+ANKRD27_287,,,,,,,False,No valid model fit
+ANKRD37_14638,,,,,,,False,No valid model fit
+ANKS1A_20264,2.9343020915985107,2.0936263703758278,4.82983962170423,Linear,25.29254667802738,0.7220949808951543,True,
+ANXA1_24071,,,,,,,False,No valid model fit
+AP002495.2_88210,,,,,,,False,No valid model fit
+AP1G1_21853,2.6682090759277344,1.4271696674819858,6.598537000604625,Linear,34.87297807139553,0.11726255032628496,True,
+AP1M1_12885,,,,,,,False,No valid model fit
+AP1S2_21655,,,,,,,False,No valid model fit
+AP1S3_12964,,,,,,,False,No valid model fit
+AP2A1_18672,,,,,,,False,No valid model fit
+AP2M1_322,,,,,,,False,No valid model fit
+AP3M1_15244,,,,,,,False,No valid model fit
+AP3S1_93087,6.925089359283447,3.079533448688798,10.48028553581014,Polynomial 2,15.438455092340881,0.9198922243354528,True,
+APEX2_33605,4.781050682067871,3.0631018647625696,10.766672483062528,Linear,10.628464669712573,0.26057561993125733,True,
+APLF_17330,,,,,,,False,No valid model fit
+APOBEC3F_23287,,,,,,,False,No valid model fit
+APOBEC3F_26841,,,,,,,False,No valid model fit
+APOC1_19115,,,,,,,False,No valid model fit
+APOLD1_17472,,,,,,,False,No valid model fit
+APPL1_371,,,,,,,False,No valid model fit
+APRT_11072,,,,,,,False,No valid model fit
+ARFGAP1_393,,,,,,,False,No valid model fit
+ARFGEF2_25935,4.324735403060913,2.846323385799356,8.895097583740517,Linear,48.76834396715153,0.6142143532089828,True,
+ARFGEF3_19891,5.037224938521765,3.179712252307918,9.767179193703864,Power,52.12545195352033,0.7388752533342982,True,
+ARG2_19025,0.305131787228233,0.05071819154443192,1.865683710165331,Hill,17.506808795479124,0.8269054295871846,True,
+ARGLU1_24493,,,,,,,False,No valid model fit
+ARHGAP10_26108,4.572903924368854,0.26936566840178755,124.26904606859422,Hill,40.820030534518594,0.3647886344756136,True,
+ARHGAP11A_26843,,,,,,,False,No valid model fit
+ARHGAP17_12994,,,,,,,False,No valid model fit
+ARHGAP19_17445,6.186466217041016,2.712360245983039,8.460555014137395,Polynomial 2,9.818364769424653,0.617208094969005,True,
+ARHGAP8_26848,,,,,,,False,No valid model fit
+ARHGDIA_17417,4.391495611317449,2.878918953075699,9.97621024010131,Power,60.164220489577886,0.12053637252173732,True,
+ARHGEF18_12274,,,,,,,False,No valid model fit
+ARHGEF2_423,,,,,,,False,No valid model fit
+ARID3A_18669,,,,,,,False,No valid model fit
+ARID5A_11516,,,,,,,False,No valid model fit
+ARIH2OS_13921,,,,,,,False,No valid model fit
+ARL10_15800,,,,,,,False,No valid model fit
+ARL13B_26850,,,,,,,False,No valid model fit
+ARL17A_26854,,,,,,,False,No valid model fit
+ARL17B_26855,,,,,,,False,No valid model fit
+ARL4D_24864,1.679014558329288,0.205624381372624,9.939033472999,Hill,38.31145049182918,0.7323768778910735,True,
+ARL5A_11913,,,,,,,False,No valid model fit
+ARL6IP5_445,1.5907049179077148,1.4356403401219284,3.266313625634583,Linear,15.991114945651546,0.3282579692664681,True,
+ARL8B_92746,,,,,,,False,No valid model fit
+ARMC5_26857,5.020403861999512,3.1721352018058298,11.907645897971719,Linear,39.62707147175229,0.2897307878451878,True,
+ARMC6_24630,3.4917080402374268,2.4130984043461807,6.228833262894577,Linear,31.105766542079174,0.717383597749403,True,
+ARMC8_92584,,,,,,,False,No valid model fit
+ARMCX2_11749,,,,,,,False,No valid model fit
+ARMCX4_18635,,,,,,,False,No valid model fit
+ARMH1_19954,3.9288437366485596,2.646774954918839,7.525489970325806,Linear,70.29109627024258,0.5984369714294875,True,
+ARNT2_89371,,,,,,,False,No valid model fit
+ARPC1B_19481,,,,,,,False,No valid model fit
+ARPC2_17930,,,,,,,False,No valid model fit
+ARPC3_92567,,,,,,,False,No valid model fit
+ARPIN_33565,,,,,,,False,No valid model fit
+ARRB1_22993,4.21937455442955,2.7947407030616516,9.91161126893205,Power,24.79847704853959,0.22761889805279245,True,
+ARRDC1_88477,,,,,,,False,No valid model fit
+ARRDC4_12510,,,,,,,False,No valid model fit
+AS3MT_33947,,,,,,,False,No valid model fit
+ASB8_24963,1.0991489576214122,0.19648711079031905,9.577764415012537,Hill,11.792008365256876,0.21449282709214212,True,
+ASF1A_18396,,,,,,,False,No valid model fit
+ASIC1_24534,,,,,,,False,No valid model fit
+ASNS_12040,,,,,,,False,No valid model fit
+ASTN2_14623,,,,,,,False,No valid model fit
+ASXL3_25840,,,,,,,False,No valid model fit
+ATAD3B_25485,0.541532717174105,0.05766670681582109,4.38579134719147,Hill,32.52825108252482,0.582502369332959,True,
+ATAD5_21054,,,,,,,False,No valid model fit
+ATE1_13650,,,,,,,False,No valid model fit
+ATF3_499,,,,,,,False,No valid model fit
+ATF5_501,,,,,,,False,No valid model fit
+ATF6B_503,,,,,,,False,No valid model fit
+ATF7_20880,,,,,,,False,No valid model fit
+ATG101_12980,0.8717764037798341,0.08723374383147356,9.531172200061443,Hill,37.30332533318676,0.12618797563400208,True,
+ATG10_24588,,,,,,,False,No valid model fit
+ATG14_17494,,,,,,,False,No valid model fit
+ATG16L2_90808,,,,,,,False,No valid model fit
+ATG16L2_91525,,,,,,,False,No valid model fit
+ATG16L2_91674,,,,,,,False,No valid model fit
+ATIC_507,,,,,,,False,No valid model fit
+ATL1_20091,,,,,,,False,No valid model fit
+ATL3_18610,,,,,,,False,No valid model fit
+ATN1_16723,,,,,,,False,No valid model fit
+ATP11C_19755,,,,,,,False,No valid model fit
+ATP1A1_12191,,,,,,,False,No valid model fit
+ATP2B4_89868,,,,,,,False,No valid model fit
+ATP5MC3_546,,,,,,,False,No valid model fit
+ATP5MD_16099,,,,,,,False,No valid model fit
+ATP5PF_87731,,,,,,,False,No valid model fit
+ATP6AP1L_28804,,,,,,,False,No valid model fit
+ATP6V0A1_11775,,,,,,,False,No valid model fit
+ATP6V0E1_23077,,,,,,,False,No valid model fit
+ATP6V1D_574,,,,,,,False,No valid model fit
+ATP6V1E1_92715,,,,,,,False,No valid model fit
+ATP9A_15812,0.061445473509718365,0.010844314088228906,0.3726110557413035,Hill,16.270671091114853,0.5434865930909585,True,
+ATPAF1_18721,,,,,,,False,No valid model fit
+ATRIP_90107,,,,,,,False,No valid model fit
+ATRN_14560,,,,,,,False,No valid model fit
+ATXN1L_13638,,,,,,,False,No valid model fit
+ATXN2L_93315,,,,,,,False,No valid model fit
+ATXN7L3B_21077,,,,,,,False,No valid model fit
+AUP1_25968,,,,,,,False,No valid model fit
+AUTS2_29029,,,,,,,False,No valid model fit
+AXIN1_87624,,,,,,,False,No valid model fit
+AXL_16141,,,,,,,False,No valid model fit
+AZI2_26875,4.172606468200684,2.7715833656381688,8.34376484279626,Linear,14.615192970016263,0.2026639673408599,True,
+B3GALT4_88018,,,,,,,False,No valid model fit
+B3GAT3_90741,5.922949314117432,2.652815173633467,7.8993599362356095,Polynomial 2,19.069641445693343,0.584665761217916,True,
+B3GNT10_87901,,,,,,,False,No valid model fit
+B4GALT6_20855,,,,,,,False,No valid model fit
+BAG1_18045,,,,,,,False,No valid model fit
+BAG2_12209,,,,,,,False,No valid model fit
+BAIAP2_26196,,,,,,,False,No valid model fit
+BAMBI_634,,,,,,,False,No valid model fit
+BARX1_14093,,,,,,,False,No valid model fit
+BASP1_25661,,,,,,,False,No valid model fit
+BBC3_25556,,,,,,,False,No valid model fit
+BBIP1_23730,,,,,,,False,No valid model fit
+BBS12_22121,,,,,,,False,No valid model fit
+BBS1_24145,3.2364320755004883,2.270660065141194,7.373036141959939,Polynomial 2,42.33299275392903,0.8742159294505873,True,
+BBS2_20596,4.672479629516602,3.013117238487581,10.28820303372578,Linear,40.38979348056532,0.692993976675752,True,
+BBS4_91274,,,,,,,False,No valid model fit
+BBS4_91564,6.460516452789307,2.952788492911888,9.095468129756071,Polynomial 2,7.935990884478279,0.7081916756043738,True,
+BBS5_91273,,,,,,,False,No valid model fit
+BCAP31_644,1.408538325057205,0.38678036189277093,9.60676214680176,Hill,7.674057492791566,0.8475735569652788,True,
+BCAS2_92601,,,,,,,False,No valid model fit
+BCAT1_25914,,,,,,,False,No valid model fit
+BCCIP_25450,,,,,,,False,No valid model fit
+BCHE_16309,,,,,,,False,No valid model fit
+BCKDHA_24792,,,,,,,False,No valid model fit
+BCL2L12_92683,,,,,,,False,No valid model fit
+BCL2L2_665,,,,,,,False,No valid model fit
+BCL6B_26892,,,,,,,False,No valid model fit
+BCL9_18042,,,,,,,False,No valid model fit
+BCLAF3_23768,,,,,,,False,No valid model fit
+BECN1_680,0.21044037340855093,0.030648644785510784,1.4396704054632834,Hill,-7.2318362316546825,0.5696417590106152,True,
+BEX2_10891,,,,,,,False,No valid model fit
+BHLHE40_689,,,,,,,False,No valid model fit
+BICC1_19624,0.3179753234950169,0.10678739948826929,-9999.0,Hill,35.044180034721954,0.3420693284261228,True,
+BID_696,,,,,,,False,No valid model fit
+BLOC1S1_721,,,,,,,False,No valid model fit
+BLOC1S5_25482,,,,,,,False,No valid model fit
+BMF_16921,0.056799637479438385,0.017023387619226088,0.2446126290539882,Hill,35.79107212195156,0.5510728838873613,True,
+BMP1_26901,,,,,,,False,No valid model fit
+BMPR1A_18051,,,,,,,False,No valid model fit
+BMS1_18670,,,,,,,False,No valid model fit
+BOLA3_16505,,,,,,,False,No valid model fit
+BOP1_14081,,,,,,,False,No valid model fit
+BOP1_750,,,,,,,False,No valid model fit
+BORCS7_812,,,,,,,False,No valid model fit
+BORCS8_27499,,,,,,,False,No valid model fit
+BPNT1_18869,,,,,,,False,No valid model fit
+BRD8_91599,,,,,,,False,No valid model fit
+BRI3BP_19979,3.5291004180908203,2.4336574417872128,6.3320158041431585,Linear,15.266858117170692,0.920150070604472,True,
+BRI3BP_771,4.7283731205895165,3.0389022065113718,10.11858938366096,Power,30.982562156106884,0.5211134312133419,True,
+BRIP1_16491,5.6218671798706055,2.380286802076642,7.310871591315555,Polynomial 2,31.209210693118756,0.6663597856580171,True,
+BRIX1_92578,,,,,,,False,No valid model fit
+BRMS1_24014,,,,,,,False,No valid model fit
+BSG_778,4.567158222198486,2.964002283073555,9.844580194305134,Linear,18.416075993018204,0.16977208906636998,True,
+BSN_24704,,,,,,,False,No valid model fit
+BTAF1_89769,,,,,,,False,No valid model fit
+BTBD2_15638,,,,,,,False,No valid model fit
+BTBD3_785,6.077480316162109,2.636383385014453,8.22036842680927,Polynomial 2,0.7363783939096651,0.8395728930443425,True,
+BTBD7_26905,,,,,,,False,No valid model fit
+BTBD8_19106,,,,,,,False,No valid model fit
+BTF3_92848,,,,,,,False,No valid model fit
+BTN3A2_26908,,,,,,,False,No valid model fit
+BTNL9_23451,,,,,,,False,No valid model fit
+BUB3_13110,,,,,,,False,No valid model fit
+BUD23_90574,,,,,,,False,No valid model fit
+BYSL_16106,,,,,,,False,No valid model fit
+BZW1_92394,,,,,,,False,No valid model fit
+C11orf1_18201,,,,,,,False,No valid model fit
+C11orf45_26186,,,,,,,False,No valid model fit
+C11orf65_10833,,,,,,,False,No valid model fit
+C12orf57_825,,,,,,,False,No valid model fit
+C12orf65_23267,,,,,,,False,No valid model fit
+C16orf46_12928,,,,,,,False,No valid model fit
+C16orf58_26313,,,,,,,False,No valid model fit
+C16orf96_23924,,,,,,,False,No valid model fit
+C17orf113_88063,,,,,,,False,No valid model fit
+C17orf75_21901,,,,,,,False,No valid model fit
+C18orf32_26930,,,,,,,False,No valid model fit
+C19orf48_21955,5.941972732543945,2.8688475096713533,7.933864051739547,Polynomial 2,23.377559648254806,0.1541575811512529,True,
+C19orf54_13155,,,,,,,False,No valid model fit
+C1D_859,,,,,,,False,No valid model fit
+C1GALT1_14097,,,,,,,False,No valid model fit
+C1QL1_14428,5.761365294456482,2.586375446375626,-9999.0,Polynomial 2,55.73691165475235,0.1968484225520647,True,
+C1QTNF6_15336,,,,,,,False,No valid model fit
+C2CD5_14220,,,,,,,False,No valid model fit
+C2orf81_16870,,,,,,,False,No valid model fit
+C4B_33749,,,,,,,False,No valid model fit
+C5orf22_24194,,,,,,,False,No valid model fit
+C5orf24_24924,5.298211574554443,3.294029552670576,13.402517661669764,Linear,40.98062851984986,0.38035759410646464,True,
+C5orf63_11408,,,,,,,False,No valid model fit
+C8G_91020,4.836171865463257,3.0884161276207878,11.019416409734568,Linear,66.16950112615937,0.19332494593398875,True,
+C8orf44_21589,,,,,,,False,No valid model fit
+C8orf76_34011,,,,,,,False,No valid model fit
+CA12_20197,,,,,,,False,No valid model fit
+CA2_908,,,,,,,False,No valid model fit
+CABCOCO1_24887,,,,,,,False,No valid model fit
+CABLES1_13564,,,,,,,False,No valid model fit
+CACHD1_12329,,,,,,,False,No valid model fit
+CACUL1_18529,,,,,,,False,No valid model fit
+CADM1_20719,,,,,,,False,No valid model fit
+CADM4_19183,,,,,,,False,No valid model fit
+CALCOCO1_18741,3.5954643108142936,0.38044040561552117,10.024448758684237,Hill,37.213388750562196,0.15882649339721,True,
+CALHM2_20090,,,,,,,False,No valid model fit
+CAMK2D_26958,5.920623540878296,2.535286809632166,7.894665694387939,Polynomial 2,34.102824957101916,0.7371786491727315,True,
+CAMKV_26160,,,,,,,False,No valid model fit
+CAMLG_12796,5.746884346008301,3.481168996358996,16.30747544127977,Linear,40.67004709894859,0.5527407178941925,True,
+CAMSAP1_25581,,,,,,,False,No valid model fit
+CAPG_20144,,,,,,,False,No valid model fit
+CAPN2_12803,,,,,,,False,No valid model fit
+CAPN3_14633,,,,,,,False,No valid model fit
+CAPN5_88123,,,,,,,False,No valid model fit
+CAPN7_13495,,,,,,,False,No valid model fit
+CAPZA1_23364,,,,,,,False,No valid model fit
+CARF_15182,,,,,,,False,No valid model fit
+CARM1_22681,,,,,,,False,No valid model fit
+CARNMT1_19411,,,,,,,False,No valid model fit
+CARS1_14910,,,,,,,False,No valid model fit
+CASC1_88953,,,,,,,False,No valid model fit
+CASP8_989,,,,,,,False,No valid model fit
+CAST_28247,,,,,,,False,No valid model fit
+CAT_999,,,,,,,False,No valid model fit
+CAVIN1_21319,3.126499652862549,2.206549067085159,5.284706606284336,Linear,41.20892588666419,0.9832138993130565,True,
+CBLL1_20376,,,,,,,False,No valid model fit
+CBR1_1006,,,,,,,False,No valid model fit
+CBSL_33992,0.6170518402948609,0.21718057831940896,2.9492130744124205,Hill,20.133092613255187,0.62534976880758,True,
+CBS_22126,,,,,,,False,No valid model fit
+CBWD1_1009,0.9163308808532507,0.17724281690370058,9.446766506381088,Hill,1.3630414671694622,0.2177660455889039,True,
+CBWD1_26970,3.158535957336426,1.839572335176791,7.287298424004458,Linear,33.857356116785006,0.9630917474229544,True,
+CBX6_1013,,,,,,,False,No valid model fit
+CBX7_11965,,,,,,,False,No valid model fit
+CBX8_15659,,,,,,,False,No valid model fit
+CC2D1B_25383,4.99143123626709,3.159459572059484,11.763416853652789,Linear,29.172049674786273,0.21587270297397287,True,
+CC2D2A_10646,,,,,,,False,No valid model fit
+CCDC106_91192,,,,,,,False,No valid model fit
+CCDC113_16231,,,,,,,False,No valid model fit
+CCDC115_22065,,,,,,,False,No valid model fit
+CCDC117_14458,,,,,,,False,No valid model fit
+CCDC124_89531,,,,,,,False,No valid model fit
+CCDC137_20301,,,,,,,False,No valid model fit
+CCDC138_24294,,,,,,,False,No valid model fit
+CCDC144A_18451,4.134054183959961,2.752385126162199,8.209051792791152,Linear,41.2072155869199,0.10634811716607695,True,
+CCDC14_11522,,,,,,,False,No valid model fit
+CCDC159_19080,,,,,,,False,No valid model fit
+CCDC170_16604,,,,,,,False,No valid model fit
+CCDC180_18735,,,,,,,False,No valid model fit
+CCDC32_15195,2.4656736850738525,2.348112469616263,4.312153571899302,Linear,40.69348424118771,0.37465730750293846,True,
+CCDC43_24330,,,,,,,False,No valid model fit
+CCDC47_11663,,,,,,,False,No valid model fit
+CCDC66_21141,,,,,,,False,No valid model fit
+CCDC78_22438,,,,,,,False,No valid model fit
+CCDC82_14662,3.8573527336120605,2.6096279720036097,7.299284941220785,Linear,19.83713248178939,0.1409465205995517,True,
+CCDC84_20211,,,,,,,False,No valid model fit
+CCDC85B_28333,2.443835392581015,1.7907940784236076,9.420189627172682,Power,19.747532314908202,0.8916132731943576,True,
+CCDC86_1031,,,,,,,False,No valid model fit
+CCDC88B_24953,,,,,,,False,No valid model fit
+CCDC8_16492,,,,,,,False,No valid model fit
+CCDC90B_92771,,,,,,,False,No valid model fit
+CCDC92_1033,,,,,,,False,No valid model fit
+CCDC96_16879,,,,,,,False,No valid model fit
+CCHCR1_18220,,,,,,,False,No valid model fit
+CCNB1IP1_1054,,,,,,,False,No valid model fit
+CCND2_1063,,,,,,,False,No valid model fit
+CCND2_23334,,,,,,,False,No valid model fit
+CCNDBP1_1069,0.27802619062771794,0.13677647213090452,0.9195242986971358,Hill,6.412227037799431,0.49726762906838895,True,
+CCNE1_1070,,,,,,,False,No valid model fit
+CCNG1_1079,,,,,,,False,No valid model fit
+CCNG2_20708,,,,,,,False,No valid model fit
+CCNJ_26431,,,,,,,False,No valid model fit
+CCS_23202,5.527024269104004,3.3903548657930074,14.797932035525342,Linear,31.18549417825207,0.1240148358482821,True,
+CCT3_1099,,,,,,,False,No valid model fit
+CCT5_92875,,,,,,,False,No valid model fit
+CCT6B_23336,,,,,,,False,No valid model fit
+CCT7_92759,,,,,,,False,No valid model fit
+CCT7_92760,,,,,,,False,No valid model fit
+CCZ1B_14443,,,,,,,False,No valid model fit
+CD109_19701,1.657944427877158,0.4388470147792133,9.564473774289407,Hill,28.884817595569665,0.5544494018150723,True,
+CD19_28252,,,,,,,False,No valid model fit
+CD276_12737,,,,,,,False,No valid model fit
+CD302_23412,,,,,,,False,No valid model fit
+CD44_1134,,,,,,,False,No valid model fit
+CD72_11843,4.735303521156311,3.0420920279148027,10.562138154579886,Linear,61.34526615281615,0.11583666567653483,True,
+CD99L2_11290,,,,,,,False,No valid model fit
+CDC123_25951,,,,,,,False,No valid model fit
+CDC25A_1158,4.604902218139045,2.98168846997601,10.001566811789877,Power,14.57530423712757,0.16607455532320192,True,
+CDC25C_19441,,,,,,,False,No valid model fit
+CDC42EP2_26375,,,,,,,False,No valid model fit
+CDC5L_1174,,,,,,,False,No valid model fit
+CDC6_1177,,,,,,,False,No valid model fit
+CDCA3_26988,,,,,,,False,No valid model fit
+CDH23_26989,,,,,,,False,No valid model fit
+CDH23_26990,,,,,,,False,No valid model fit
+CDH24_87671,,,,,,,False,No valid model fit
+CDHR1_11261,,,,,,,False,No valid model fit
+CDHR5_90950,,,,,,,False,No valid model fit
+CDK10_26996,,,,,,,False,No valid model fit
+CDK16_92461,,,,,,,False,No valid model fit
+CDK19_1201,,,,,,,False,No valid model fit
+CDK2_1202,7.157340049743652,3.4810876095450274,11.292550187452546,Polynomial 2,36.512762209039046,0.462671860329392,True,
+CDK5RAP3_93318,,,,,,,False,No valid model fit
+CDK5_1206,6.846442222595215,3.1523637294059075,10.117021996700405,Polynomial 2,28.04436828291849,0.8138731223014012,True,
+CDK6_1213,,,,,,,False,No valid model fit
+CDKL5_24672,,,,,,,False,No valid model fit
+CDKN1C_15785,,,,,,,False,No valid model fit
+CDKN2AIPNL_11799,,,,,,,False,No valid model fit
+CDNF_14167,,,,,,,False,No valid model fit
+CDPF1_21513,,,,,,,False,No valid model fit
+CDR2_19505,6.915551424026489,3.260256603951298,10.319080760627163,Polynomial 2,62.40396663395175,0.6978906162024858,True,
+CDS2_17287,0.2231476699607015,0.031416541479314025,1.0396713864138742,Hill,34.05290782374379,0.17448150991981481,True,
+CDT1_21099,,,,,,,False,No valid model fit
+CEACAM6_26148,2.0366367266872896,0.3934940609315194,9.77978986235453,Hill,58.90704910502501,0.1804032300541819,True,
+CEBPB_10745,,,,,,,False,No valid model fit
+CEBPG_16478,,,,,,,False,No valid model fit
+CEBPZ_1245,,,,,,,False,No valid model fit
+CELF1_90519,,,,,,,False,No valid model fit
+CENPF_1252,,,,,,,False,No valid model fit
+CENPH_11358,,,,,,,False,No valid model fit
+CENPM_23837,,,,,,,False,No valid model fit
+CENPN_92971,,,,,,,False,No valid model fit
+CENPW_1256,,,,,,,False,No valid model fit
+CEP128_27003,,,,,,,False,No valid model fit
+CEP131_20005,,,,,,,False,No valid model fit
+CEP152_91214,,,,,,,False,No valid model fit
+CEP44_25613,,,,,,,False,No valid model fit
+CEP68_88462,,,,,,,False,No valid model fit
+CEP70_25976,6.574116945266724,3.2937974644604657,9.382869740846832,Polynomial 2,21.36529920172753,0.1356853741488685,True,
+CEP76_24797,,,,,,,False,No valid model fit
+CEP78_15194,,,,,,,False,No valid model fit
+CEP89_11010,,,,,,,False,No valid model fit
+CEP97_22838,,,,,,,False,No valid model fit
+CERS4_26099,,,,,,,False,No valid model fit
+CERS5_89660,,,,,,,False,No valid model fit
+CES2_91688,2.645430564880371,0.6395515414145077,-9999.0,Exponential 5,22.06378297672159,0.3392622157308419,True,
+CETN3_28289,,,,,,,False,No valid model fit
+CFAP300_12892,,,,,,,False,No valid model fit
+CFAP53_22793,,,,,,,False,No valid model fit
+CFAP70_12714,,,,,,,False,No valid model fit
+CFHR3_11110,,,,,,,False,No valid model fit
+CFL1_1268,,,,,,,False,No valid model fit
+CGRRF1_1278,3.3666419044395486,2.343913080386433,9.70323936700746,Power,49.50594372109237,0.20206106435747617,True,
+CHAC2_20593,,,,,,,False,No valid model fit
+CHCHD10_21375,0.2975855284200304,0.016209526382776403,-9999.0,Hill,37.006820730147126,0.990907648630909,True,
+CHCHD1_33599,0.08398660835783289,0.022882959759061277,0.41049948625984717,Hill,12.803534764503254,0.7584695640601937,True,
+CHCHD3_27012,,,,,,,False,No valid model fit
+CHD6_16458,,,,,,,False,No valid model fit
+CHD8_25349,,,,,,,False,No valid model fit
+CHFR_91338,6.070127487182617,3.6084564060237723,18.899580021068004,Linear,29.7057221937909,0.11734203677404664,True,
+CHFR_91601,6.175730228424072,3.038709828491222,8.436725248972266,Polynomial 2,36.11589346219902,0.14103420879814077,True,
+CHGB_12311,,,,,,,False,No valid model fit
+CHMP5_92401,1.2210966786291606,0.19726696210764738,9.77433220187042,Hill,24.192291892801794,0.9464523198723492,True,
+CHMP7_18176,,,,,,,False,No valid model fit
+CHN1_1312,,,,,,,False,No valid model fit
+CHORDC1_92557,,,,,,,False,No valid model fit
+CHP1_93151,,,,,,,False,No valid model fit
+CHPT1_89581,,,,,,,False,No valid model fit
+CHPT1_90365,,,,,,,False,No valid model fit
+CHRD_21008,,,,,,,False,No valid model fit
+CHRNA5_13742,,,,,,,False,No valid model fit
+CHST11_28342,,,,,,,False,No valid model fit
+CHSY3_23288,,,,,,,False,No valid model fit
+CIAO2A_14110,6.645694971084595,2.9039872428465534,9.565352525983528,Polynomial 2,20.85302957959265,0.888661537545056,True,
+CIAPIN1_1343,,,,,,,False,No valid model fit
+CINP_19950,,,,,,,False,No valid model fit
+CIR1_92792,3.1741551832346526,2.234997016187198,9.586949257487591,Power,8.987040227769432,0.16368928903735092,True,
+CIRBP_1351,,,,,,,False,No valid model fit
+CISD3_16115,0.3223148562311523,0.11779206605883408,0.9335223236258273,Hill,31.464835710331098,0.1075581061118025,True,
+CITED1_11786,0.10012766682431735,0.020928400826438473,0.6062652679287424,Hill,4.025623239170998,0.548824565505138,True,
+CIZ1_25500,,,,,,,False,No valid model fit
+CKS1B_1362,6.1391448974609375,2.679293593098793,8.355740278380788,Polynomial 2,19.94736726360287,0.5942417206319657,True,
+CLCN6_20026,,,,,,,False,No valid model fit
+CLDN4_89537,,,,,,,False,No valid model fit
+CLEC18B_11866,,,,,,,False,No valid model fit
+CLEC2D_27022,,,,,,,False,No valid model fit
+CLHC1_16697,,,,,,,False,No valid model fit
+CLIP1_17874,,,,,,,False,No valid model fit
+CLIP2_16880,,,,,,,False,No valid model fit
+CLK1_27025,,,,,,,False,No valid model fit
+CLMP_15672,,,,,,,False,No valid model fit
+CLN6_25567,,,,,,,False,No valid model fit
+CLPTM1L_26208,,,,,,,False,No valid model fit
+CLPTM1_28582,,,,,,,False,No valid model fit
+CLSTN3_17677,,,,,,,False,No valid model fit
+CLTB_1402,,,,,,,False,No valid model fit
+CLUAP1_18900,,,,,,,False,No valid model fit
+CLUH_15760,,,,,,,False,No valid model fit
+CLYBL_90121,,,,,,,False,No valid model fit
+CMC2_92467,,,,,,,False,No valid model fit
+CMC4_27029,4.9816834385952795,3.1550900119771934,11.7151173600605,Power,18.173123227783023,0.18122335211224128,True,
+CMTM7_23795,,,,,,,False,No valid model fit
+CNIH2_25682,,,,,,,False,No valid model fit
+CNKSR3_10480,,,,,,,False,No valid model fit
+CNOT10_27037,,,,,,,False,No valid model fit
+CNOT11_23201,,,,,,,False,No valid model fit
+CNOT1_10812,,,,,,,False,No valid model fit
+CNOT6_33792,,,,,,,False,No valid model fit
+CNPY1_13096,,,,,,,False,No valid model fit
+COA7_23427,,,,,,,False,No valid model fit
+COG4_28894,,,,,,,False,No valid model fit
+COG5_1449,6.799834966659546,3.4457627635141663,9.988563422231541,Polynomial 2,29.99821267970374,0.16107072279976276,True,
+COL14A1_24160,,,,,,,False,No valid model fit
+COL26A1_14870,,,,,,,False,No valid model fit
+COL27A1_13893,,,,,,,False,No valid model fit
+COL5A1_1480,1.9543790249195676,0.3995797645484994,9.776850993894273,Hill,27.212177779714793,0.5469597337393176,True,
+COL6A2_14013,,,,,,,False,No valid model fit
+COPA_88291,,,,,,,False,No valid model fit
+COPRS_15522,,,,,,,False,No valid model fit
+COPS3_1496,,,,,,,False,No valid model fit
+COPS6_13125,,,,,,,False,No valid model fit
+COPS7B_16589,,,,,,,False,No valid model fit
+COPS9_27541,,,,,,,False,No valid model fit
+COPZ1_1499,,,,,,,False,No valid model fit
+COQ4_22951,1.0476523026580455,0.18459506966349265,9.63272805379942,Hill,17.704193786652176,0.4019931515661621,True,
+COQ6_26091,,,,,,,False,No valid model fit
+COX10_90743,,,,,,,False,No valid model fit
+COX11_27052,,,,,,,False,No valid model fit
+COX14_87565,6.15755558013916,3.643145789082692,19.690887542548115,Linear,42.38473719340055,0.6949897086323779,True,
+COX18_16986,,,,,,,False,No valid model fit
+COX7A2L_20340,,,,,,,False,No valid model fit
+CPEB3_25890,,,,,,,False,No valid model fit
+CPLANE2_21632,,,,,,,False,No valid model fit
+CPS1_15784,,,,,,,False,No valid model fit
+CPT1B_21939,,,,,,,False,No valid model fit
+CRAT_11181,,,,,,,False,No valid model fit
+CREB5_14405,,,,,,,False,No valid model fit
+CREBRF_19339,,,,,,,False,No valid model fit
+CREBZF_25527,,,,,,,False,No valid model fit
+CREG2_18035,2.3144596815109253,1.707797792304311,3.527982814835948,Linear,28.794269274647874,0.6667411207574376,True,
+CRELD2_1561,4.255764484405518,2.8126029832327966,8.640506861316094,Linear,26.053390200276276,0.17369220022083443,True,
+CRLS1_15326,,,,,,,False,No valid model fit
+CROCC_87629,,,,,,,False,No valid model fit
+CRTC1_1581,,,,,,,False,No valid model fit
+CRY1_15619,,,,,,,False,No valid model fit
+CRYBG3_19340,,,,,,,False,No valid model fit
+CRYZ_1586,0.2791584836700277,0.06342328057884991,1.0265396316015687,Hill,59.403381053040874,0.7414072578805677,True,
+CSAD_18202,,,,,,,False,No valid model fit
+CSE1L_12096,,,,,,,False,No valid model fit
+CSK_90070,,,,,,,False,No valid model fit
+CSNK1E_1602,,,,,,,False,No valid model fit
+CSNK2A2_1609,2.702169418334961,1.9534845606507412,4.3145003383404354,Linear,8.472021592718626,0.9359943906550466,True,
+CSRP1_90001,,,,,,,False,No valid model fit
+CST3_27071,,,,,,,False,No valid model fit
+CSTB_17311,,,,,,,False,No valid model fit
+CSTF1_22294,,,,,,,False,No valid model fit
+CSTF2T_25681,,,,,,,False,No valid model fit
+CSTF2_18242,0.8627640233149316,0.2746088728393036,5.888744076931483,Hill,4.289269006963746,0.8000708780191155,True,
+CTDP1_33900,,,,,,,False,No valid model fit
+CTDSP1_23256,,,,,,,False,No valid model fit
+CTDSP2_18064,,,,,,,False,No valid model fit
+CTNNBIP1_88148,,,,,,,False,No valid model fit
+CTPS1_16302,,,,,,,False,No valid model fit
+CTPS1_1637,,,,,,,False,No valid model fit
+CTRL_16990,,,,,,,False,No valid model fit
+CTSL_1647,,,,,,,False,No valid model fit
+CTSO_11581,,,,,,,False,No valid model fit
+CTTN_1650,5.919461250305176,2.5618555628441904,7.89226407799947,Polynomial 2,-8.304385449282629,0.7848631608731219,True,
+CTU2_91243,,,,,,,False,No valid model fit
+CTXN1_25660,,,,,,,False,No valid model fit
+CUL3_21722,,,,,,,False,No valid model fit
+CUL4A_14436,,,,,,,False,No valid model fit
+CUX2_17256,,,,,,,False,No valid model fit
+CWC27_23684,,,,,,,False,No valid model fit
+CXXC5_18070,,,,,,,False,No valid model fit
+CXorf38_25723,,,,,,,False,No valid model fit
+CYB561A3_15602,,,,,,,False,No valid model fit
+CYB561D1_25678,,,,,,,False,No valid model fit
+CYB5D2_16839,,,,,,,False,No valid model fit
+CYB5R1_11077,,,,,,,False,No valid model fit
+CYCS_1692,,,,,,,False,No valid model fit
+CYP1A1_1698,,,,,,,False,No valid model fit
+CYP27B1_11889,0.8023067889819655,0.11395920842688603,6.55010265644159,Hill,46.17150904821901,0.601560782849992,True,
+CYP2E1_1722,,,,,,,False,No valid model fit
+CYP2J2_15148,,,,,,,False,No valid model fit
+CYP39A1_17915,,,,,,,False,No valid model fit
+CZIB_19136,,,,,,,False,No valid model fit
+DALRD3_24506,,,,,,,False,No valid model fit
+DAP3_92736,6.559528112411499,3.129866272758659,9.345314025899322,Polynomial 2,43.5579335886136,0.3369535516389469,True,
+DAP_33810,2.2359514236450195,1.6116679422199436,4.531252355079526,Linear,-8.314767070055417,0.6568762149639733,True,
+DBF4_92332,,,,,,,False,No valid model fit
+DBI_92888,5.48626184463501,3.3733396549054087,14.537136665981063,Linear,38.76926991333244,0.12482397041945437,True,
+DCAF13_18257,,,,,,,False,No valid model fit
+DCAF17_90352,,,,,,,False,No valid model fit
+DCBLD1_22528,,,,,,,False,No valid model fit
+DCLRE1B_14906,4.3595075607299805,2.8633009835271643,9.025271288204825,Linear,39.68673031493947,0.7641657776044979,True,
+DCTD_1785,3.287254495953546,2.299471693316957,9.65136796422614,Power,10.550889308320496,0.10651434411701555,True,
+DCTN6_1789,,,,,,,False,No valid model fit
+DCTPP1_22808,,,,,,,False,No valid model fit
+DCUN1D2_22253,,,,,,,False,No valid model fit
+DCUN1D5_19261,,,,,,,False,No valid model fit
+DDAH1_17865,,,,,,,False,No valid model fit
+DDB2_1798,,,,,,,False,No valid model fit
+DDHD1_10888,,,,,,,False,No valid model fit
+DDIT3_1800,,,,,,,False,No valid model fit
+DDN_11835,,,,,,,False,No valid model fit
+DDR1_1804,,,,,,,False,No valid model fit
+DDX10_93091,,,,,,,False,No valid model fit
+DDX17_12010,,,,,,,False,No valid model fit
+DDX19B_25206,,,,,,,False,No valid model fit
+DDX23_14211,,,,,,,False,No valid model fit
+DDX39A_15753,2.9793810844421387,2.1202841947097784,4.934847140614471,Linear,21.584400909639236,0.20984306130375552,True,
+DDX46_1822,,,,,,,False,No valid model fit
+DDX52_16336,,,,,,,False,No valid model fit
+DDX54_15569,3.836488723754883,2.598819189357423,7.234568446702148,Linear,30.030343619206157,0.407650505957872,True,
+DDX59_90393,,,,,,,False,No valid model fit
+DEGS1_16442,,,,,,,False,No valid model fit
+DENND11_26338,,,,,,,False,No valid model fit
+DENND1C_22779,5.585019588470459,2.356512410557272,7.24187634618727,Polynomial 2,28.25586531401278,0.6918522819126023,True,
+DENND2A_23452,,,,,,,False,No valid model fit
+DENND6B_21360,0.062283525007798934,0.011876717272645382,0.33456117861025214,Hill,52.72609357738511,0.8593688809319603,True,
+DEPDC4_17536,,,,,,,False,No valid model fit
+DERA_28317,,,,,,,False,No valid model fit
+DERL3_20447,,,,,,,False,No valid model fit
+DESI1_20587,,,,,,,False,No valid model fit
+DEXI_17905,,,,,,,False,No valid model fit
+DFFB_1853,,,,,,,False,No valid model fit
+DGAT2_15185,,,,,,,False,No valid model fit
+DGCR6_15534,,,,,,,False,No valid model fit
+DGKD_19445,,,,,,,False,No valid model fit
+DHCR24_11979,,,,,,,False,No valid model fit
+DHCR7_90281,,,,,,,False,No valid model fit
+DHFR_93237,,,,,,,False,No valid model fit
+DHPS_91326,,,,,,,False,No valid model fit
+DHPS_91625,,,,,,,False,No valid model fit
+DHRS12_25640,0.2842737886920161,0.11591622352177185,0.9430769810530303,Hill,22.188449077986864,0.6764549250089616,True,
+DHRS12_27110,3.069677948951721,2.173345760082305,5.146769534505646,Linear,40.303341916131814,0.5325678227883675,True,
+DHRS1_10847,,,,,,,False,No valid model fit
+DHRS2_15289,,,,,,,False,No valid model fit
+DHRS2_1857,1.399815896435521,0.1496888402123226,9.971067311066625,Hill,37.78823557010225,0.8792951800980069,True,
+DHRS4L1_17997,,,,,,,False,No valid model fit
+DHX16_1862,,,,,,,False,No valid model fit
+DHX29_88649,,,,,,,False,No valid model fit
+DHX36_23503,,,,,,,False,No valid model fit
+DHX37_13234,4.785351753234863,3.0650275677104917,10.786761392746786,Linear,45.89111076255609,0.9567434928088412,True,
+DIABLO_22200,1.3894104957580566,0.45776245198837306,7.23260004434203,Exponential 5,26.36907784150315,0.11006006526770329,True,
+DIS3_22267,,,,,,,False,No valid model fit
+DISC1_25716,6.424660682678223,3.7432299850196014,22.40957663376213,Linear,35.791113731598415,0.17474510329926474,True,
+DISP2_19584,0.8846816157689509,0.11043733904109077,9.6118656957281,Hill,66.67932658592112,0.8343339298769443,True,
+DKC1_19268,,,,,,,False,No valid model fit
+DLAT_1875,,,,,,,False,No valid model fit
+DLC1_27115,,,,,,,False,No valid model fit
+DLG4_19264,,,,,,,False,No valid model fit
+DLX4_17266,,,,,,,False,No valid model fit
+DLX6_11275,,,,,,,False,No valid model fit
+DMAP1_24751,,,,,,,False,No valid model fit
+DMBX1_19686,,,,,,,False,No valid model fit
+DMPK_90475,,,,,,,False,No valid model fit
+DMPK_91464,10.26499838994046,8.075224784424506,13.647489306396443,Power,30.754081816051738,0.13319747888114342,True,
+DMRT3_90700,,,,,,,False,No valid model fit
+DMXL2_16726,5.131105184555054,3.220717917249718,12.480087579437523,Linear,58.47253950443246,0.19524136935941994,True,
+DMXL2_1888,,,,,,,False,No valid model fit
+DNAAF1_23382,,,,,,,False,No valid model fit
+DNAAF2_15022,,,,,,,False,No valid model fit
+DNAH6_88864,,,,,,,False,No valid model fit
+DNAJA1_1891,,,,,,,False,No valid model fit
+DNAJB14_1905,,,,,,,False,No valid model fit
+DNAJC11_1916,,,,,,,False,No valid model fit
+DNAJC12_24724,4.467215538024902,2.566164086335454,5.549684996174873,Polynomial 2,12.237853900403142,0.9938091506443922,True,
+DNAJC17_92469,,,,,,,False,No valid model fit
+DNAJC18_18335,3.8397812843322754,2.600502182378638,7.244746404185603,Linear,28.39791773458889,0.43679214087501406,True,
+DNAJC21_14132,,,,,,,False,No valid model fit
+DNAJC2_20406,,,,,,,False,No valid model fit
+DNAJC3_1920,0.5773030644101667,0.12329181367146072,3.609095435934729,Hill,24.39968917312923,0.9139747497267724,True,
+DNAJC4_20379,,,,,,,False,No valid model fit
+DNAJC8_92688,,,,,,,False,No valid model fit
+DNAJC9_21868,,,,,,,False,No valid model fit
+DNAL4_21028,,,,,,,False,No valid model fit
+DNASE1L1_24443,,,,,,,False,No valid model fit
+DNHD1_91200,,,,,,,False,No valid model fit
+DNMBP_89585,,,,,,,False,No valid model fit
+DNTTIP2_1936,,,,,,,False,No valid model fit
+DOC2A_12171,,,,,,,False,No valid model fit
+DOCK11_17810,,,,,,,False,No valid model fit
+DOCK6_16776,,,,,,,False,No valid model fit
+DOCK7_14848,1.4521265029907227,1.4162762119643806,1.4611168322605756,Linear,1.1193990018192492,0.10834705672169287,True,
+DOK3_27136,,,,,,,False,No valid model fit
+DPH2_91556,,,,,,,False,No valid model fit
+DPH6_11797,,,,,,,False,No valid model fit
+DPM2_1947,2.2550511360168457,2.228007887332138,2.3688934422923675,Polynomial 2,28.08342075332363,0.49416157361131163,True,
+DPP3_20014,,,,,,,False,No valid model fit
+DPY19L3_15211,,,,,,,False,No valid model fit
+DPY19L4_26348,4.2062955916874305,1.0507194461398401,9.555638400329185,Hill,20.135259004012653,0.12912009863714224,True,
+DPY30_92931,,,,,,,False,No valid model fit
+DQX1_11810,,,,,,,False,No valid model fit
+DRC3_16066,,,,,,,False,No valid model fit
+DRD4_89131,,,,,,,False,No valid model fit
+DRG1_24236,,,,,,,False,No valid model fit
+DSG2_1967,,,,,,,False,No valid model fit
+DSTN_27141,,,,,,,False,No valid model fit
+DSTYK_15034,,,,,,,False,No valid model fit
+DTL_18569,,,,,,,False,No valid model fit
+DTX2_91500,0.23795385892612325,0.017836977185724835,2.6201965829607117,Hill,39.18592704802423,0.6770628851936389,True,
+DTYMK_18243,,,,,,,False,No valid model fit
+DUSP10_21565,,,,,,,False,No valid model fit
+DUSP1_1978,,,,,,,False,No valid model fit
+DUSP4_1990,,,,,,,False,No valid model fit
+DUSP5_92780,,,,,,,False,No valid model fit
+DUSP7_15349,,,,,,,False,No valid model fit
+DUSP8_16306,0.18664689738614504,0.06866516972025066,0.8831376483759007,Hill,7.951837104477702,0.9610166088429126,True,
+DUT_92700,,,,,,,False,No valid model fit
+DYNC2LI1_21574,,,,,,,False,No valid model fit
+DYNLT3_2000,,,,,,,False,No valid model fit
+E2F5_14354,,,,,,,False,No valid model fit
+EAF2_2011,,,,,,,False,No valid model fit
+EBNA1BP2_2014,,,,,,,False,No valid model fit
+ECH1_2022,,,,,,,False,No valid model fit
+ECHDC1_10479,,,,,,,False,No valid model fit
+ECPAS_24345,,,,,,,False,No valid model fit
+EDARADD_15013,0.9917730093002319,0.3444583293740961,9.853519201759832,Exponential 5,30.11349640154416,0.1128380116700981,True,
+EDA_19800,5.124090909957886,3.2176461663403586,12.442671284536718,Linear,53.18092484901497,0.618086577054475,True,
+EDC4_16002,6.114006042480469,2.6614673045033186,8.300264284817834,Polynomial 2,10.003986439680242,0.29457417058613034,True,
+EDEM1_2027,,,,,,,False,No valid model fit
+EDNRA_88670,5.172185897827148,3.2386190242528006,12.700218217856209,Linear,30.1046082930457,0.22305140050073557,True,
+EEF1A1_92893,,,,,,,False,No valid model fit
+EEF1D_92473,5.100992918014526,3.207635700532447,12.321078573778596,Linear,46.24421878880305,0.8348987750412692,True,
+EEF1D_92489,,,,,,,False,No valid model fit
+EEF1E1_92667,,,,,,,False,No valid model fit
+EEF2_2042,,,,,,,False,No valid model fit
+EFHC1_22047,,,,,,,False,No valid model fit
+EFHD1_23189,2.097163200378418,1.0390553333965917,3.960432637042069,Linear,17.451081058558582,0.647469434975283,True,
+EFHD2_19620,,,,,,,False,No valid model fit
+EFR3A_19229,,,,,,,False,No valid model fit
+EGLN3_90114,5.525372624397278,2.193546603545979,7.1308544363613455,Polynomial 2,55.6016533219386,0.7176783861572138,True,
+EHBP1L1_11804,,,,,,,False,No valid model fit
+EHD4_23085,0.15347914593686124,0.02776226936059683,0.8711905128355371,Hill,21.58582127608944,0.36324215414333283,True,
+EID2_19849,,,,,,,False,No valid model fit
+EIF1AD_21495,,,,,,,False,No valid model fit
+EIF1B_26583,3.55064386750566,2.4454966336878385,9.765140961906823,Power,30.47121042522485,0.18916813743418637,True,
+EIF2A_90505,7.190501689910889,3.5420788841411848,11.416658976861573,Polynomial 2,40.222507356982675,0.1364404951164886,True,
+EIF2A_91348,5.486788749694824,3.373621101984645,14.540298848044229,Linear,42.95845745524781,0.30275195366147367,True,
+EIF2B3_27162,,,,,,,False,No valid model fit
+EIF2S1_2085,,,,,,,False,No valid model fit
+EIF3B_16048,2.1504247188568115,1.9383637293871412,3.9017376564201998,Linear,10.431356161032685,0.3430378896250126,True,
+EIF3J_14226,,,,,,,False,No valid model fit
+EIF4E3_16076,,,,,,,False,No valid model fit
+EIF4G1_27165,,,,,,,False,No valid model fit
+EIF4G2_28900,,,,,,,False,No valid model fit
+EIF4H_21573,,,,,,,False,No valid model fit
+EIF5A_89706,,,,,,,False,No valid model fit
+EIF5B_2113,,,,,,,False,No valid model fit
+ELAC2_2114,0.3092356387821329,0.0159137758571246,266.0567166249135,Hill,31.30179834326523,0.7972828123353588,True,
+ELF2_2118,3.929019450996626,2.6468444390647985,9.821430815152581,Power,34.209533684511804,0.14785770180547375,True,
+ELOVL1_2131,4.720940589904785,3.035483663617717,10.499171657779314,Linear,17.3250204942429,0.21410091497261363,True,
+EME1_12151,,,,,,,False,No valid model fit
+EML2_21316,,,,,,,False,No valid model fit
+EN2_21953,6.638520956039429,2.9576851377384417,9.546775539968165,Polynomial 2,38.13705458183746,0.7794989495595241,True,
+ENDOG_28379,,,,,,,False,No valid model fit
+ENO1_2152,,,,,,,False,No valid model fit
+ENOPH1_2156,4.659982222348099,3.007340411776431,10.238179088393633,Power,14.874884028262356,0.9056177063809221,True,
+ENPP2_89863,,,,,,,False,No valid model fit
+ENSA_19659,,,,,,,False,No valid model fit
+ENTPD7_25904,1.8027176714590558,0.39852950744806614,9.797230956492905,Hill,20.828849888761944,0.6903195103247326,True,
+ENTR1_13180,,,,,,,False,No valid model fit
+EPB41L1_21364,4.567902967967318,2.964364538799267,10.00560760657949,Power,26.85800370672718,0.26176542571963957,True,
+EPB41L4A-AS1_2179,0.04099315140359946,0.01889571129380807,0.11949722872749485,Hill,12.288030203046556,0.807305331139686,True,
+EPB41L4A-AS1_2937,,,,,,,False,No valid model fit
+EPB41_27171,,,,,,,False,No valid model fit
+EPDR1_88706,5.975121259689331,2.691458841119907,8.00243752759235,Polynomial 2,12.246500144593504,0.5279004990400443,True,
+EPHA8_89235,,,,,,,False,No valid model fit
+EPHB3_21717,,,,,,,False,No valid model fit
+EPHB6_27172,,,,,,,False,No valid model fit
+EPHX2_18456,,,,,,,False,No valid model fit
+EPHX4_10710,,,,,,,False,No valid model fit
+EPS8_90604,5.7889556884765625,2.6628771177557264,18.171023979318313,Polynomial 2,9.277645345630562,0.6472571270406022,True,
+EPS8_91668,,,,,,,False,No valid model fit
+ERBB2_88307,4.053585529327393,2.711785639326134,7.93526260868321,Linear,20.126654653047787,0.197860865849123,True,
+ERBB2_90040,,,,,,,False,No valid model fit
+ERCC6L_21151,0.30922601942718075,0.10709261443777368,0.9414582473870343,Hill,36.35718854320809,0.2186404996548641,True,
+ERICH2_19239,,,,,,,False,No valid model fit
+ERICH5_17326,3.5455691814422607,2.4427184127202004,6.377994289329029,Linear,34.13960027233889,0.14931771860058207,True,
+ERMAP_15056,,,,,,,False,No valid model fit
+ERMARD_21255,,,,,,,False,No valid model fit
+ERRFI1_17232,,,,,,,False,No valid model fit
+ESR1_12234,,,,,,,False,No valid model fit
+ETFA_2244,0.0767017605170068,0.010612888194359207,0.7836437955348874,Hill,4.4975195288198835,0.1610650717193559,True,
+ETFDH_90875,0.30444493629382213,0.10312124302574126,0.9700498684574874,Hill,7.390472478733682,0.33709205113377005,True,
+ETFRF1_12144,,,,,,,False,No valid model fit
+ETS1_2248,,,,,,,False,No valid model fit
+EVA1B_88792,,,,,,,False,No valid model fit
+EVPL_14384,5.786263942718506,2.4755349671761504,7.62297091015086,Polynomial 2,48.81331738958889,0.20693028326678653,True,
+EWSR1_16433,,,,,,,False,No valid model fit
+EXD3_91110,,,,,,,False,No valid model fit
+EXOC1_2261,0.11866533702924781,0.013350809139341255,1.2589714092271511,Hill,30.30507815365946,0.20650567187999902,True,
+EXOC4_25220,6.510782241821289,2.940708382788614,9.220549381737221,Polynomial 2,16.64294655443986,0.4406442445129082,True,
+EXOC6B_15055,,,,,,,False,No valid model fit
+EXOSC4_2269,4.717676639556885,3.033905834519612,10.48517806225911,Linear,50.4491226335758,0.5122183150159516,True,
+EXOSC5_27191,,,,,,,False,No valid model fit
+EXOSC7_2271,,,,,,,False,No valid model fit
+EXTL3_21768,0.949760412968399,0.3101712681836804,9.324401547795862,Hill,25.8105642223151,0.5868883722522789,True,
+EZR_25288,7.523775100708008,3.4717771570975127,15.041126917001728,Polynomial 2,35.66061824819085,0.948057816169759,True,
+F3_2289,,,,,,,False,No valid model fit
+FABP5_92946,,,,,,,False,No valid model fit
+FAM117B_20897,,,,,,,False,No valid model fit
+FAM118B_15472,0.04138529939760761,0.011016467206817416,0.19250801291217473,Hill,-5.339305566466624,0.24622508776594554,True,
+FAM122C_2309,,,,,,,False,No valid model fit
+FAM161B_2312,,,,,,,False,No valid model fit
+FAM162A_26069,,,,,,,False,No valid model fit
+FAM168B_2313,,,,,,,False,No valid model fit
+FAM168B_24510,,,,,,,False,No valid model fit
+FAM174A_2316,6.543699502944946,2.8656472277414053,9.304456590879404,Polynomial 2,31.194340200440983,0.7154802628412674,True,
+FAM174C_22619,,,,,,,False,No valid model fit
+FAM185A_26385,,,,,,,False,No valid model fit
+FAM189B_16340,1.298474364478085,0.276418903950305,9.63221315930009,Hill,33.05398543114146,0.10765633190719026,True,
+FAM209A_17778,,,,,,,False,No valid model fit
+FAM20B_2318,,,,,,,False,No valid model fit
+FAM210B_16437,,,,,,,False,No valid model fit
+FAM214A_13942,0.2922624284501432,0.016522979036180843,2.7290749385509807,Hill,21.229243346455434,0.3139191603318463,True,
+FAM219B_15714,,,,,,,False,No valid model fit
+FAM222B_17525,,,,,,,False,No valid model fit
+FAM228B_17659,,,,,,,False,No valid model fit
+FAM229A_89627,,,,,,,False,No valid model fit
+FAM234A_12487,,,,,,,False,No valid model fit
+FAM3A_23099,,,,,,,False,No valid model fit
+FAM47E-STBD1_27205,,,,,,,False,No valid model fit
+FAM53A_23599,,,,,,,False,No valid model fit
+FAM71E1_20103,,,,,,,False,No valid model fit
+FAM72A_22322,,,,,,,False,No valid model fit
+FAM76B_14664,3.4318923950195312,2.3801025760540897,6.066239798270093,Linear,30.547050008881975,0.56999331071885,True,
+FAM83B_13670,5.878646373748779,2.4652641817955208,7.809220629570507,Polynomial 2,23.36090904847571,0.19742732531499219,True,
+FAM98A_89027,,,,,,,False,No valid model fit
+FANCG_25117,6.657334566871398,3.8292641694688085,25.22022871330273,Power,50.78306961806268,0.15553592408440875,True,
+FAR1_16464,,,,,,,False,No valid model fit
+FAR2_13476,,,,,,,False,No valid model fit
+FARSA_22841,,,,,,,False,No valid model fit
+FARSB_10466,,,,,,,False,No valid model fit
+FASN_11197,0.11049638549646362,0.03228935215761343,0.3656875395038536,Hill,11.682903722950293,0.15056507968433508,True,
+FASTKD1_27214,,,,,,,False,No valid model fit
+FASTKD5_2353,,,,,,,False,No valid model fit
+FASTK_15301,,,,,,,False,No valid model fit
+FAS_2345,,,,,,,False,No valid model fit
+FBF1_11438,,,,,,,False,No valid model fit
+FBXO17_90847,,,,,,,False,No valid model fit
+FBXO24_2376,,,,,,,False,No valid model fit
+FBXO32_28461,,,,,,,False,No valid model fit
+FBXO33_22990,,,,,,,False,No valid model fit
+FBXO44_27216,0.3679637778502346,0.03121587062697578,2.5086651273343,Hill,22.8457980205289,0.29784115546624323,True,
+FBXW4_18724,,,,,,,False,No valid model fit
+FCF1_92619,,,,,,,False,No valid model fit
+FCF1_92620,,,,,,,False,No valid model fit
+FCHSD1_90272,,,,,,,False,No valid model fit
+FDPS_92913,,,,,,,False,No valid model fit
+FEM1C_13624,,,,,,,False,No valid model fit
+FEN1_2387,,,,,,,False,No valid model fit
+FES_23902,,,,,,,False,No valid model fit
+FGFR3_18284,,,,,,,False,No valid model fit
+FGFR3_27224,,,,,,,False,No valid model fit
+FGGY_15109,,,,,,,False,No valid model fit
+FIBP_18595,,,,,,,False,No valid model fit
+FIG4_20285,4.66156005859375,3.00802192770413,10.24109906258599,Linear,20.012972437351202,0.2528629349934035,True,
+FIGNL2_25768,,,,,,,False,No valid model fit
+FKBP10_17660,,,,,,,False,No valid model fit
+FKBP1A_27226,3.0497467517852783,2.1616663757907326,5.099094735625962,Linear,37.22599840485162,0.8758032095117096,True,
+FKBP1B_16333,,,,,,,False,No valid model fit
+FKBP4_92324,,,,,,,False,No valid model fit
+FKBP4_92325,4.227515459060669,2.798740842176455,8.538900687493923,Linear,42.52837439361301,0.1953167197033444,True,
+FKBP4_92326,,,,,,,False,No valid model fit
+FKBP5_19156,,,,,,,False,No valid model fit
+FKTN_90566,7.235019207000732,4.030398176443574,34.931962467225404,Linear,56.646254176862456,0.3253287077056922,True,
+FLAD1_28296,,,,,,,False,No valid model fit
+FLNA_25912,,,,,,,False,No valid model fit
+FLT3LG_25439,,,,,,,False,No valid model fit
+FLVCR2_15636,,,,,,,False,No valid model fit
+FMO4_88340,,,,,,,False,No valid model fit
+FMR1_13668,,,,,,,False,No valid model fit
+FN3KRP_88146,,,,,,,False,No valid model fit
+FN3KRP_90446,,,,,,,False,No valid model fit
+FNBP4_19463,0.09062722325325012,0.06564875643600851,0.15380179327738,Exponential 5,-16.716673019025723,0.5234262354824537,True,
+FNDC10_15436,3.3936643600463867,2.3588732529634946,5.963985864308929,Linear,11.772250671818792,0.8349978249014346,True,
+FNDC3A_25092,,,,,,,False,No valid model fit
+FOXB2_87594,,,,,,,False,No valid model fit
+FOXD4L1_33506,,,,,,,False,No valid model fit
+FOXG1_2475,,,,,,,False,No valid model fit
+FOXJ2_23394,4.399919509887695,2.8830172743893216,9.178867472590413,Linear,38.952871052903554,0.369903259573936,True,
+FOXN3_17109,,,,,,,False,No valid model fit
+FOXO4_2484,,,,,,,False,No valid model fit
+FRAT2_24582,,,,,,,False,No valid model fit
+FRMD4B_12533,,,,,,,False,No valid model fit
+FRS3_18618,,,,,,,False,No valid model fit
+FRYL_17457,,,,,,,False,No valid model fit
+FTCD_87434,7.505097985267639,3.588199459721992,14.42532397390117,Polynomial 2,55.221321787060006,0.8075319432618812,True,
+FTH1_93386,,,,,,,False,No valid model fit
+FUT10_20529,,,,,,,False,No valid model fit
+FUT4_88787,0.3118965026090197,0.10870235856341066,91.15435086246418,Hill,41.03388966112206,0.1239628322372297,True,
+FUT5_20938,,,,,,,False,No valid model fit
+FUZ_21213,6.59682035446167,3.050315306255218,9.441978518201914,Polynomial 2,18.047009196209803,0.3439779651657844,True,
+FXN_25483,1.2798995999821083,0.22851581572880028,9.806443093968667,Hill,14.212173881382755,0.9375659653049382,True,
+FXYD6_25625,,,,,,,False,No valid model fit
+FZD9_87925,,,,,,,False,No valid model fit
+G0S2_13343,0.027842709917076398,0.013313018847483416,0.07487582968992708,Hill,32.32201081015397,0.7115052237585775,True,
+G3BP1_93286,0.3259674551751158,0.08689511392058606,1.0362641178563443,Hill,15.384413146157602,0.5975729554384737,True,
+G3BP2_2545,,,,,,,False,No valid model fit
+G6PD_25228,,,,,,,False,No valid model fit
+G6PD_2548,,,,,,,False,No valid model fit
+GAA_2549,,,,,,,False,No valid model fit
+GAB1_12597,,,,,,,False,No valid model fit
+GAB3_23441,,,,,,,False,No valid model fit
+GABARAPL1_2552,,,,,,,False,No valid model fit
+GABPB1_2555,,,,,,,False,No valid model fit
+GADD45A_2569,0.11741459369659424,0.06113469963395393,0.41579827873667013,Exponential 5,22.38895908315678,0.45600352905040964,True,
+GALK2_22226,,,,,,,False,No valid model fit
+GALT_91226,,,,,,,False,No valid model fit
+GAL_18576,,,,,,,False,No valid model fit
+GAN_13055,,,,,,,False,No valid model fit
+GARS1_2590,,,,,,,False,No valid model fit
+GART_25362,,,,,,,False,No valid model fit
+GAS2L3_12115,,,,,,,False,No valid model fit
+GAS6_27253,0.30253888209410695,0.10224424154447087,0.9124288967168971,Hill,20.292972655511452,0.7011827704628644,True,
+GAS8_23801,,,,,,,False,No valid model fit
+GATAD1_13838,0.18335476959978758,0.05227605697671073,0.8674597105454152,Hill,7.929412571966204,0.38175241253933745,True,
+GATAD1_2604,,,,,,,False,No valid model fit
+GATAD2A_21149,,,,,,,False,No valid model fit
+GBP3_16959,,,,,,,False,No valid model fit
+GCC2_25195,,,,,,,False,No valid model fit
+GCH1_18455,,,,,,,False,No valid model fit
+GCLM_25908,,,,,,,False,No valid model fit
+GCLM_2615,,,,,,,False,No valid model fit
+GCNA_18701,,,,,,,False,No valid model fit
+GCSH_92816,,,,,,,False,No valid model fit
+GDE1_11040,,,,,,,False,No valid model fit
+GDF11_22582,,,,,,,False,No valid model fit
+GDF7_15077,,,,,,,False,No valid model fit
+GDPD1_2627,,,,,,,False,No valid model fit
+GEMIN8_11362,,,,,,,False,No valid model fit
+GFM1_11380,,,,,,,False,No valid model fit
+GFOD1_2633,,,,,,,False,No valid model fit
+GFOD1_2634,,,,,,,False,No valid model fit
+GFOD1_28179,2.243307492709489,0.537482757620027,9.601932265510364,Hill,35.57369498053643,0.6206623420230553,True,
+GGA3_16612,,,,,,,False,No valid model fit
+GGACT_21918,,,,,,,False,No valid model fit
+GGCX_2638,,,,,,,False,No valid model fit
+GGT1_27266,0.08549967508417852,0.024695019176532197,0.4233969072331145,Hill,18.229084199823994,0.8846267193953735,True,
+GGT2_33651,,,,,,,False,No valid model fit
+GIPC1_24459,4.794988632202148,3.1021349349509357,-9999.0,Linear,25.826491836923978,0.17369570847016014,True,
+GIT1_16627,,,,,,,False,No valid model fit
+GJA1_2649,,,,,,,False,No valid model fit
+GJB2_2653,1.2583394429327546,0.25341128010381153,9.66209045923442,Hill,42.41469451825894,0.3140315896301602,True,
+GLDC_90919,2.754911291140905,0.3993516394634272,9.89624414888572,Hill,21.942916725932747,0.1745045962068994,True,
+GLDC_91385,,,,,,,False,No valid model fit
+GLG1_90282,,,,,,,False,No valid model fit
+GLI2_2664,,,,,,,False,No valid model fit
+GLIDR_4155,6.397724151611328,3.7334989182016014,22.112670293293167,Linear,22.243310590828187,0.12883939146088896,True,
+GLO1_13655,,,,,,,False,No valid model fit
+GLRX_2674,,,,,,,False,No valid model fit
+GMDS_16555,1.8308818340301514,1.4456646114460014,6.641868536788732,Polynomial 2,27.334117822077964,0.6400350120210936,True,
+GMPPB_13520,2.21895694732666,1.6453098744160313,3.3466462487793693,Linear,-20.151296373081102,0.19408271944637345,True,
+GMPR2_90439,,,,,,,False,No valid model fit
+GMPR_12707,,,,,,,False,No valid model fit
+GNA12_13995,,,,,,,False,No valid model fit
+GNB1L_89611,5.75869083404541,2.367316437399475,7.5682044406577775,Polynomial 2,24.780699892434107,0.9533646622466776,True,
+GNB1_33698,5.287644863128662,3.2895871989711987,13.341890069294706,Linear,29.903458631961342,0.32234148637797455,True,
+GNB4_16287,,,,,,,False,No valid model fit
+GNG12_23859,,,,,,,False,No valid model fit
+GNG2_16748,,,,,,,False,No valid model fit
+GNG5_33594,,,,,,,False,No valid model fit
+GNL2_23197,,,,,,,False,No valid model fit
+GNL3L_19924,,,,,,,False,No valid model fit
+GNPDA1_28283,1.152099370956421,1.1237032382927727,1.1806434510130361,Linear,8.026834259189833,0.8476174770172733,True,
+GNPTG_17123,,,,,,,False,No valid model fit
+GOLGA6L22_33987,8.718494142162665,4.488633943774176,146.96490726743664,Power,65.18473519852888,0.12147799595013953,True,
+GOLGA6L9_14624,,,,,,,False,No valid model fit
+GOLGA8A_19056,,,,,,,False,No valid model fit
+GOLGA8B_17416,,,,,,,False,No valid model fit
+GOLT1B_2734,,,,,,,False,No valid model fit
+GOSR2_92525,,,,,,,False,No valid model fit
+GOT2_28889,,,,,,,False,No valid model fit
+GPC2_24956,,,,,,,False,No valid model fit
+GPC4_11583,,,,,,,False,No valid model fit
+GPI_2753,,,,,,,False,No valid model fit
+GPKOW_26172,,,,,,,False,No valid model fit
+GPR135_11017,,,,,,,False,No valid model fit
+GPR153_13715,,,,,,,False,No valid model fit
+GPR162_14385,5.712200403213501,2.5106905226507243,7.477764750605896,Polynomial 2,50.74038777001635,0.4704397234922122,True,
+GPR180_16000,,,,,,,False,No valid model fit
+GPR27_33502,,,,,,,False,No valid model fit
+GPR50_89779,,,,,,,False,No valid model fit
+GPS1_93021,,,,,,,False,No valid model fit
+GPSM1_12818,,,,,,,False,No valid model fit
+GPSM1_27288,,,,,,,False,No valid model fit
+GPSM1_28835,,,,,,,False,No valid model fit
+GPX3_25814,,,,,,,False,No valid model fit
+GRAMD4_12532,,,,,,,False,No valid model fit
+GRB14_22206,,,,,,,False,No valid model fit
+GRB2_2774,,,,,,,False,No valid model fit
+GRIPAP1_22138,,,,,,,False,No valid model fit
+GRPEL1_87909,,,,,,,False,No valid model fit
+GRSF1_2801,,,,,,,False,No valid model fit
+GRWD1_2804,,,,,,,False,No valid model fit
+GSE1_20489,,,,,,,False,No valid model fit
+GSK3A_2809,,,,,,,False,No valid model fit
+GSK3B_2810,,,,,,,False,No valid model fit
+GSPT1_12262,4.271025657653809,2.820043488858221,8.69622990760486,Linear,16.042105446005994,0.8606085816882668,True,
+GSPT1_2812,,,,,,,False,No valid model fit
+GSS_2814,3.4484456917764716,2.3892478243689963,9.698511172346207,Power,11.37290159819247,0.1972877705998899,True,
+GSTA4_88791,7.494454979896545,5.693706159134334,8.934378840594018,Exponential 3,38.697870980194196,0.22885997667613966,True,
+GSTCD_10914,,,,,,,False,No valid model fit
+GSTM4_91003,,,,,,,False,No valid model fit
+GSTO2_10986,,,,,,,False,No valid model fit
+GTF2F1_18383,,,,,,,False,No valid model fit
+GTF2H2C_19129,,,,,,,False,No valid model fit
+GTF2H2C_2837,,,,,,,False,No valid model fit
+GTF2IRD2B_25770,,,,,,,False,No valid model fit
+GTF3C2_2842,,,,,,,False,No valid model fit
+GTPBP3_91046,7.437539100646973,3.42260274866018,14.209096681267216,Polynomial 2,38.644877630686196,0.8573272419515361,True,
+GUCY1A2_18427,0.308376493336908,0.11214502968413725,0.9119232216467492,Hill,39.83968011496482,0.15048776024810206,True,
+GUCY1B1_11762,6.499456167221069,3.02893014925167,9.191927643411802,Polynomial 2,28.24496759914919,0.45093193446323665,True,
+GUF1_26146,,,,,,,False,No valid model fit
+GUSB_19359,0.595528781414032,0.13340253978655559,6.895579372331321,Exponential 5,31.29810836461801,0.20701065396716278,True,
+GZF1_88131,2.889089584350586,2.0667579776968585,4.726343521181484,Linear,23.02996153645841,0.7841119036256736,True,
+H1-0_22378,,,,,,,False,No valid model fit
+H1-10_22053,,,,,,,False,No valid model fit
+H1-2_2950,,,,,,,False,No valid model fit
+H1-4_14544,,,,,,,False,No valid model fit
+H1-5_14547,,,,,,,False,No valid model fit
+H2AC11_93175,,,,,,,False,No valid model fit
+H2AC13_12443,,,,,,,False,No valid model fit
+H2AC15_93271,,,,,,,False,No valid model fit
+H2AC18_33584,,,,,,,False,No valid model fit
+H2AC21_18134,0.44325676535697517,0.09125287152454112,2.3885776457633203,Hill,40.11245716392085,0.880697188263562,True,
+H2AC6_93104,,,,,,,False,No valid model fit
+H2BC11_92661,,,,,,,False,No valid model fit
+H2BC17_33950,,,,,,,False,No valid model fit
+H2BC3_93272,,,,,,,False,No valid model fit
+H2BC4_93105,,,,,,,False,No valid model fit
+H2BC5_92904,,,,,,,False,No valid model fit
+H3C10_2957,,,,,,,False,No valid model fit
+H3C2_12576,,,,,,,False,No valid model fit
+H3C8_19152,,,,,,,False,No valid model fit
+H4C14_33956,,,,,,,False,No valid model fit
+H4C5_2958,,,,,,,False,No valid model fit
+HAAO_88242,,,,,,,False,No valid model fit
+HACD3_5591,,,,,,,False,No valid model fit
+HACL1_2869,,,,,,,False,No valid model fit
+HARS1_12100,,,,,,,False,No valid model fit
+HAUS2_91135,,,,,,,False,No valid model fit
+HAUS4_13967,,,,,,,False,No valid model fit
+HAUS5_91284,,,,,,,False,No valid model fit
+HBP1_88473,,,,,,,False,No valid model fit
+HBP1_90275,0.06611529778668608,0.010919051079170876,0.5354312507379395,Hill,21.53072960480769,0.2237372881906663,True,
+HCCS_18692,,,,,,,False,No valid model fit
+HDAC5_91427,,,,,,,False,No valid model fit
+HDAC5_93392,,,,,,,False,No valid model fit
+HDAC5_93394,,,,,,,False,No valid model fit
+HDAC6_90749,6.11713171005249,3.6265498629760673,19.319198731541597,Linear,37.58902642265146,0.11276269457183796,True,
+HDAC6_91641,,,,,,,False,No valid model fit
+HDAC6_91698,,,,,,,False,No valid model fit
+HDHD5_18554,,,,,,,False,No valid model fit
+HEATR3_12162,,,,,,,False,No valid model fit
+HEATR5B_24749,,,,,,,False,No valid model fit
+HEBP1_2919,6.979556083679199,3.942331399712306,30.042831348803418,Linear,46.709080436248,0.12032618749926283,True,
+HEBP2_16009,,,,,,,False,No valid model fit
+HECTD2_89136,,,,,,,False,No valid model fit
+HEMK1_11439,,,,,,,False,No valid model fit
+HERC5_11373,,,,,,,False,No valid model fit
+HES6_26394,,,,,,,False,No valid model fit
+HESX1_24317,,,,,,,False,No valid model fit
+HEXA_2929,0.914224045877386,0.18558798051779107,9.573960222634923,Hill,32.87927166942626,0.9576412125619891,True,
+HEY1_27306,,,,,,,False,No valid model fit
+HFM1_23436,,,,,,,False,No valid model fit
+HGSNAT_89397,,,,,,,False,No valid model fit
+HGSNAT_90023,,,,,,,False,No valid model fit
+HHAT_15577,,,,,,,False,No valid model fit
+HHEX_17934,6.455906629562378,2.7828201201787324,9.084265017705738,Polynomial 2,37.326580262434504,0.9677424502946619,True,
+HHIP_12808,,,,,,,False,No valid model fit
+HIGD1A_93107,,,,,,,False,No valid model fit
+HIRIP3_23392,,,,,,,False,No valid model fit
+HJURP_2968,,,,,,,False,No valid model fit
+HK2_19363,,,,,,,False,No valid model fit
+HLA-DOA_23325,,,,,,,False,No valid model fit
+HLA-DQB1_19840,,,,,,,False,No valid model fit
+HLA-E_3000,,,,,,,False,No valid model fit
+HLF_15919,,,,,,,False,No valid model fit
+HMBS_25874,,,,,,,False,No valid model fit
+HMGB1_3023,,,,,,,False,No valid model fit
+HMGB2_92939,,,,,,,False,No valid model fit
+HMGCL_10876,,,,,,,False,No valid model fit
+HMGCR_3029,,,,,,,False,No valid model fit
+HMGCS1_92572,,,,,,,False,No valid model fit
+HMGN2_93206,,,,,,,False,No valid model fit
+HMGN5_15632,,,,,,,False,No valid model fit
+HMGXB3_91010,,,,,,,False,No valid model fit
+HMGXB4_25746,,,,,,,False,No valid model fit
+HMOX2_12484,,,,,,,False,No valid model fit
+HNRNPA0_19321,,,,,,,False,No valid model fit
+HNRNPA1L2_92807,,,,,,,False,No valid model fit
+HNRNPA1P48_88257,,,,,,,False,No valid model fit
+HNRNPA1_93310,4.370641708374023,2.868721136449187,9.067408808876719,Linear,38.6111083345831,0.976264614291324,True,
+HNRNPA1_93398,,,,,,,False,No valid model fit
+HNRNPA2B1_3054,6.18419885635376,2.6898565481170538,8.455545853144748,Polynomial 2,29.690523121131452,0.13656749424216352,True,
+HNRNPAB_93184,,,,,,,False,No valid model fit
+HNRNPF_3064,6.1928534507751465,2.817957495313464,8.470494686047793,Polynomial 2,2.6067049808447895,0.36460889547017605,True,
+HNRNPH2_33515,,,,,,,False,No valid model fit
+HNRNPL_92491,,,,,,,False,No valid model fit
+HNRNPR_23683,,,,,,,False,No valid model fit
+HNRNPUL2_18637,,,,,,,False,No valid model fit
+HOMER1_22238,,,,,,,False,No valid model fit
+HOOK2_87973,,,,,,,False,No valid model fit
+HOXA11_22028,1.0057717874682768,0.06809561991099969,966.3123117699298,Hill,64.10537409613602,0.8076486646165726,True,
+HOXA1_19858,,,,,,,False,No valid model fit
+HOXA4_90784,,,,,,,False,No valid model fit
+HOXB9_22606,,,,,,,False,No valid model fit
+HOXC10_20146,,,,,,,False,No valid model fit
+HOXC12_22463,,,,,,,False,No valid model fit
+HPCA_26095,5.572195053100586,3.4088612835664067,15.093888169549178,Linear,63.71398678118635,0.1583329775670883,True,
+HPF1_17501,3.965463638305664,2.6656694129110416,7.643670850354427,Linear,16.1761539439393,0.4816591373343815,True,
+HPS1_17529,,,,,,,False,No valid model fit
+HPS1_27331,,,,,,,False,No valid model fit
+HPS3_11822,4.582982063293457,2.971346962806974,9.909969858530971,Linear,14.531704843700547,0.18218518572665476,True,
+HPS5_21679,,,,,,,False,No valid model fit
+HS1BP3_19510,,,,,,,False,No valid model fit
+HS2ST1_3103,,,,,,,False,No valid model fit
+HS6ST3_20281,,,,,,,False,No valid model fit
+HSBP1L1_21598,,,,,,,False,No valid model fit
+HSBP1_15138,,,,,,,False,No valid model fit
+HSD17B11_3115,,,,,,,False,No valid model fit
+HSD17B13_16739,,,,,,,False,No valid model fit
+HSF4_33821,,,,,,,False,No valid model fit
+HSP90AA1_3127,,,,,,,False,No valid model fit
+HSPA1B_3136,,,,,,,False,No valid model fit
+HSPA4L_24177,,,,,,,False,No valid model fit
+HSPA4_3139,,,,,,,False,No valid model fit
+HSPA5_14023,,,,,,,False,No valid model fit
+HSPA6_21239,,,,,,,False,No valid model fit
+HSPA8_92548,,,,,,,False,No valid model fit
+HSPA8_92550,,,,,,,False,No valid model fit
+HSPA8_92551,,,,,,,False,No valid model fit
+HSPA8_93357,3.107309341430664,2.1953502424445266,5.237715163050965,Linear,20.922245332474517,0.16698923879219463,True,
+HSPD1_92838,0.44939701363576323,0.11765630412282103,2.0731932425499235,Hill,53.95514035108798,0.8693009978276072,True,
+HSPD1_92839,,,,,,,False,No valid model fit
+HSPD1_93360,,,,,,,False,No valid model fit
+HSPE1_92598,,,,,,,False,No valid model fit
+HSPH1_11423,,,,,,,False,No valid model fit
+HYAL2_18942,,,,,,,False,No valid model fit
+HYOU1_3177,,,,,,,False,No valid model fit
+HYPK_3180,,,,,,,False,No valid model fit
+IARS1_88338,,,,,,,False,No valid model fit
+IBTK_25569,,,,,,,False,No valid model fit
+ID4_10936,,,,,,,False,No valid model fit
+IDE_3201,,,,,,,False,No valid model fit
+IDH3B_11112,0.33481731120721275,0.10536823597501971,-9999.0,Hill,29.680097696044164,0.22264187408993086,True,
+IDI1_92378,,,,,,,False,No valid model fit
+IDNK_11284,,,,,,,False,No valid model fit
+IDS_25235,,,,,,,False,No valid model fit
+IFI30_22048,,,,,,,False,No valid model fit
+IFI30_3216,,,,,,,False,No valid model fit
+IFIT1_3219,1.3100208769896884,0.29370794796578253,9.6369456582749,Hill,23.167332797562686,0.15096354176118298,True,
+IFITM1_3226,,,,,,,False,No valid model fit
+IFNAR2_10770,7.952768802642822,3.865366099779858,19.734445814677894,Polynomial 2,47.25093743804386,0.41976921249041477,True,
+IFRD1_27344,,,,,,,False,No valid model fit
+IFRD2_3246,1.5180335519918757,0.12211097011691793,-9999.0,Hill,48.270475368163424,0.8715384127360294,True,
+IFT122_91143,,,,,,,False,No valid model fit
+IFT122_91391,,,,,,,False,No valid model fit
+IFT122_91624,,,,,,,False,No valid model fit
+IFT140_17674,,,,,,,False,No valid model fit
+IFT46_15294,,,,,,,False,No valid model fit
+IFT57_92591,,,,,,,False,No valid model fit
+IFT80_11002,,,,,,,False,No valid model fit
+IFT88_87478,,,,,,,False,No valid model fit
+IGBP1_15620,,,,,,,False,No valid model fit
+IGDCC3_26459,,,,,,,False,No valid model fit
+IGFBP2_21122,0.11723140381035374,0.030123722671725507,0.5011440143211644,Hill,16.02132189902282,0.3079062573748983,True,
+IGFBP4_3271,,,,,,,False,No valid model fit
+IGFLR1_91376,7.219544053077698,3.3600628757497066,12.187341590349622,Polynomial 2,51.53256337562907,0.7525605228496859,True,
+IGLL1_11899,,,,,,,False,No valid model fit
+IKZF2_26537,,,,,,,False,No valid model fit
+IL15RA_27350,,,,,,,False,No valid model fit
+IL17RA_23406,,,,,,,False,No valid model fit
+IL17RB_21346,,,,,,,False,No valid model fit
+IL17RC_19302,1.6278072873207252,0.30572440887893215,9.79009853141704,Hill,41.79299743818833,0.3343889388226823,True,
+IL17RD_25048,0.3088191747249264,0.10782911080351582,0.9269532945679276,Hill,43.83688638114842,0.19144690706344647,True,
+IL18R1_28357,5.055114030838013,3.1875121958338775,12.0842443000479,Linear,46.41314994910026,0.6989462048745865,True,
+IL1RAP_17980,,,,,,,False,No valid model fit
+ILF2_3354,,,,,,,False,No valid model fit
+IMMP1L_23227,,,,,,,False,No valid model fit
+IMMP2L_19855,,,,,,,False,No valid model fit
+IMP4_24629,,,,,,,False,No valid model fit
+IMPACT_24131,,,,,,,False,No valid model fit
+IMPDH1_92511,2.923218011856079,2.0870358490718455,4.804204477962404,Linear,25.286723105455042,0.8729759514938766,True,
+ING1_12019,,,,,,,False,No valid model fit
+ING2_11768,,,,,,,False,No valid model fit
+ING3_16341,3.447221162287347,2.3885901805481184,9.729309620724191,Power,0.9222088748873816,0.8451119717219948,True,
+ING4_13478,,,,,,,False,No valid model fit
+INO80B_33691,5.841267108917236,3.519114375185704,17.014098429827026,Linear,35.79228128656352,0.9607273082112012,True,
+INPP1_29011,1.2946981257895371,0.12736928668783165,9.970756843529605,Hill,38.22905425591711,0.85849418163974,True,
+INPP4A_22995,,,,,,,False,No valid model fit
+INPP5D_20488,,,,,,,False,No valid model fit
+INPP5J_3381,,,,,,,False,No valid model fit
+INSIG1_3385,5.768266916275024,2.4081007814737596,7.587050288785504,Polynomial 2,19.17664478699058,0.7411126968732282,True,
+INTS3_91538,,,,,,,False,No valid model fit
+IP6K2_27355,,,,,,,False,No valid model fit
+IP6K2_28897,6.414752006530762,2.9117225994450213,8.984272565197951,Polynomial 2,23.940190864237113,0.32242704473408046,True,
+IPO4_17138,5.7779853411654605,3.493732723726804,16.5363678082757,Power,30.559907074049825,0.9129732678209043,True,
+IPPK_11524,,,,,,,False,No valid model fit
+IPP_11562,5.231777276587741,3.2644768193233475,13.026506815296317,Power,30.697278522132727,0.308463795359629,True,
+IQANK1_88393,,,,,,,False,No valid model fit
+IQGAP2_17066,,,,,,,False,No valid model fit
+IQGAP3_14391,,,,,,,False,No valid model fit
+IRAK1_22997,,,,,,,False,No valid model fit
+IRAK4_3407,,,,,,,False,No valid model fit
+IRF2BPL_13703,6.213994026184082,3.003105312691642,8.517557416769218,Polynomial 2,58.91227214216251,0.20813540599660374,True,
+IRF2_21246,,,,,,,False,No valid model fit
+IRS1_20491,,,,,,,False,No valid model fit
+IRS2_21012,,,,,,,False,No valid model fit
+ISCA1_92756,,,,,,,False,No valid model fit
+ISG15_3415,,,,,,,False,No valid model fit
+ISG20L2_23500,,,,,,,False,No valid model fit
+ISL1_11752,0.31800739968246416,0.11621002337179145,0.8957973875274116,Hill,28.37962013888203,0.10712646394138803,True,
+ISM2_90487,,,,,,,False,No valid model fit
+ISOC2_14169,,,,,,,False,No valid model fit
+ITFG1_3424,,,,,,,False,No valid model fit
+ITGA2B_25133,,,,,,,False,No valid model fit
+ITGB5_3450,5.645273923873901,3.4387422104185488,15.588122213650092,Linear,58.52351864496476,0.9768006216630442,True,
+ITM2B_3452,,,,,,,False,No valid model fit
+ITPA_26342,,,,,,,False,No valid model fit
+ITPR2_87888,,,,,,,False,No valid model fit
+IVNS1ABP_14113,,,,,,,False,No valid model fit
+IWS1_15910,0.3541653449014825,0.0693620568838296,1.6509726921527623,Hill,9.570469412704636,0.537938778060014,True,
+JARID2_10461,,,,,,,False,No valid model fit
+JDP2_18999,,,,,,,False,No valid model fit
+JMJD6_3471,,,,,,,False,No valid model fit
+JMJD8_15047,6.4175355434417725,2.797405686847288,8.990959148800778,Polynomial 2,22.72486591406359,0.17372506849210756,True,
+JMY_12949,,,,,,,False,No valid model fit
+JPT2_3042,,,,,,,False,No valid model fit
+JPT2_88578,,,,,,,False,No valid model fit
+JUN_89022,,,,,,,False,No valid model fit
+KAT2B_22724,,,,,,,False,No valid model fit
+KAT6A_3486,,,,,,,False,No valid model fit
+KATNA1_3491,,,,,,,False,No valid model fit
+KCNB1_91473,,,,,,,False,No valid model fit
+KCNJ11_17384,,,,,,,False,No valid model fit
+KCNK2_25989,0.8194666243060335,0.11101440564424678,7.091097769746292,Hill,42.95818642723406,0.6465391111104333,True,
+KCNQ5_18458,,,,,,,False,No valid model fit
+KCTD11_89870,,,,,,,False,No valid model fit
+KCTD12_11921,,,,,,,False,No valid model fit
+KCTD18_16699,,,,,,,False,No valid model fit
+KCTD19_89872,6.598208546638489,3.081530839655339,9.445540529933096,Polynomial 2,61.02986815717448,0.5945530445608753,True,
+KCTD1_21439,,,,,,,False,No valid model fit
+KCTD2_3533,,,,,,,False,No valid model fit
+KDELR1_3537,,,,,,,False,No valid model fit
+KDELR3_13613,,,,,,,False,No valid model fit
+KDM1A_23476,,,,,,,False,No valid model fit
+KDM3B_24281,,,,,,,False,No valid model fit
+KDM5B_91418,,,,,,,False,No valid model fit
+KHSRP_3551,,,,,,,False,No valid model fit
+KIAA1217_13013,,,,,,,False,No valid model fit
+KIAA1217_27395,,,,,,,False,No valid model fit
+KIAA1614_20559,,,,,,,False,No valid model fit
+KIF13A_22151,,,,,,,False,No valid model fit
+KIF17_17581,3.0298714162209435,0.16393765875248117,10.097811767922312,Hill,25.73406261935166,0.2582678637807161,True,
+KIF1A_18848,,,,,,,False,No valid model fit
+KIF1C_26242,,,,,,,False,No valid model fit
+KIF21B_88098,,,,,,,False,No valid model fit
+KIF27_26112,,,,,,,False,No valid model fit
+KIF3B_18301,0.3462946263152149,0.10432281951875239,-9999.0,Hill,33.490479944502184,0.17903550374714705,True,
+KIFAP3_22932,3.7035346031188965,2.5288775458666075,6.83224292160828,Linear,19.82291642112459,0.7836757322265356,True,
+KIFBP_3583,,,,,,,False,No valid model fit
+KIRREL1_22820,,,,,,,False,No valid model fit
+KLF10_11941,,,,,,,False,No valid model fit
+KLF12_12349,,,,,,,False,No valid model fit
+KLF15_17367,,,,,,,False,No valid model fit
+KLF5_20609,,,,,,,False,No valid model fit
+KLF6_3626,,,,,,,False,No valid model fit
+KLHDC1_13148,,,,,,,False,No valid model fit
+KLHDC2_3630,,,,,,,False,No valid model fit
+KLHL18_17560,,,,,,,False,No valid model fit
+KLHL21_3635,,,,,,,False,No valid model fit
+KLHL22_11503,,,,,,,False,No valid model fit
+KLHL24_20638,,,,,,,False,No valid model fit
+KLHL25_19012,,,,,,,False,No valid model fit
+KLHL26_12618,6.605658531188965,3.8104481165206296,24.555149912501562,Linear,37.35859425312988,0.18674543591284165,True,
+KLRC2_12242,3.9586949348449707,2.6622209089642745,7.6217935674767245,Linear,35.615027467000864,0.8142380399664418,True,
+KMT2A_27405,6.270517110824585,2.800993351413299,8.646118270477647,Polynomial 2,25.22170904701637,0.7840266253024331,True,
+KMT2B_21566,,,,,,,False,No valid model fit
+KMT2E_3661,3.865482709564439,2.6139029355059695,9.854955851188656,Power,43.97896199019591,0.9994737875279996,True,
+KMT5A_22149,,,,,,,False,No valid model fit
+KMT5B_10757,,,,,,,False,No valid model fit
+KNTC1_22269,,,,,,,False,No valid model fit
+KPNA1_12239,4.607934951782227,2.983083166575673,10.013964340643549,Linear,14.94942024605414,0.9712847488142441,True,
+KPNA2_3669,,,,,,,False,No valid model fit
+KPNA4_12244,,,,,,,False,No valid model fit
+KRBOX4_25794,,,,,,,False,No valid model fit
+KRR1_21479,0.3161870425314186,0.10799499944299967,0.9066947247479351,Hill,9.157642668508746,0.459341937270877,True,
+KRT19_10816,,,,,,,False,No valid model fit
+KRT8_19801,,,,,,,False,No valid model fit
+KRTAP19-1_19257,,,,,,,False,No valid model fit
+KSR1_25248,,,,,,,False,No valid model fit
+KTI12_27423,,,,,,,False,No valid model fit
+KTN1_3708,,,,,,,False,No valid model fit
+L1CAM_12063,5.152559280395508,3.2300482303791576,12.594428604800544,Linear,54.27450940917117,0.8638952965665014,True,
+L3MBTL2_24136,,,,,,,False,No valid model fit
+L3MBTL3_18907,,,,,,,False,No valid model fit
+LACTB_23770,,,,,,,False,No valid model fit
+LAD1_10562,,,,,,,False,No valid model fit
+LAGE3_3716,,,,,,,False,No valid model fit
+LAMB2_21018,,,,,,,False,No valid model fit
+LAMB2_3721,,,,,,,False,No valid model fit
+LAMP1_3730,,,,,,,False,No valid model fit
+LAMP2_23159,5.9880757331848145,2.6402654591258354,8.029300923874363,Polynomial 2,0.8532360026637527,0.5524205019372297,True,
+LAMTOR5_33769,,,,,,,False,No valid model fit
+LARP1B_92798,,,,,,,False,No valid model fit
+LARP4B_18731,,,,,,,False,No valid model fit
+LARP4_92916,,,,,,,False,No valid model fit
+LARP6_19123,,,,,,,False,No valid model fit
+LARS1_3750,,,,,,,False,No valid model fit
+LARS2_18400,,,,,,,False,No valid model fit
+LBX2_88377,,,,,,,False,No valid model fit
+LCMT1_21967,,,,,,,False,No valid model fit
+LCMT2_26119,,,,,,,False,No valid model fit
+LDB1_15375,,,,,,,False,No valid model fit
+LDHA_3766,,,,,,,False,No valid model fit
+LDLR_19353,,,,,,,False,No valid model fit
+LEKR1_22011,,,,,,,False,No valid model fit
+LENG1_16214,,,,,,,False,No valid model fit
+LENG8_13024,,,,,,,False,No valid model fit
+LENG9_89607,2.965819835662842,2.112310822756693,4.9030075689518835,Linear,42.1808359535145,0.848423103703583,True,
+LEO1_18270,,,,,,,False,No valid model fit
+LETM1_12773,,,,,,,False,No valid model fit
+LETMD1_12057,,,,,,,False,No valid model fit
+LHX9_14024,2.5735390186309814,1.8725696170214272,4.044724728720382,Linear,32.382876732428514,0.9255088912377218,True,
+LIG1_3795,,,,,,,False,No valid model fit
+LIG4_3798,,,,,,,False,No valid model fit
+LIMS2_21296,,,,,,,False,No valid model fit
+LIMS3_33995,,,,,,,False,No valid model fit
+LIN28B_87419,2.5674021244049072,1.8686946879684423,4.032075559412437,Linear,18.622220677745098,0.8073422297730724,True,
+LIN37_13327,,,,,,,False,No valid model fit
+LIN7C_17178,,,,,,,False,No valid model fit
+LINC00869_3808,,,,,,,False,No valid model fit
+LINC01619_11025,4.886560440063477,3.112322366059865,11.254657984838994,Linear,65.22527437277729,0.40023164961324775,True,
+LINGO1_18522,5.146918296813965,3.227620406199356,12.564524620508365,Linear,38.491919581659225,0.6040727883427403,True,
+LIPA_3812,,,,,,,False,No valid model fit
+LLPH_92803,,,,,,,False,No valid model fit
+LMBR1_13296,,,,,,,False,No valid model fit
+LMBRD2_22660,,,,,,,False,No valid model fit
+LMCD1_15007,1.3996587994549528,0.1614168346184922,9.834119643994953,Hill,23.976045072088727,0.5963201447138077,True,
+LMF1_91496,,,,,,,False,No valid model fit
+LOXL1_3850,,,,,,,False,No valid model fit
+LPCAT3_20528,,,,,,,False,No valid model fit
+LRFN4_11101,,,,,,,False,No valid model fit
+LRIG1_23124,,,,,,,False,No valid model fit
+LRIT3_21714,,,,,,,False,No valid model fit
+LRP11_23274,,,,,,,False,No valid model fit
+LRP2BP_87619,,,,,,,False,No valid model fit
+LRP4_21958,,,,,,,False,No valid model fit
+LRP5_28826,,,,,,,False,No valid model fit
+LRP8_13959,,,,,,,False,No valid model fit
+LRPPRC_11701,,,,,,,False,No valid model fit
+LRRC36_28703,,,,,,,False,No valid model fit
+LRRC3_88992,7.329390048980713,3.553459635247707,12.66520020116008,Polynomial 2,35.747496240785665,0.12908546005286248,True,
+LRRC49_13610,,,,,,,False,No valid model fit
+LRRC58_24723,,,,,,,False,No valid model fit
+LRRC70_27457,,,,,,,False,No valid model fit
+LRRC75B_18797,,,,,,,False,No valid model fit
+LRRIQ3_90052,,,,,,,False,No valid model fit
+LRRK2_14901,,,,,,,False,No valid model fit
+LRRN2_20666,,,,,,,False,No valid model fit
+LSM12_92915,,,,,,,False,No valid model fit
+LSM2_93219,,,,,,,False,No valid model fit
+LSM6_92941,,,,,,,False,No valid model fit
+LSS_14888,,,,,,,False,No valid model fit
+LTA4H_13377,,,,,,,False,No valid model fit
+LTBP2_12634,,,,,,,False,No valid model fit
+LTBP3_23163,,,,,,,False,No valid model fit
+LTN1_24231,,,,,,,False,No valid model fit
+LTV1_17253,,,,,,,False,No valid model fit
+LUC7L2_27469,,,,,,,False,No valid model fit
+LUC7L3_26506,0.17087332204341607,0.043048938836305395,0.90918152155048,Hill,8.343176092076561,0.9491324112712977,True,
+LY6E_13965,2.618666597153489,1.9007857580957586,9.525719745455874,Power,23.179150954778365,0.5088928553332692,True,
+LYAR_12352,,,,,,,False,No valid model fit
+LYPLA1_92639,,,,,,,False,No valid model fit
+LYPLA1_92640,,,,,,,False,No valid model fit
+LYPLA2_92335,,,,,,,False,No valid model fit
+LYRM1_3916,,,,,,,False,No valid model fit
+LYRM9_13690,,,,,,,False,No valid model fit
+LZTFL1_27477,,,,,,,False,No valid model fit
+MACO1_22442,,,,,,,False,No valid model fit
+MACROD1_23542,,,,,,,False,No valid model fit
+MACROH2A1_13657,,,,,,,False,No valid model fit
+MAD1L1_90612,,,,,,,False,No valid model fit
+MAD1L1_91673,4.887265563011169,2.17149517758024,10.320241707679845,Polynomial 2,38.2833979104364,0.43032942266941243,True,
+MAGED4_14370,,,,,,,False,No valid model fit
+MAGI2_19471,,,,,,,False,No valid model fit
+MAGIX_19619,4.497400522232056,2.9308995958079804,9.561239759789045,Linear,54.69801472642558,0.8508947363180667,True,
+MAK16_25337,,,,,,,False,No valid model fit
+MALSU1_11919,,,,,,,False,No valid model fit
+MAN1A1_12471,6.316628456115723,2.735415294514958,8.753891226372252,Polynomial 2,5.910480827896736,0.9747645813643403,True,
+MAN2A2_3946,,,,,,,False,No valid model fit
+MAN2C1_91596,4.985610246658325,3.156831136537151,11.73467370277603,Linear,67.09912126960147,0.5149617062519297,True,
+MAP1A_88384,,,,,,,False,No valid model fit
+MAP1B_12472,,,,,,,False,No valid model fit
+MAP2K1_93014,,,,,,,False,No valid model fit
+MAP2K3_3971,,,,,,,False,No valid model fit
+MAP2K5_3975,,,,,,,False,No valid model fit
+MAP2K7_23968,,,,,,,False,No valid model fit
+MAP2K7_3976,,,,,,,False,No valid model fit
+MAP2_26319,,,,,,,False,No valid model fit
+MAP3K12_14729,,,,,,,False,No valid model fit
+MAP3K1_22897,,,,,,,False,No valid model fit
+MAP3K4_3982,,,,,,,False,No valid model fit
+MAP3K5_12947,0.22921053560114105,0.0315026904561769,1.7584005760247925,Hill,58.31951228078224,0.7472880931089274,True,
+MAP4K1_23298,,,,,,,False,No valid model fit
+MAP4K3_15991,,,,,,,False,No valid model fit
+MAP6_23670,,,,,,,False,No valid model fit
+MAPK11_22952,,,,,,,False,No valid model fit
+MAPK12_25181,,,,,,,False,No valid model fit
+MAPK15_22553,,,,,,,False,No valid model fit
+MAPK3_28956,0.6361222267150879,0.2928639409798618,2.147813409374169,Exponential 5,18.146486727128984,0.1948079542488652,True,
+MAPKAP1_26368,,,,,,,False,No valid model fit
+MAPKAPK2_4012,,,,,,,False,No valid model fit
+MAPKAPK3_4013,,,,,,,False,No valid model fit
+MAPKBP1_16608,,,,,,,False,No valid model fit
+MARC1_18722,,,,,,,False,No valid model fit
+MARCHF7_90072,,,,,,,False,No valid model fit
+MARF1_14716,,,,,,,False,No valid model fit
+MARK1_20404,,,,,,,False,No valid model fit
+MARS1_4025,,,,,,,False,No valid model fit
+MARS2_13348,6.553725004196167,2.863157781959757,9.330300506830202,Polynomial 2,35.0861843495147,0.9875416813322373,True,
+MATK_4040,,,,,,,False,No valid model fit
+MAZ_12836,,,,,,,False,No valid model fit
+MAZ_4047,3.614678382873535,2.4812200408101557,6.574315078189892,Linear,21.529520358098484,0.5019040216298019,True,
+MBOAT1_12739,,,,,,,False,No valid model fit
+MBOAT7_4061,6.0379767417907715,5.106706519832517,6.538326180243994,Linear,63.41094225971071,0.1474293667097909,True,
+MBTPS1_91104,,,,,,,False,No valid model fit
+MCAM_12429,,,,,,,False,No valid model fit
+MCAT_11527,,,,,,,False,No valid model fit
+MCCC2_22670,,,,,,,False,No valid model fit
+MCFD2_22706,,,,,,,False,No valid model fit
+MCM3AP_26475,,,,,,,False,No valid model fit
+MCM5_20934,,,,,,,False,No valid model fit
+MCM6_20957,,,,,,,False,No valid model fit
+MCOLN2_22227,,,,,,,False,No valid model fit
+MCRIP1_16317,,,,,,,False,No valid model fit
+MCRIP2_20098,,,,,,,False,No valid model fit
+MCRS1_21045,,,,,,,False,No valid model fit
+MCUR1_4086,,,,,,,False,No valid model fit
+MDC1_14718,,,,,,,False,No valid model fit
+MDGA2_13541,,,,,,,False,No valid model fit
+MDH1B_17665,,,,,,,False,No valid model fit
+MDH1_4087,4.292960166931152,2.8308383056100794,8.776592549671115,Linear,29.40101084489343,0.11111145592889349,True,
+MDH2_20964,0.7607356628288025,0.2202849386473427,4.620487844242451,Hill,11.465634813783685,0.9419511442972628,True,
+MDK_16100,,,,,,,False,No valid model fit
+MDM2_27496,,,,,,,False,No valid model fit
+MDM2_27497,,,,,,,False,No valid model fit
+ME1_16747,,,,,,,False,No valid model fit
+MED12L_18187,,,,,,,False,No valid model fit
+MED20_22241,7.431098222732544,3.410567997157398,14.181100978994241,Polynomial 2,43.98180196718219,0.8416041748156047,True,
+MED21_4109,,,,,,,False,No valid model fit
+MED27_14889,,,,,,,False,No valid model fit
+MED29_18077,,,,,,,False,No valid model fit
+MED31_21109,4.937176704406738,4.881312401620482,6.2295452436923595,Polynomial 2,9.809603775724982,0.5892735842054448,True,
+MED7_22236,5.546858310699463,3.398416471760169,14.927816246493986,Linear,40.3993527616347,0.15473576236252595,True,
+MED8_14647,,,,,,,False,No valid model fit
+MED9_20295,6.270395517349243,2.872140381808545,8.645804668668664,Polynomial 2,30.363601828347242,0.37278713181455725,True,
+MEF2D_4115,6.659550666809082,2.927396557300031,9.602042483992125,Polynomial 2,30.11829353090304,0.8986503230795566,True,
+MEOX1_13790,,,,,,,False,No valid model fit
+MEP1B_28952,6.32234513759613,2.9846909768360295,8.767209764040802,Polynomial 2,57.02329230494793,0.35432646390472466,True,
+METTL1_10860,,,,,,,False,No valid model fit
+METTL24_18695,,,,,,,False,No valid model fit
+METTL27_26134,,,,,,,False,No valid model fit
+METTL5_92784,,,,,,,False,No valid model fit
+METTL7A_26293,,,,,,,False,No valid model fit
+MFAP3L_16121,,,,,,,False,No valid model fit
+MFAP3_22545,6.669292449951172,3.141353309167561,9.628048364576212,Polynomial 2,11.875584616904257,0.2888884048651217,True,
+MFSD12_21763,,,,,,,False,No valid model fit
+MGAT4A_21666,0.7501769065856934,0.3647663330463694,1.7520662929324318,Exponential 5,22.924628693480187,0.16599089354339425,True,
+MGME1_16126,,,,,,,False,No valid model fit
+MGST1_18055,,,,,,,False,No valid model fit
+MIA_24025,,,,,,,False,No valid model fit
+MIB1_24271,7.134716510772705,3.2286491287172474,11.800933054906208,Polynomial 2,21.606624805528003,0.24609670041595055,True,
+MIB2_25307,,,,,,,False,No valid model fit
+MICAL2_15126,,,,,,,False,No valid model fit
+MIER2_15186,,,,,,,False,No valid model fit
+MIGA2_15888,7.166861295700073,3.2379321991102112,12.062288427737734,Polynomial 2,38.83312119058603,0.6686298138100014,True,
+MIS18A_26226,,,,,,,False,No valid model fit
+MIS18BP1_24197,,,,,,,False,No valid model fit
+MKNK1_4185,7.5791335105896,3.726569235662886,14.836490909469473,Polynomial 2,37.07718268199202,0.15085875289524575,True,
+MKRN1_19219,,,,,,,False,No valid model fit
+MKS1_18955,,,,,,,False,No valid model fit
+MKX_24351,,,,,,,False,No valid model fit
+MLF2_16891,4.032001495361328,2.3244507344052905,4.890304554846701,Linear,33.36860516455591,0.27503844981709424,True,
+MLXIP_25049,7.122924327850342,3.4106444165616914,11.190834168317192,Polynomial 2,35.74583542884984,0.6561474861126425,True,
+MMADHC_10852,4.298923015594482,2.833756983725912,8.798951590038968,Linear,33.69320979358175,0.3737781157587543,True,
+MME_21443,,,,,,,False,No valid model fit
+MMP14_15865,,,,,,,False,No valid model fit
+MMP15_88664,,,,,,,False,No valid model fit
+MMP2_27519,,,,,,,False,No valid model fit
+MND1_13458,,,,,,,False,No valid model fit
+MNX1_4226,,,,,,,False,No valid model fit
+MOCOS_15371,2.1151959896087646,1.5181455361283238,4.521495716024322,Linear,22.716675390646422,0.5235369277431098,True,
+MON1A_22067,,,,,,,False,No valid model fit
+MORC4_14938,,,,,,,False,No valid model fit
+MOV10_15708,,,,,,,False,No valid model fit
+MPC2_4243,1.65283203125,1.1484540378468164,3.4145983249665157,Linear,20.587981169692654,0.1251339939423477,True,
+MPDU1_11661,4.266064453061588,0.4349835118050627,10.116718200566282,Hill,27.062248377548542,0.3556092985490129,True,
+MPG_24816,,,,,,,False,No valid model fit
+MPHOSPH10_15286,,,,,,,False,No valid model fit
+MPHOSPH9_4245,,,,,,,False,No valid model fit
+MPI_91163,4.15906542189255,2.764861895861088,9.844988798222342,Power,9.632010473796635,0.14396673544558802,True,
+MPND_12434,,,,,,,False,No valid model fit
+MPP1_90019,,,,,,,False,No valid model fit
+MPV17L2_24172,0.12633984183237693,0.02280504936955179,0.8259985614486742,Hill,27.33699095242374,0.8600018473733927,True,
+MR1_15135,,,,,,,False,No valid model fit
+MRAP2_12860,,,,,,,False,No valid model fit
+MRC2_26418,,,,,,,False,No valid model fit
+MRI1_15045,3.4976017475128174,1.7785301893114691,10.714968661752431,Linear,25.67045537951212,0.2526271365480628,True,
+MRM3_21272,,,,,,,False,No valid model fit
+MROH1_27528,,,,,,,False,No valid model fit
+MRPL10_14650,,,,,,,False,No valid model fit
+MRPL12_4260,,,,,,,False,No valid model fit
+MRPL13_4261,,,,,,,False,No valid model fit
+MRPL18_26551,,,,,,,False,No valid model fit
+MRPL18_4265,,,,,,,False,No valid model fit
+MRPL27_4270,6.226804371355729,3.6696654451176034,20.349968190139155,Power,46.66206012251803,0.9692901947554406,True,
+MRPL32_92514,,,,,,,False,No valid model fit
+MRPL35_92727,,,,,,,False,No valid model fit
+MRPL35_92728,,,,,,,False,No valid model fit
+MRPL39_13523,,,,,,,False,No valid model fit
+MRPL42_4284,,,,,,,False,No valid model fit
+MRPL46_14821,,,,,,,False,No valid model fit
+MRPL4_19061,,,,,,,False,No valid model fit
+MRPL58_3192,,,,,,,False,No valid model fit
+MRPS12_11286,1.7019090448464682,0.20041921315851874,9.979182852188973,Hill,35.05108648840934,0.7449158119258974,True,
+MRPS17_4291,,,,,,,False,No valid model fit
+MRPS23_4296,,,,,,,False,No valid model fit
+MRPS25_92720,,,,,,,False,No valid model fit
+MRPS28_4299,,,,,,,False,No valid model fit
+MRPS2_4292,0.4465380619112882,0.1581305870336056,1.1133872422451832,Hill,24.710218689540348,0.9725918462899095,True,
+MRPS31_92464,,,,,,,False,No valid model fit
+MRPS7_92670,,,,,,,False,No valid model fit
+MRRF_92863,,,,,,,False,No valid model fit
+MRTO4_92363,,,,,,,False,No valid model fit
+MSANTD3_92377,4.978242680238169,3.1535660457281223,11.697735205179914,Power,14.404176042442927,0.5227502191636866,True,
+MSANTD4_14989,5.844160318374634,2.4650174305249357,7.739253782287864,Polynomial 2,22.469507500998834,0.8974697471586457,True,
+MSH3_22109,,,,,,,False,No valid model fit
+MSH5-SAPCD1_18897,,,,,,,False,No valid model fit
+MSH5_33768,,,,,,,False,No valid model fit
+MSI2_28267,,,,,,,False,No valid model fit
+MSMO1_4315,,,,,,,False,No valid model fit
+MSRB1_87742,4.751935005187988,3.049744357451019,10.636686810393805,Linear,32.17115829856711,0.8418586953667507,True,
+MSRB2_21430,,,,,,,False,No valid model fit
+MST1L_22368,,,,,,,False,No valid model fit
+MST1_24152,,,,,,,False,No valid model fit
+MSX2_15281,,,,,,,False,No valid model fit
+MTA2_19823,,,,,,,False,No valid model fit
+MTERF3_12919,,,,,,,False,No valid model fit
+MTERF3_4338,3.9353466033935547,2.6501125887245665,7.5464051839817525,Linear,15.415878615655005,0.6455411761611104,True,
+MTHFD1L_22390,,,,,,,False,No valid model fit
+MTHFD2_92375,,,,,,,False,No valid model fit
+MTHFS_33871,,,,,,,False,No valid model fit
+MTMR14_20802,,,,,,,False,No valid model fit
+MTMR1_11089,,,,,,,False,No valid model fit
+MTMR7_22536,,,,,,,False,No valid model fit
+MTPAP_87676,,,,,,,False,No valid model fit
+MTPN_33637,4.932682514190674,3.1330759796658745,11.475405691095572,Linear,12.003038152019005,0.11684175718647694,True,
+MUS81_15683,,,,,,,False,No valid model fit
+MVK_21935,0.7561412744766304,0.09846564860419181,6.027731465073155,Hill,53.63316139103769,0.6134406920317956,True,
+MXI1_13352,,,,,,,False,No valid model fit
+MYB_13607,,,,,,,False,No valid model fit
+MYH14_21277,,,,,,,False,No valid model fit
+MYL5_23137,,,,,,,False,No valid model fit
+MYLK2_26264,,,,,,,False,No valid model fit
+MYO10_27545,,,,,,,False,No valid model fit
+MYO1D_21870,,,,,,,False,No valid model fit
+MYO3A_22243,,,,,,,False,No valid model fit
+MYO7A_22263,,,,,,,False,No valid model fit
+MYO9A_26663,,,,,,,False,No valid model fit
+MYOF_10516,,,,,,,False,No valid model fit
+MYORG_17796,,,,,,,False,No valid model fit
+MYT1_19343,,,,,,,False,No valid model fit
+N4BP2L1_89654,0.313097324360587,0.10974886447463039,0.9224767720847387,Hill,56.885867890711005,0.2999691453234775,True,
+N4BP2_13950,,,,,,,False,No valid model fit
+N4BP3_21326,,,,,,,False,No valid model fit
+NAA10_27550,4.2020392417907715,3.037964451148667,4.613935963699363,Polynomial 2,10.924962241238315,0.12029794260496551,True,
+NAA15_20022,,,,,,,False,No valid model fit
+NAA50_87612,6.057388782501221,3.603529380227437,18.78675136327971,Linear,31.05350281896635,0.18010205699246296,True,
+NAA50_90273,,,,,,,False,No valid model fit
+NAA60_20644,,,,,,,False,No valid model fit
+NAAA_14410,,,,,,,False,No valid model fit
+NAALAD2_10965,0.5971772020227601,0.07699523868808089,4.4602272255047595,Hill,52.157288074764004,0.5616474356478649,True,
+NAF1_20594,,,,,,,False,No valid model fit
+NAIF1_88049,,,,,,,False,No valid model fit
+NAIP_20391,,,,,,,False,No valid model fit
+NARS1_4453,,,,,,,False,No valid model fit
+NAT9_17426,,,,,,,False,No valid model fit
+NAV3_26097,,,,,,,False,No valid model fit
+NBEAL2_89432,,,,,,,False,No valid model fit
+NBPF10_93265,,,,,,,False,No valid model fit
+NBPF12_93263,,,,,,,False,No valid model fit
+NBPF15_93259,,,,,,,False,No valid model fit
+NBPF1_93232,4.474351406097412,2.919795695223328,9.469553830868216,Linear,9.371364379562618,0.8191616394337982,True,
+NCAPD3_16724,6.045401096343994,2.7512557984339296,8.150944014288255,Polynomial 2,11.312903633474253,0.4500905005106093,True,
+NCAPG2_4481,5.115410089492798,3.213920673939896,12.396902155555445,Linear,44.924886540627895,0.4022275849002911,True,
+NCBP1_4487,,,,,,,False,No valid model fit
+NCKAP1_92368,,,,,,,False,No valid model fit
+NCLN_12362,7.073402404785156,3.2267617346689965,11.277695745487037,Polynomial 2,27.83712271451014,0.6483367715321702,True,
+NCOA4_93260,,,,,,,False,No valid model fit
+NCS1_23900,3.754945993423462,2.5561410982150576,6.985696751927973,Linear,33.06044855387209,0.5429238709453834,True,
+NCSTN_20925,0.9042337813311812,0.20413819550963871,9.492071466147124,Hill,17.987679917420934,0.5084595482394993,True,
+NDUFA7_15427,6.682744026184082,3.1340197369731455,9.664035238979816,Polynomial 2,28.71936309521733,0.33706713342134953,True,
+NDUFA8_4519,,,,,,,False,No valid model fit
+NDUFAF5_20120,,,,,,,False,No valid model fit
+NDUFAF6_24040,,,,,,,False,No valid model fit
+NDUFB1_13144,,,,,,,False,No valid model fit
+NDUFB3_92613,,,,,,,False,No valid model fit
+NDUFB5_4525,,,,,,,False,No valid model fit
+NDUFS4_23651,,,,,,,False,No valid model fit
+NDUFS6_4527,,,,,,,False,No valid model fit
+NDUFS8_4528,,,,,,,False,No valid model fit
+NECAB3_18127,,,,,,,False,No valid model fit
+NECAP1_22089,,,,,,,False,No valid model fit
+NEDD8_92705,,,,,,,False,No valid model fit
+NEDD9_24522,0.23944702802526602,0.050805280431297374,1.0055121342569198,Hill,49.36327062343402,0.750776351209233,True,
+NEK11_13133,,,,,,,False,No valid model fit
+NEK1_21950,,,,,,,False,No valid model fit
+NEMP1_14991,3.7402282064658636,2.5483911879797776,9.286151885214897,Power,19.98401479685034,0.2521879089557042,True,
+NEMP2_18291,,,,,,,False,No valid model fit
+NF2_25895,,,,,,,False,No valid model fit
+NF2_27579,4.085860252380371,2.728109996132955,8.043770373392164,Linear,5.42659926963528,0.588640109942932,True,
+NFAT5_16375,,,,,,,False,No valid model fit
+NFATC2IP_89117,,,,,,,False,No valid model fit
+NFATC3_4560,,,,,,,False,No valid model fit
+NFE2L2_4564,,,,,,,False,No valid model fit
+NFIC_12747,,,,,,,False,No valid model fit
+NFIL3_4565,,,,,,,False,No valid model fit
+NFIX_22055,,,,,,,False,No valid model fit
+NFKB1_4566,,,,,,,False,No valid model fit
+NFKBIB_90308,,,,,,,False,No valid model fit
+NFKBIL1_15450,,,,,,,False,No valid model fit
+NFX1_17438,,,,,,,False,No valid model fit
+NFYB_87616,,,,,,,False,No valid model fit
+NFYC_11283,,,,,,,False,No valid model fit
+NHLRC3_22271,,,,,,,False,No valid model fit
+NICN1_27584,,,,,,,False,No valid model fit
+NIP7_92734,,,,,,,False,No valid model fit
+NISCH_4597,,,,,,,False,No valid model fit
+NIT1_4598,4.726424977738411,3.0380111275593435,10.52336001408484,Power,20.051351513177316,0.6682030052747929,True,
+NIT2_92583,5.432126522064209,3.350859538255949,14.199135462924337,Linear,42.62146780896403,0.11934019477642344,True,
+NKAIN2_27586,,,,,,,False,No valid model fit
+NLE1_12303,5.6780290603637695,3.452089386874647,15.81564056543046,Linear,37.59741900148811,0.5219652605668608,True,
+NLK_22454,,,,,,,False,No valid model fit
+NLN_12847,,,,,,,False,No valid model fit
+NME1_27589,,,,,,,False,No valid model fit
+NME1_28197,,,,,,,False,No valid model fit
+NME1_4611,,,,,,,False,No valid model fit
+NOB1_24978,,,,,,,False,No valid model fit
+NOC2L_93157,,,,,,,False,No valid model fit
+NOC4L_24327,,,,,,,False,No valid model fit
+NOG_87431,3.8543472869401256,2.6081148871205477,9.697778002184581,Power,32.8083259905788,0.12040026035226348,True,
+NOL10_22783,,,,,,,False,No valid model fit
+NOL3_4625,,,,,,,False,No valid model fit
+NOL4_12259,,,,,,,False,No valid model fit
+NOL6_18053,2.8042209148406982,2.0158056868391183,4.537710360681502,Linear,30.489067403062947,0.9875850273506999,True,
+NOLC1_4626,,,,,,,False,No valid model fit
+NOM1_25365,,,,,,,False,No valid model fit
+NONO_89709,,,,,,,False,No valid model fit
+NOP10_93110,,,,,,,False,No valid model fit
+NOP16_11351,7.275071144104004,4.043642029217977,35.8113946515041,Linear,56.45818064786843,0.9991166151822475,True,
+NOP2_4632,,,,,,,False,No valid model fit
+NOSIP_4639,5.869178771972656,2.4484771549829882,7.7899721508994855,Polynomial 2,15.063352731038009,0.7011727118194219,True,
+NOTUM_10826,,,,,,,False,No valid model fit
+NOXA1_19391,,,,,,,False,No valid model fit
+NPC2_90469,,,,,,,False,No valid model fit
+NPDC1_4650,,,,,,,False,No valid model fit
+NPHP3_15381,,,,,,,False,No valid model fit
+NPIPA8_34042,0.29062076559805256,0.10140893581972925,-9999.0,Hill,51.42351791115085,0.15966653217904925,True,
+NPIPB13_90709,6.072402000427246,3.609399737609573,18.918485967961253,Linear,31.489633986165483,0.1095887259039462,True,
+NPIPB6_23494,,,,,,,False,No valid model fit
+NPTX1_18716,,,,,,,False,No valid model fit
+NPTX2_16969,0.8009450640806062,0.3612300166729081,3.3851938402323496,Hill,34.75447939561465,0.5329079379242675,True,
+NPY1R_21450,,,,,,,False,No valid model fit
+NQO1_26473,,,,,,,False,No valid model fit
+NQO1_4668,0.4193146429483322,0.03802453392814733,2.731117316748446,Hill,37.077396133893046,0.27970421979121207,True,
+NR1D2_12758,,,,,,,False,No valid model fit
+NR2F2_16181,,,,,,,False,No valid model fit
+NR2F2_27597,7.06859827041626,3.1985408047609702,11.314085259091158,Polynomial 2,35.34297176780851,0.9882543978749009,True,
+NRBP2_17647,,,,,,,False,No valid model fit
+NRDE2_22791,,,,,,,False,No valid model fit
+NRG4_24524,,,,,,,False,No valid model fit
+NRGN_23588,,,,,,,False,No valid model fit
+NRP2_27606,,,,,,,False,No valid model fit
+NRP2_27607,,,,,,,False,No valid model fit
+NRP2_27608,,,,,,,False,No valid model fit
+NRP2_27609,4.590818881988525,2.975091635492709,9.943221555198319,Linear,29.63118345057913,0.42273305580282705,True,
+NSD2_16167,,,,,,,False,No valid model fit
+NSDHL_88569,4.793729782104492,3.0688793023801115,10.824657947590826,Linear,6.572576954748888,0.11022979396625998,True,
+NSMCE1_15487,4.183404445648193,2.7769634291576906,8.381707413383243,Linear,22.3058604471125,0.3052897636156773,True,
+NSUN2_4730,,,,,,,False,No valid model fit
+NT5C1A_11897,,,,,,,False,No valid model fit
+NT5C2_88828,,,,,,,False,No valid model fit
+NTMT1_19298,,,,,,,False,No valid model fit
+NTN3_88741,,,,,,,False,No valid model fit
+NUAK2_15857,,,,,,,False,No valid model fit
+NUBP1_16247,,,,,,,False,No valid model fit
+NUCB1_14186,,,,,,,False,No valid model fit
+NUDT13_23514,,,,,,,False,No valid model fit
+NUDT17_24118,,,,,,,False,No valid model fit
+NUDT2_13686,,,,,,,False,No valid model fit
+NUDT5_4760,3.6020374298095703,2.4744414219785718,6.5377657727801886,Linear,35.00821717733136,0.554938532695205,True,
+NUDT7_15454,5.287806987762451,2.1368578412340637,6.71179325127961,Polynomial 2,45.20701013480491,0.8674363745207958,True,
+NUP107_4770,4.516921043395996,2.940157944054179,9.639702256973393,Linear,23.22910326356626,0.26846830517853126,True,
+NUP133_4773,0.3276331790234654,0.10443960532779714,-9999.0,Hill,19.374212899641915,0.259538348488778,True,
+NUP188_19522,,,,,,,False,No valid model fit
+NUP43_11404,7.525615692138672,3.5837308851887686,14.678255085876032,Polynomial 2,45.65730163960872,0.1940533674612056,True,
+NUP58_23383,,,,,,,False,No valid model fit
+NUTF2_19045,,,,,,,False,No valid model fit
+NUTM2B_19915,,,,,,,False,No valid model fit
+NXPH4_26474,5.274868011474609,3.2831474532946405,13.269707023276043,Linear,27.079479894910172,0.29175723330809955,True,
+NXT1_11726,,,,,,,False,No valid model fit
+NYNRIN_89727,3.9975689682076574,2.682284120007898,9.845451879146035,Power,28.430370961531732,0.31390332290244327,True,
+OAT_4792,,,,,,,False,No valid model fit
+OAZ2_14577,,,,,,,False,No valid model fit
+OBSL1_14596,,,,,,,False,No valid model fit
+OCEL1_14986,,,,,,,False,No valid model fit
+ODC1_11553,,,,,,,False,No valid model fit
+OGDH_21444,,,,,,,False,No valid model fit
+OGFOD1_10643,,,,,,,False,No valid model fit
+OGG1_4800,,,,,,,False,No valid model fit
+OLIG2_11096,,,,,,,False,No valid model fit
+OLIG2_4807,,,,,,,False,No valid model fit
+OPTN_24820,3.3774234096020743,2.349919395426345,9.684863501497922,Power,14.935539156108465,0.18369932381284693,True,
+ORC2_89965,,,,,,,False,No valid model fit
+ORC5_15526,6.614139080047607,2.9335917360265573,9.487162552458166,Polynomial 2,50.6287757799611,0.3754946405566879,True,
+ORC6_4832,,,,,,,False,No valid model fit
+ORMDL1_18068,4.894139766693115,3.1157880055526546,11.29100873840936,Linear,34.73783961394037,0.1263713831294101,True,
+ORMDL2_4840,,,,,,,False,No valid model fit
+OSBPL10_23017,,,,,,,False,No valid model fit
+OSBPL1A_16017,,,,,,,False,No valid model fit
+OSBPL3_15756,,,,,,,False,No valid model fit
+OSBPL6_26357,,,,,,,False,No valid model fit
+OSGEPL1_10764,1.0097910300976396,0.17262443420783696,9.519512159764854,Hill,5.411161400558196,0.7181100158114866,True,
+OSMR_23254,,,,,,,False,No valid model fit
+OSR2_27637,,,,,,,False,No valid model fit
+OTUD5_4859,,,,,,,False,No valid model fit
+OTUD6B_4862,,,,,,,False,No valid model fit
+OTULIN_21608,,,,,,,False,No valid model fit
+OVOL2_11592,5.931379795074463,2.5554029784315695,7.916582625580888,Polynomial 2,46.033078001770264,0.5942665393419764,True,
+OXCT1_4876,,,,,,,False,No valid model fit
+OXLD1_17668,,,,,,,False,No valid model fit
+OXSR1_4880,5.0449347496032715,3.183074210377898,12.03307885713832,Linear,31.010975557621094,0.5024664977409311,True,
+P2RY1_26687,,,,,,,False,No valid model fit
+P4HA1_23992,,,,,,,False,No valid model fit
+PA2G4_4894,,,,,,,False,No valid model fit
+PAAF1_20785,0.138978511095047,0.10575417818104721,0.19855208374725677,Exponential 5,0.6659772737117597,0.7850683721304634,True,
+PABPC1L_22251,,,,,,,False,No valid model fit
+PABPC1_10760,0.09584242932492201,0.03525901055950769,0.4233610695731961,Hill,0.3714221712567847,0.7769465623889569,True,
+PACC1_12358,7.400742769241333,4.0849890158459345,38.800889902495065,Linear,51.61987893035318,0.14938567647101542,True,
+PACS2_11476,0.3214857980454876,0.10867566318485403,-9999.0,Hill,24.79716060834263,0.42709063633880406,True,
+PAFAH1B2_22618,0.2806595645472073,0.1573835209307049,0.9623701076736441,Hill,23.137143618324043,0.1795514247688449,True,
+PAFAH2_89374,,,,,,,False,No valid model fit
+PAK1IP1_16895,0.30628333295782584,0.1028290678271537,108.28150223057193,Hill,44.15274154207273,0.5293961364269979,True,
+PALD1_89939,,,,,,,False,No valid model fit
+PAN2_33857,,,,,,,False,No valid model fit
+PAQR4_12088,,,,,,,False,No valid model fit
+PARD6B_24951,,,,,,,False,No valid model fit
+PARN_15137,,,,,,,False,No valid model fit
+PARP16_11361,,,,,,,False,No valid model fit
+PARP1_4934,2.5005077596862515,0.42910551192579305,9.856741110817694,Hill,13.427354240007578,0.22358320415842237,True,
+PARP2_28373,6.7490418935570595,3.8621045099488804,26.468038137782823,Power,23.699674618800803,0.1389713965795054,True,
+PATL1_15610,,,,,,,False,No valid model fit
+PATZ1_16007,,,,,,,False,No valid model fit
+PAX6_4946,7.447612285614014,3.8366611925937772,13.030267895200216,Polynomial 2,44.31769164229583,0.18462981527746503,True,
+PBLD_15821,,,,,,,False,No valid model fit
+PBX1_26409,6.907463073730469,3.27381432727411,10.295120225860177,Polynomial 2,35.50270116417104,0.6412458493820394,True,
+PBXIP1_25134,,,,,,,False,No valid model fit
+PCBP3_25138,,,,,,,False,No valid model fit
+PCDH17_10535,,,,,,,False,No valid model fit
+PCDH7_14048,,,,,,,False,No valid model fit
+PCDH9_19125,,,,,,,False,No valid model fit
+PCED1A_18200,,,,,,,False,No valid model fit
+PCIF1_87603,,,,,,,False,No valid model fit
+PCMTD2_14404,,,,,,,False,No valid model fit
+PCNT_12687,,,,,,,False,No valid model fit
+PCSK1N_25572,,,,,,,False,No valid model fit
+PCYOX1L_24128,,,,,,,False,No valid model fit
+PC_24475,4.001704678533277,2.6844103186896797,9.914185241142288,Power,28.059146203236953,0.20121247693417232,True,
+PDCD2_27658,,,,,,,False,No valid model fit
+PDCD7_89918,4.24196720123291,2.8057525746304273,8.590923641699272,Linear,2.4935503390520872,0.20940441922999298,True,
+PDE3B_21993,,,,,,,False,No valid model fit
+PDGFRA_19329,0.3368877775492582,0.10621033544074004,-9999.0,Hill,64.96370228727679,0.2227859740779906,True,
+PDHB_13121,,,,,,,False,No valid model fit
+PDIA2_20356,,,,,,,False,No valid model fit
+PDIA5_5037,,,,,,,False,No valid model fit
+PDIA6_5040,,,,,,,False,No valid model fit
+PDK4_28868,,,,,,,False,No valid model fit
+PDLIM1_5041,,,,,,,False,No valid model fit
+PDLIM2_22424,,,,,,,False,No valid model fit
+PDP2_88388,,,,,,,False,No valid model fit
+PDPN_19437,,,,,,,False,No valid model fit
+PDS5A_5046,7.541000843048096,3.504581645889437,15.133710365197462,Polynomial 2,11.229202746857677,0.2570210881554902,True,
+PDSS2_10865,,,,,,,False,No valid model fit
+PDXDC1_93100,,,,,,,False,No valid model fit
+PDXK_11165,,,,,,,False,No valid model fit
+PER1_87674,,,,,,,False,No valid model fit
+PER1_90198,,,,,,,False,No valid model fit
+PERP_15804,0.04769604653120041,0.03299129002350859,0.08587990260332257,Exponential 5,17.920909988562293,0.11343723693461083,True,
+PET100_93240,,,,,,,False,No valid model fit
+PEX11B_5069,,,,,,,False,No valid model fit
+PEX1_27674,,,,,,,False,No valid model fit
+PEX3_15508,,,,,,,False,No valid model fit
+PEX6_89222,,,,,,,False,No valid model fit
+PFAS_91084,3.6951708793640137,2.524485736679894,6.807643909961973,Linear,42.2200290286127,0.9960102862500584,True,
+PFAS_91593,,,,,,,False,No valid model fit
+PFDN1_92573,3.7163889408111572,2.535730635534426,6.870349820322118,Linear,51.086332874422986,0.6741633673016998,True,
+PFN2_17702,6.543877124786377,2.8432506504077693,9.30470915056868,Polynomial 2,23.18586702401495,0.5588221212962312,True,
+PGAM1_5090,,,,,,,False,No valid model fit
+PGAM5_18437,,,,,,,False,No valid model fit
+PGAP3_20276,,,,,,,False,No valid model fit
+PGBD2_15295,,,,,,,False,No valid model fit
+PGLS_16643,,,,,,,False,No valid model fit
+PGM2_17479,,,,,,,False,No valid model fit
+PGP_24716,6.028034687042236,2.6175045534563584,8.113664788633521,Polynomial 2,16.41873492867444,0.2668972847538731,True,
+PGS1_25333,5.793774127960205,2.4907201173784337,7.6378306711745445,Polynomial 2,35.47979997434358,0.6016276704071514,True,
+PHACTR1_25671,0.29063500045518903,0.10270699498397123,0.9128920150672333,Hill,41.58711896700237,0.12616726044074333,True,
+PHF21B_88524,,,,,,,False,No valid model fit
+PHF23_11187,1.0404752255777823,0.32482439903718774,9.485586545242649,Hill,12.915615281392078,0.41972223767523786,True,
+PHLDA1_12880,,,,,,,False,No valid model fit
+PHLDA3_5124,,,,,,,False,No valid model fit
+PHLDB2_27678,,,,,,,False,No valid model fit
+PHOSPHO1_5125,,,,,,,False,No valid model fit
+PHOSPHO2_27682,,,,,,,False,No valid model fit
+PHTF2_16913,,,,,,,False,No valid model fit
+PHYHD1_21770,,,,,,,False,No valid model fit
+PIAS3_27683,,,,,,,False,No valid model fit
+PIDD1_25204,,,,,,,False,No valid model fit
+PIGA_27684,,,,,,,False,No valid model fit
+PIGP_17005,6.040679216384888,4.819127290365392,8.77881995040875,Exponential 3,38.092311930533135,0.1078933753729423,True,
+PIGZ_87804,,,,,,,False,No valid model fit
+PIK3C2B_5140,,,,,,,False,No valid model fit
+PIK3C3_5143,5.103085041046143,3.2085269585979597,12.33231096138918,Linear,20.589963964061806,0.1943232440892182,True,
+PIK3CB_12645,,,,,,,False,No valid model fit
+PIK3IP1_13753,,,,,,,False,No valid model fit
+PIK3R4_89325,,,,,,,False,No valid model fit
+PIKFYVE_22962,,,,,,,False,No valid model fit
+PIM2_14083,,,,,,,False,No valid model fit
+PINX1_24576,,,,,,,False,No valid model fit
+PIP5K1A_20679,2.9758248220296335,0.5440657436377184,9.883674762954687,Hill,23.050345444418927,0.9880887796523381,True,
+PITHD1_20388,,,,,,,False,No valid model fit
+PITPNB_16259,,,,,,,False,No valid model fit
+PITPNC1_14039,0.42877652713789655,0.04563997525850827,3.312168045728256,Hill,17.62921046641807,0.589120766917326,True,
+PITX1_12976,,,,,,,False,No valid model fit
+PJA1_16588,,,,,,,False,No valid model fit
+PJA2_87714,,,,,,,False,No valid model fit
+PKD1_20920,,,,,,,False,No valid model fit
+PKDCC_33650,,,,,,,False,No valid model fit
+PKM_92379,,,,,,,False,No valid model fit
+PKN1_91040,7.756999731063843,4.200471370356296,49.9221023389518,Linear,48.96837947061856,0.15521159439765597,True,
+PKN1_91684,,,,,,,False,No valid model fit
+PLA2G15_5170,6.404496431350708,2.9751432194500227,8.963885569894408,Polynomial 2,50.47499323860028,0.3077578007676127,True,
+PLA2G4A_5172,,,,,,,False,No valid model fit
+PLA2G4C_19984,,,,,,,False,No valid model fit
+PLA2G6_25224,,,,,,,False,No valid model fit
+PLA2G7_18120,,,,,,,False,No valid model fit
+PLCB3_5183,,,,,,,False,No valid model fit
+PLCXD1_21064,6.39352848750041,3.7320201404090314,22.064421573919162,Power,50.51827939390814,0.17612775300751715,True,
+PLEKHA1_21514,,,,,,,False,No valid model fit
+PLEKHA5_27688,,,,,,,False,No valid model fit
+PLEKHG4_15574,,,,,,,False,No valid model fit
+PLEKHH1_16398,,,,,,,False,No valid model fit
+PLOD2_13653,,,,,,,False,No valid model fit
+PLPP2_13260,5.419687032699585,3.3456188149211434,14.123065745609933,Linear,59.91433134387596,0.24388133185393235,True,
+PLPP7_19193,,,,,,,False,No valid model fit
+PLS1_5211,,,,,,,False,No valid model fit
+PLTP_18836,,,,,,,False,No valid model fit
+PLXNB2_16429,,,,,,,False,No valid model fit
+PMM2_5224,,,,,,,False,No valid model fit
+PMPCA_14926,,,,,,,False,No valid model fit
+PMPCB_22245,0.4517194628715515,0.4465868004746735,0.47366359452935936,Exponential 5,13.39535064260469,0.3025359456343152,True,
+PMS2_5227,,,,,,,False,No valid model fit
+PNMA8A_11737,,,,,,,False,No valid model fit
+PNPLA8_5232,,,,,,,False,No valid model fit
+PNPO_21833,,,,,,,False,No valid model fit
+POC1A_19228,,,,,,,False,No valid model fit
+POC1B_27694,,,,,,,False,No valid model fit
+POGK_22520,,,,,,,False,No valid model fit
+POGLUT3_16184,,,,,,,False,No valid model fit
+POLB_28436,5.9637258503765995,3.567247574195875,17.99038132113897,Power,54.34785584652264,0.39870219318532896,True,
+POLDIP2_5246,,,,,,,False,No valid model fit
+POLDIP3_14772,,,,,,,False,No valid model fit
+POLE_25510,,,,,,,False,No valid model fit
+POLG2_5253,,,,,,,False,No valid model fit
+POLH_10761,7.768361568450928,3.8030404135039255,17.05363050696242,Polynomial 2,40.212989198768206,0.613274516339621,True,
+POLI_16362,,,,,,,False,No valid model fit
+POLM_19945,,,,,,,False,No valid model fit
+POLR1A_18236,,,,,,,False,No valid model fit
+POLR1B_10502,,,,,,,False,No valid model fit
+POLR1C_5255,5.183051824569702,2.054341075243703,6.5327669777814315,Polynomial 2,23.135926336375853,0.7516058116874013,True,
+POLR2A_18363,5.052216053009033,1.5287665783887705,5.1567969253063195,Polynomial 2,5.294305013940475,0.33338057929227305,True,
+POLR2C_14683,,,,,,,False,No valid model fit
+POLR2F_13621,1.49561273290286,0.20190113544619245,9.954250977512505,Hill,33.675974266306156,0.9329602605945257,True,
+POLR2H_27699,,,,,,,False,No valid model fit
+POLR2M_27257,5.501343011856079,2.3812310819606215,7.086487552038832,Polynomial 2,28.930545945432034,0.5584059448641054,True,
+POLR3E_26314,,,,,,,False,No valid model fit
+POLR3F_28746,,,,,,,False,No valid model fit
+POLR3GL_27701,,,,,,,False,No valid model fit
+POLR3H_19384,,,,,,,False,No valid model fit
+POM121_93163,,,,,,,False,No valid model fit
+POMGNT1_89224,,,,,,,False,No valid model fit
+POMP_92739,,,,,,,False,No valid model fit
+POP1_24490,,,,,,,False,No valid model fit
+POP5_5282,,,,,,,False,No valid model fit
+POR_5283,,,,,,,False,No valid model fit
+POTEG_28592,,,,,,,False,No valid model fit
+PPAN_5296,,,,,,,False,No valid model fit
+PPARGC1B_87707,,,,,,,False,No valid model fit
+PPAT_24134,,,,,,,False,No valid model fit
+PPIF_5326,,,,,,,False,No valid model fit
+PPIL1_5328,,,,,,,False,No valid model fit
+PPIL6_11329,,,,,,,False,No valid model fit
+PPME1_18626,3.2988977432250977,1.4511476596656587,3.721865911473865,Linear,6.991498095508907,0.47631648850565034,True,
+PPOX_90101,,,,,,,False,No valid model fit
+PPP1R14B_5340,,,,,,,False,No valid model fit
+PPP1R16A_20541,,,,,,,False,No valid model fit
+PPP1R26_14892,,,,,,,False,No valid model fit
+PPP1R2B_88557,,,,,,,False,No valid model fit
+PPP1R9A_11416,,,,,,,False,No valid model fit
+PPP2CA_5356,,,,,,,False,No valid model fit
+PPP2R1B_88167,,,,,,,False,No valid model fit
+PPP2R1B_90021,,,,,,,False,No valid model fit
+PPP2R2A_16651,,,,,,,False,No valid model fit
+PPP2R2D_27715,,,,,,,False,No valid model fit
+PPP2R3B_11247,,,,,,,False,No valid model fit
+PPP2R5B_18320,,,,,,,False,No valid model fit
+PPP3CB_27716,4.517710208892822,2.9405954598821937,9.643348488511787,Linear,33.54305752586764,0.8160562962929825,True,
+PPP4R1_19645,,,,,,,False,No valid model fit
+PPP5C_22340,4.647390842437744,3.0014894342228624,10.180594446802269,Linear,35.82480600478062,0.14534409896364842,True,
+PPTC7_23614,5.463898181915283,2.1591591450211873,7.017945192449008,Polynomial 2,-10.798626116803856,0.18644125211319862,True,
+PRAF2_28210,,,,,,,False,No valid model fit
+PRDM2_27723,,,,,,,False,No valid model fit
+PRDX1_5393,,,,,,,False,No valid model fit
+PRDX2_92998,,,,,,,False,No valid model fit
+PRDX3_92964,,,,,,,False,No valid model fit
+PREB_23108,7.063078880310059,3.294469102363649,11.004634447070387,Polynomial 2,32.21080508651991,0.4031165730589461,True,
+PRELID3A_24013,,,,,,,False,No valid model fit
+PREP_24665,,,,,,,False,No valid model fit
+PRICKLE3_25392,,,,,,,False,No valid model fit
+PRICKLE4_14115,,,,,,,False,No valid model fit
+PRIM1_26195,,,,,,,False,No valid model fit
+PRIMPOL_18262,,,,,,,False,No valid model fit
+PRKACA_5404,,,,,,,False,No valid model fit
+PRKAR1B_16845,5.407659411430359,3.392382948729729,7.445676525906723,Polynomial 2,54.28350139513954,0.1790549678237947,True,
+PRKAR2A_19036,,,,,,,False,No valid model fit
+PRKCA_5422,,,,,,,False,No valid model fit
+PRKCI_88290,,,,,,,False,No valid model fit
+PRKCZ_25185,0.8236362579554934,0.11661098418458651,7.080432691642338,Hill,38.750267788982676,0.901477317076743,True,
+PRKD3_22580,,,,,,,False,No valid model fit
+PRKN_20064,,,,,,,False,No valid model fit
+PRMT3_22708,,,,,,,False,No valid model fit
+PRMT5_28286,,,,,,,False,No valid model fit
+PRODH_18574,,,,,,,False,No valid model fit
+PRORP_25120,,,,,,,False,No valid model fit
+PROS1_5451,,,,,,,False,No valid model fit
+PROSER1_14441,,,,,,,False,No valid model fit
+PROSER2_89509,,,,,,,False,No valid model fit
+PRPF40A_11008,,,,,,,False,No valid model fit
+PRPF4_5463,,,,,,,False,No valid model fit
+PRPS1_5465,,,,,,,False,No valid model fit
+PRR22_15377,,,,,,,False,No valid model fit
+PRR29_26928,,,,,,,False,No valid model fit
+PRR4_90809,,,,,,,False,No valid model fit
+PRRC1_21700,,,,,,,False,No valid model fit
+PRRC2C_18205,,,,,,,False,No valid model fit
+PRRT3_15908,,,,,,,False,No valid model fit
+PRSS27_88211,,,,,,,False,No valid model fit
+PRSS36_20867,,,,,,,False,No valid model fit
+PRSS8_18105,0.29685979245073124,0.10228756234299449,0.9080714697761834,Hill,39.65746008304356,0.4307355111979194,True,
+PRTFDC1_20130,4.62560089923478,2.991335531335429,10.059945639277114,Power,22.407798489154498,0.34910470161934004,True,
+PRXL2C_15590,,,,,,,False,No valid model fit
+PSAT1_10692,8.650968074798584,4.469676852506373,130.80550717708022,Linear,62.98725896640853,0.1121565117543607,True,
+PSD_24750,,,,,,,False,No valid model fit
+PSMA1_93331,,,,,,,False,No valid model fit
+PSMA4_10918,,,,,,,False,No valid model fit
+PSMA7_5506,,,,,,,False,No valid model fit
+PSMB3_5511,,,,,,,False,No valid model fit
+PSMB7_92766,0.3160489635931355,0.1081479198974162,-9999.0,Hill,29.816121319281997,0.20264157769574198,True,
+PSMD11_5524,,,,,,,False,No valid model fit
+PSMD12_93181,,,,,,,False,No valid model fit
+PSMD14_5527,3.694993257522583,3.43153607305616,3.972917354581705,Linear,26.528881702850498,0.45112596908129743,True,
+PSMD1_90600,,,,,,,False,No valid model fit
+PSMD1_91505,,,,,,,False,No valid model fit
+PSMD7_92466,0.27222169697050586,0.04330454979980803,1.7863158832784776,Hill,14.175350059218982,0.8252341496351431,True,
+PSME2_5535,,,,,,,False,No valid model fit
+PSME4_14679,,,,,,,False,No valid model fit
+PSMG1_5544,,,,,,,False,No valid model fit
+PSPH_20364,4.795105206378464,3.069592531621233,10.830782065055347,Power,25.922443595932393,0.43901039672338904,True,
+PSTK_25772,,,,,,,False,No valid model fit
+PTBP1_92339,,,,,,,False,No valid model fit
+PTBP3_10473,,,,,,,False,No valid model fit
+PTDSS2_17013,,,,,,,False,No valid model fit
+PTGES3_88184,,,,,,,False,No valid model fit
+PTGR2_11992,,,,,,,False,No valid model fit
+PTP4A1_21114,,,,,,,False,No valid model fit
+PTPDC1_12478,3.6161277654329655,2.4820456177342543,9.429582586044779,Power,27.739785030321872,0.5453688278405722,True,
+PTPN12_5598,,,,,,,False,No valid model fit
+PTPN13_21685,2.5485098361968994,1.372908091555023,4.928530840451501,Linear,23.121624939420958,0.7165013871708609,True,
+PTPN18_15037,,,,,,,False,No valid model fit
+PTPN1_5592,3.4794974327087402,2.4063578152085094,6.196459679992236,Linear,25.68750604817157,0.1969808627652787,True,
+PTRH2_87387,0.28723708452668884,0.05959633924003446,1.0735381475059114,Hill,15.862710336752397,0.9444143627603406,True,
+PTTG1IP_25115,,,,,,,False,No valid model fit
+PUM2_12277,,,,,,,False,No valid model fit
+PURA_23645,,,,,,,False,No valid model fit
+PURB_13990,,,,,,,False,No valid model fit
+PUS1_11654,,,,,,,False,No valid model fit
+PUS7L_19692,,,,,,,False,No valid model fit
+PUS7_5632,,,,,,,False,No valid model fit
+PWP2_12778,,,,,,,False,No valid model fit
+PWP2_5639,,,,,,,False,No valid model fit
+PWWP3A_23773,6.715302467346191,3.385280723141451,9.752249734922989,Polynomial 2,18.383510370645126,0.16779512531989216,True,
+PXK_24852,,,,,,,False,No valid model fit
+PXMP2_5641,,,,,,,False,No valid model fit
+PYCARD_16402,,,,,,,False,No valid model fit
+PYCR3_23432,1.125015722588563,0.3354608254104826,8.70003908920608,Hill,-2.851459648162571,0.7663416783870276,True,
+PYY_25588,4.272754192352295,2.820943770418844,8.702406804100068,Linear,64.09842207070112,0.22924378233010567,True,
+QARS1_32281,0.09799166661692013,0.012367948390659767,0.7017240143924133,Hill,7.017292622079162,0.9829410176750604,True,
+QPRT_11658,,,,,,,False,No valid model fit
+QSER1_89073,,,,,,,False,No valid model fit
+QSOX1_20000,,,,,,,False,No valid model fit
+QTRT1_21584,,,,,,,False,No valid model fit
+QTRT2_17381,,,,,,,False,No valid model fit
+RAB13_92828,2.484801090760915,0.5239480293795558,9.762780453453235,Hill,22.534280808363516,0.90539139094656,True,
+RAB1A_92777,0.3070164323692674,0.10368860592947027,-9999.0,Hill,24.102298143554762,0.21326674704072945,True,
+RAB22A_22506,,,,,,,False,No valid model fit
+RAB27B_17500,,,,,,,False,No valid model fit
+RAB2A_22832,,,,,,,False,No valid model fit
+RAB32_15686,3.9390969276428223,2.652016392261054,7.558680018830151,Linear,14.162556287704577,0.5084543539946537,True,
+RAB39B_13538,,,,,,,False,No valid model fit
+RAB3IL1_26463,,,,,,,False,No valid model fit
+RAB3IP_11417,,,,,,,False,No valid model fit
+RAB40A_13213,,,,,,,False,No valid model fit
+RAB40C_19696,,,,,,,False,No valid model fit
+RAB4B-EGLN2_25428,,,,,,,False,No valid model fit
+RAB4B_19539,,,,,,,False,No valid model fit
+RAB5IF_33771,,,,,,,False,No valid model fit
+RAB6B_23299,6.957329511642456,3.241644014129232,10.450534628013035,Polynomial 2,24.888986865158394,0.7909849221967138,True,
+RAB7A_88040,,,,,,,False,No valid model fit
+RAB8A_20812,6.643099784851074,2.8996999850397858,9.558671061870355,Polynomial 2,13.772492599592233,0.8868271919461717,True,
+RABGAP1_18273,,,,,,,False,No valid model fit
+RABGGTA_90066,,,,,,,False,No valid model fit
+RABIF_15951,,,,,,,False,No valid model fit
+RAD51C_5708,,,,,,,False,No valid model fit
+RALBP1_14605,,,,,,,False,No valid model fit
+RALGAPA1_93058,,,,,,,False,No valid model fit
+RAMP1_23643,,,,,,,False,No valid model fit
+RANBP1_92439,0.3776460039540163,0.032913227978357544,2.9400124895808277,Hill,18.47880138431313,0.43543516659718107,True,
+RANBP3_22887,,,,,,,False,No valid model fit
+RANGAP1_14775,,,,,,,False,No valid model fit
+RANGRF_12368,,,,,,,False,No valid model fit
+RAP1GDS1_10897,,,,,,,False,No valid model fit
+RAPGEF1_87556,,,,,,,False,No valid model fit
+RAPGEF1_90144,,,,,,,False,No valid model fit
+RAPGEFL1_18568,,,,,,,False,No valid model fit
+RAPH1_89662,7.0119547843933105,3.3596565695340526,10.597047390092772,Polynomial 2,20.704836909203575,0.4533030775024206,True,
+RARB_27754,,,,,,,False,No valid model fit
+RARB_5734,0.1401395817302471,0.021184423977951804,1.051122305611685,Hill,62.62815237163376,0.7558747732768548,True,
+RASGEF1B_24363,,,,,,,False,No valid model fit
+RASL11A_24574,,,,,,,False,No valid model fit
+RASSF7_5749,,,,,,,False,No valid model fit
+RASSF9_23879,,,,,,,False,No valid model fit
+RBBP7_18367,,,,,,,False,No valid model fit
+RBBP8_23561,,,,,,,False,No valid model fit
+RBCK1_90951,,,,,,,False,No valid model fit
+RBL1_13329,,,,,,,False,No valid model fit
+RBL2_5761,,,,,,,False,No valid model fit
+RBM12B_87421,5.258833169937134,3.2761347883501557,13.178257093574462,Linear,51.68423439933943,0.1544341830563989,True,
+RBM17_92747,,,,,,,False,No valid model fit
+RBM18_89410,,,,,,,False,No valid model fit
+RBM19_5767,,,,,,,False,No valid model fit
+RBM25_18263,,,,,,,False,No valid model fit
+RBM27_20240,,,,,,,False,No valid model fit
+RBM38_27763,,,,,,,False,No valid model fit
+RBM3_20424,0.31452065671845353,0.11254642197782277,0.9012042345359749,Hill,29.677833266745964,0.18035874804965324,True,
+RBM42_20635,3.580963611602783,1.9112035590645102,10.758631277595306,Linear,26.27087739407257,0.24612355491804605,True,
+RBM43_23072,,,,,,,False,No valid model fit
+RBM4_93056,,,,,,,False,No valid model fit
+RBP5_17131,,,,,,,False,No valid model fit
+RCC1L_15134,,,,,,,False,No valid model fit
+RCC1_19989,3.8623719005155825,0.4927963789364054,3.9423229988562545,Hill,28.847726931256126,0.33279620328430726,True,
+RCE1_90148,,,,,,,False,No valid model fit
+RCN2_26311,,,,,,,False,No valid model fit
+RDH11_16054,,,,,,,False,No valid model fit
+RDH13_27771,6.462957262992859,3.0272670791210308,9.101512096722143,Polynomial 2,68.22234684604209,0.5286278334097128,True,
+RDM1_27773,,,,,,,False,No valid model fit
+RDM1_27774,0.16665080291686818,0.04297588256430112,0.8598582997376226,Hill,31.97162064938955,0.5701343856302102,True,
+RECK_22679,0.36518724073044495,0.05006874491346008,2.596058913322472,Hill,15.497358680985458,0.7751193962965908,True,
+RECQL_5786,,,,,,,False,No valid model fit
+REEP1_22806,6.706438064575195,3.0385340131655485,9.728123508505766,Polynomial 2,43.72474164363755,0.1678129287856105,True,
+REEP4_14214,,,,,,,False,No valid model fit
+REEP5_5789,4.694838523864746,3.0234231246056797,10.385494361878699,Linear,32.919351394929514,0.20077369914495524,True,
+RELT_87508,,,,,,,False,No valid model fit
+REPS2_10531,,,,,,,False,No valid model fit
+RETREG1_11839,5.005636215209961,3.1657440708603395,11.833850682624456,Linear,53.49646676171209,0.33777302716578883,True,
+RETREG2_10463,,,,,,,False,No valid model fit
+RETREG3_24217,0.3276946978805259,0.04129003937482127,1.7828331827246338,Hill,24.24113394278013,0.31731717657909053,True,
+REXO1_92392,7.11575984954834,3.9900606111237646,32.50739561209153,Linear,40.5497685754742,0.5110423172290643,True,
+REXO2_17701,,,,,,,False,No valid model fit
+REXO5_22720,,,,,,,False,No valid model fit
+RFC1_90086,,,,,,,False,No valid model fit
+RFNG_5813,,,,,,,False,No valid model fit
+RFPL4A_33700,,,,,,,False,No valid model fit
+RFTN1_18734,3.9579081535339355,2.6617754010745074,7.619231983088022,Linear,25.727150445668663,0.1896996479613109,True,
+RFWD3_21836,4.107866287231445,2.739250783842345,8.118741117707275,Linear,21.307030394369804,0.639046404378576,True,
+RFX7_23268,,,,,,,False,No valid model fit
+RGPD6_18696,,,,,,,False,No valid model fit
+RGPD8_14466,,,,,,,False,No valid model fit
+RGS12_12669,,,,,,,False,No valid model fit
+RGS16_11949,,,,,,,False,No valid model fit
+RGS19_11246,,,,,,,False,No valid model fit
+RGS2_28241,,,,,,,False,No valid model fit
+RGS4_20411,,,,,,,False,No valid model fit
+RHBDF2_16413,,,,,,,False,No valid model fit
+RHBDL3_22132,,,,,,,False,No valid model fit
+RHCE_25270,,,,,,,False,No valid model fit
+RHOBTB3_16004,,,,,,,False,No valid model fit
+RHOB_22994,,,,,,,False,No valid model fit
+RIBC1_27786,6.0243308544158936,3.590723135938085,18.501417962936586,Linear,54.87715350767212,0.21739542000833068,True,
+RIMS4_20420,7.917134761810303,3.7732545896023506,19.512212962240344,Polynomial 2,71.24287832822316,0.10443776933455085,True,
+RINT1_5857,,,,,,,False,No valid model fit
+RIOK1_26640,,,,,,,False,No valid model fit
+RIOX2_12112,4.6425486199792125,2.9992396610984944,9.939143930230712,Power,9.748859438333994,0.1046104885120056,True,
+RITA1_16798,,,,,,,False,No valid model fit
+RMND1_14400,,,,,,,False,No valid model fit
+RNASET2_13733,,,,,,,False,No valid model fit
+RNF10_20810,,,,,,,False,No valid model fit
+RNF138_92753,,,,,,,False,No valid model fit
+RNF150_18274,,,,,,,False,No valid model fit
+RNF152_20508,3.3753538131713867,2.348735084602821,5.915365782316838,Linear,23.65136354630713,0.4306454917963286,True,
+RNF167_5885,,,,,,,False,No valid model fit
+RNF168_13759,,,,,,,False,No valid model fit
+RNF175_15680,,,,,,,False,No valid model fit
+RNF19B_24383,,,,,,,False,No valid model fit
+RNF213_23156,,,,,,,False,No valid model fit
+RNF227_89203,,,,,,,False,No valid model fit
+RNF24_21568,,,,,,,False,No valid model fit
+RNF2_92643,,,,,,,False,No valid model fit
+RNF43_91150,,,,,,,False,No valid model fit
+RNF44_91395,,,,,,,False,No valid model fit
+RNFT2_25459,,,,,,,False,No valid model fit
+RNPC3_28272,4.829919338226318,3.085531078846584,10.990179521686887,Linear,47.029609739008215,0.3312151543092202,True,
+ROCK1_24928,,,,,,,False,No valid model fit
+ROGDI_23850,,,,,,,False,No valid model fit
+ROR1_13955,6.665936708450317,3.5496808322477684,6.803921598315238,Linear,41.50168827611054,0.31560774634538125,True,
+RPA1_90274,3.7625921538027063,2.5601521551993582,9.740283993487623,Power,3.5275355888630666,0.49642574393595273,True,
+RPAP3_5909,,,,,,,False,No valid model fit
+RPEL1_23264,,,,,,,False,No valid model fit
+RPE_11573,,,,,,,False,No valid model fit
+RPF1_23345,,,,,,,False,No valid model fit
+RPF2_5910,,,,,,,False,No valid model fit
+RPL11_90878,2.940986156463623,2.097569768636762,4.845476741897301,Linear,12.670533841133446,0.7669451179937952,True,
+RPL13A_5916,,,,,,,False,No valid model fit
+RPL13_92991,,,,,,,False,No valid model fit
+RPL17_93254,1.4183631816009667,0.3193177773664798,9.674980674632398,Hill,13.108598391982117,0.11254824598771385,True,
+RPL22_91026,,,,,,,False,No valid model fit
+RPL26L1_92353,,,,,,,False,No valid model fit
+RPL26_92918,4.926124837928315,3.130219112181174,11.443836658037325,Power,27.555988681518425,0.11266928642163299,True,
+RPL26_92919,,,,,,,False,No valid model fit
+RPL26_92920,,,,,,,False,No valid model fit
+RPL27A_92968,,,,,,,False,No valid model fit
+RPL32_92840,,,,,,,False,No valid model fit
+RPL35A_93128,,,,,,,False,No valid model fit
+RPL36A_27804,,,,,,,False,No valid model fit
+RPL36_5938,,,,,,,False,No valid model fit
+RPL3_92444,,,,,,,False,No valid model fit
+RPL4_93060,,,,,,,False,No valid model fit
+RPL7A_5954,,,,,,,False,No valid model fit
+RPLP2_93282,,,,,,,False,No valid model fit
+RPP14_26612,,,,,,,False,No valid model fit
+RPP30_89055,,,,,,,False,No valid model fit
+RPRML_21169,,,,,,,False,No valid model fit
+RPS14_16014,,,,,,,False,No valid model fit
+RPS16_92499,,,,,,,False,No valid model fit
+RPS26_93185,,,,,,,False,No valid model fit
+RPS2_5983,,,,,,,False,No valid model fit
+RPS4X_6009,,,,,,,False,No valid model fit
+RPS6KA3_14096,,,,,,,False,No valid model fit
+RPS6KL1_24670,0.9388418302810766,0.0661326710738626,9.676839861295006,Hill,15.872081050231508,0.2672797766629511,True,
+RPS8_92825,,,,,,,False,No valid model fit
+RPS9_93035,,,,,,,False,No valid model fit
+RPUSD4_14010,,,,,,,False,No valid model fit
+RRAGB_25280,,,,,,,False,No valid model fit
+RRAGD_13064,,,,,,,False,No valid model fit
+RRNAD1_18072,,,,,,,False,No valid model fit
+RRP12_6035,,,,,,,False,No valid model fit
+RRP15_22428,,,,,,,False,No valid model fit
+RRP36_17957,,,,,,,False,No valid model fit
+RRP7A_93158,,,,,,,False,No valid model fit
+RSRP1_11697,,,,,,,False,No valid model fit
+RTCB_13106,,,,,,,False,No valid model fit
+RTF2_17568,,,,,,,False,No valid model fit
+RTL10_26941,,,,,,,False,No valid model fit
+RTN4IP1_12502,,,,,,,False,No valid model fit
+RTN4_26066,,,,,,,False,No valid model fit
+RTRAF_836,,,,,,,False,No valid model fit
+RUNDC1_93210,,,,,,,False,No valid model fit
+RUVBL1_6065,,,,,,,False,No valid model fit
+RWDD2B_22453,,,,,,,False,No valid model fit
+RWDD3_27817,,,,,,,False,No valid model fit
+RWDD3_27818,,,,,,,False,No valid model fit
+RXRG_14499,,,,,,,False,No valid model fit
+S100A11_23914,,,,,,,False,No valid model fit
+S100A6_13254,,,,,,,False,No valid model fit
+S100P_6092,5.595030784606934,3.9305997128673056,9.835553038874496,Polynomial 2,42.651354610721754,0.31841516193416086,True,
+S1PR3_27821,,,,,,,False,No valid model fit
+SACM1L_6098,,,,,,,False,No valid model fit
+SACS_22437,,,,,,,False,No valid model fit
+SALL1_22928,,,,,,,False,No valid model fit
+SAMD12_20444,,,,,,,False,No valid model fit
+SAMD1_89886,,,,,,,False,No valid model fit
+SAMD4B_90129,,,,,,,False,No valid model fit
+SAMD5_90571,5.252629518508911,2.235812205758552,6.651446274146125,Polynomial 2,46.01019649844573,0.2527898158853714,True,
+SAPCD1_33665,,,,,,,False,No valid model fit
+SAR1B_19540,,,,,,,False,No valid model fit
+SARS2_24835,5.012442204709781,3.168752098249067,11.86779907465182,Power,23.80077415760448,0.8221886553216984,True,
+SAT1_92709,,,,,,,False,No valid model fit
+SBK1_87656,,,,,,,False,No valid model fit
+SCAMP5_27823,,,,,,,False,No valid model fit
+SCARA3_10615,,,,,,,False,No valid model fit
+SCART1_87409,,,,,,,False,No valid model fit
+SCCPDH_6120,,,,,,,False,No valid model fit
+SCD5_14088,,,,,,,False,No valid model fit
+SCD_18299,,,,,,,False,No valid model fit
+SCLY_21741,1.0621716596837532,0.17482138579056422,9.709206332077798,Hill,18.872908226081794,0.45552297253297314,True,
+SCMH1_21547,3.917114734649658,2.6406572728140083,7.488507621935396,Linear,20.750862507477805,0.9919067590103009,True,
+SCNN1D_10804,,,,,,,False,No valid model fit
+SCOC_12252,,,,,,,False,No valid model fit
+SCPEP1_90334,,,,,,,False,No valid model fit
+SCPEP1_90417,,,,,,,False,No valid model fit
+SCRN1_6155,,,,,,,False,No valid model fit
+SCRN2_87722,,,,,,,False,No valid model fit
+SCRN2_90212,,,,,,,False,No valid model fit
+SCUBE1_89766,,,,,,,False,No valid model fit
+SDAD1_93193,,,,,,,False,No valid model fit
+SDF2L1_87542,,,,,,,False,No valid model fit
+SDHAF4_18099,,,,,,,False,No valid model fit
+SDHD_93216,,,,,,,False,No valid model fit
+SDK1_23081,,,,,,,False,No valid model fit
+SDSL_88229,,,,,,,False,No valid model fit
+SDSL_90115,,,,,,,False,No valid model fit
+SEC16A_6185,3.0079969859958533,0.2492413617091893,10.082016021148362,Hill,34.676124664498985,0.3853557036299826,True,
+SEC23IP_89319,,,,,,,False,No valid model fit
+SEC31B_24253,,,,,,,False,No valid model fit
+SECISBP2L_21615,,,,,,,False,No valid model fit
+SECISBP2_22548,,,,,,,False,No valid model fit
+SELENOF_6221,,,,,,,False,No valid model fit
+SELENOK_6203,,,,,,,False,No valid model fit
+SEMA3G_20892,,,,,,,False,No valid model fit
+SEMA4G_14735,4.492743015289307,2.928690788821335,9.543076756983837,Linear,34.93283866482705,0.7681913626029089,True,
+SEMA6B_20194,,,,,,,False,No valid model fit
+SENP3-EIF4A1_88815,,,,,,,False,No valid model fit
+SENP8_88060,,,,,,,False,No valid model fit
+SEPHS1_15829,3.392629623413086,2.3583235092872297,5.961044020131721,Linear,28.497942095706943,0.7840027026816918,True,
+SEPHS2_15835,,,,,,,False,No valid model fit
+SEPTIN6_10820,,,,,,,False,No valid model fit
+SEPTIN6_27838,,,,,,,False,No valid model fit
+SERBP1_92824,,,,,,,False,No valid model fit
+SERPINB9_10799,0.8445936140289946,0.14150933946480765,8.776369960082608,Hill,58.04437516124509,0.6223913486689301,True,
+SERPINE1_6253,,,,,,,False,No valid model fit
+SERPINH1_92867,,,,,,,False,No valid model fit
+SERPINH1_92869,,,,,,,False,No valid model fit
+SERTAD4_21591,,,,,,,False,No valid model fit
+SESN3_14278,,,,,,,False,No valid model fit
+SETD2_10666,,,,,,,False,No valid model fit
+SETD3_21134,,,,,,,False,No valid model fit
+SETD6_12905,3.057619452166481,1.2330951296584856,12.455542419221402,Power,-6.263886759020821,0.7498844571554453,True,
+SETDB1_26641,,,,,,,False,No valid model fit
+SEZ6L2_14038,,,,,,,False,No valid model fit
+SF3A3_93129,,,,,,,False,No valid model fit
+SF3B1_6268,,,,,,,False,No valid model fit
+SF3B4_92827,,,,,,,False,No valid model fit
+SFR1_15519,,,,,,,False,No valid model fit
+SFXN1_90521,,,,,,,False,No valid model fit
+SFXN2_20131,,,,,,,False,No valid model fit
+SFXN4_17498,,,,,,,False,No valid model fit
+SGCA_20378,,,,,,,False,No valid model fit
+SGSH_12188,,,,,,,False,No valid model fit
+SGTB_10789,,,,,,,False,No valid model fit
+SH3BGRL2_24673,,,,,,,False,No valid model fit
+SH3BGRL3_92823,,,,,,,False,No valid model fit
+SH3BGRL_21211,,,,,,,False,No valid model fit
+SH3BP2_90126,,,,,,,False,No valid model fit
+SH3BP5L_17285,,,,,,,False,No valid model fit
+SH3GL1_25786,4.6308183670043945,2.993750721310658,10.110685560159641,Linear,36.79316081018595,0.29541277706108793,True,
+SH3GL1_27847,,,,,,,False,No valid model fit
+SH3PXD2A_19966,,,,,,,False,No valid model fit
+SHC2_13555,,,,,,,False,No valid model fit
+SHLD2_2324,4.260151386260986,2.814775807161573,8.656187484984642,Linear,26.43245434711235,0.7794948273489062,True,
+SHMT2_6311,,,,,,,False,No valid model fit
+SHQ1_15028,6.834920644760132,3.24336940745833,10.083862786795802,Polynomial 2,40.28552392515468,0.5574199663003748,True,
+SIGMAR1_19417,,,,,,,False,No valid model fit
+SIK1_17023,2.996066219014714,2.1301358601913463,9.561052661746283,Power,15.384287906478761,0.3419414093281544,True,
+SIM1_88760,,,,,,,False,No valid model fit
+SIPA1L1_11116,,,,,,,False,No valid model fit
+SIPA1_90766,,,,,,,False,No valid model fit
+SIRT5_17960,,,,,,,False,No valid model fit
+SIVA1_18355,4.767361879348755,3.05680712063863,10.705489535182283,Linear,47.64942406547317,0.12103130117024052,True,
+SKA1_26466,,,,,,,False,No valid model fit
+SKP2_12445,,,,,,,False,No valid model fit
+SLAIN2_22179,,,,,,,False,No valid model fit
+SLC12A4_27859,,,,,,,False,No valid model fit
+SLC16A10_20966,,,,,,,False,No valid model fit
+SLC16A1_23166,,,,,,,False,No valid model fit
+SLC16A6_19311,,,,,,,False,No valid model fit
+SLC16A9_21453,,,,,,,False,No valid model fit
+SLC19A2_17227,,,,,,,False,No valid model fit
+SLC19A3_11343,5.575293302536011,2.3234947656620033,7.223813197040087,Polynomial 2,51.88112163171943,0.8468944508245569,True,
+SLC1A5_26579,,,,,,,False,No valid model fit
+SLC20A2_18128,,,,,,,False,No valid model fit
+SLC24A1_25645,,,,,,,False,No valid model fit
+SLC25A10_21880,,,,,,,False,No valid model fit
+SLC25A11_6391,,,,,,,False,No valid model fit
+SLC25A14_6397,,,,,,,False,No valid model fit
+SLC25A19_18913,,,,,,,False,No valid model fit
+SLC25A23_12348,2.963150766674833,2.110707344095033,9.162333136063948,Power,6.468941476060854,0.482461484545887,True,
+SLC25A25_27868,,,,,,,False,No valid model fit
+SLC25A27_27869,,,,,,,False,No valid model fit
+SLC25A32_6403,,,,,,,False,No valid model fit
+SLC25A33_21035,,,,,,,False,No valid model fit
+SLC25A39_23473,,,,,,,False,No valid model fit
+SLC25A40_6409,,,,,,,False,No valid model fit
+SLC25A4_6406,,,,,,,False,No valid model fit
+SLC25A51_20272,,,,,,,False,No valid model fit
+SLC25A52_88724,,,,,,,False,No valid model fit
+SLC25A5_92330,6.806221008300781,3.120654119988289,10.00256397137441,Polynomial 2,25.47694790502962,0.7039067524885569,True,
+SLC25A6_93015,6.349883079528809,2.907268972454951,8.83287194403506,Polynomial 2,34.873728557349494,0.5448959950036094,True,
+SLC27A1_19587,,,,,,,False,No valid model fit
+SLC27A5_6429,,,,,,,False,No valid model fit
+SLC29A1_12426,,,,,,,False,No valid model fit
+SLC29A3_16722,,,,,,,False,No valid model fit
+SLC35A1_6463,,,,,,,False,No valid model fit
+SLC35F1_24827,,,,,,,False,No valid model fit
+SLC35F2_6477,,,,,,,False,No valid model fit
+SLC35F5_23797,,,,,,,False,No valid model fit
+SLC35F6_16405,,,,,,,False,No valid model fit
+SLC35G1_16081,,,,,,,False,No valid model fit
+SLC38A10_10465,,,,,,,False,No valid model fit
+SLC38A1_14804,,,,,,,False,No valid model fit
+SLC38A3_20351,4.057913911636329,1.3808151689607426,33.961936495899714,Power,22.197796397446446,0.7121586375164635,True,
+SLC38A6_91595,,,,,,,False,No valid model fit
+SLC38A7_15567,,,,,,,False,No valid model fit
+SLC39A11_26030,,,,,,,False,No valid model fit
+SLC39A13_22270,,,,,,,False,No valid model fit
+SLC39A3_16311,3.9424298523523396,2.6538025079946106,9.818459886207108,Power,7.65309889564348,0.46832836650639253,True,
+SLC39A7_21831,,,,,,,False,No valid model fit
+SLC39A8_20682,,,,,,,False,No valid model fit
+SLC39A9_88693,,,,,,,False,No valid model fit
+SLC3A2_20164,6.900820732116699,3.222676029309249,10.275139585099687,Polynomial 2,10.662047709580278,0.4789900314970721,True,
+SLC41A3_17557,,,,,,,False,No valid model fit
+SLC44A5_11824,,,,,,,False,No valid model fit
+SLC47A1_88432,,,,,,,False,No valid model fit
+SLC47A1_90244,,,,,,,False,No valid model fit
+SLC4A2_91119,6.298454999923706,2.9358242036602804,8.711173085600972,Polynomial 2,22.313728658707255,0.2166557525518602,True,
+SLC4A7_12553,,,,,,,False,No valid model fit
+SLC66A3_27719,,,,,,,False,No valid model fit
+SLC6A8_27878,,,,,,,False,No valid model fit
+SLC6A8_6522,,,,,,,False,No valid model fit
+SLC7A1_26434,,,,,,,False,No valid model fit
+SLC7A5_13711,,,,,,,False,No valid model fit
+SLC7A6OS_11998,,,,,,,False,No valid model fit
+SLC7A6_14789,,,,,,,False,No valid model fit
+SLC8A1_16683,,,,,,,False,No valid model fit
+SLC9A3R2_11626,3.2685601711273193,2.288901195042879,5.638363896828675,Linear,34.673345112318145,0.5178556597314765,True,
+SLC9A8_17260,,,,,,,False,No valid model fit
+SLC9B2_20656,,,,,,,False,No valid model fit
+SLCO5A1_28623,,,,,,,False,No valid model fit
+SLCO5A1_6542,,,,,,,False,No valid model fit
+SLFN5_24296,,,,,,,False,No valid model fit
+SLIRP_92622,,,,,,,False,No valid model fit
+SLIT1_24163,,,,,,,False,No valid model fit
+SLMAP_90153,,,,,,,False,No valid model fit
+SLX1A_33471,,,,,,,False,No valid model fit
+SLX1B_33533,,,,,,,False,No valid model fit
+SLX4IP_26247,,,,,,,False,No valid model fit
+SMAD7_12470,,,,,,,False,No valid model fit
+SMARCA1_26388,,,,,,,False,No valid model fit
+SMARCA2_17450,12.308979034423828,11.15151603159566,13.222127788473895,Linear,34.70723121053292,0.12702478203909795,True,
+SMARCA5_87620,,,,,,,False,No valid model fit
+SMARCD3_11036,4.915742874145508,3.1255474909724885,11.39465083903122,Linear,29.550340935161554,0.9560695263750174,True,
+SMC3_6583,,,,,,,False,No valid model fit
+SMCHD1_17711,7.234179973602295,4.913732071559343,10.294143984888787,Exponential 3,-12.239999016127769,0.1000909841896811,True,
+SMG1_92899,,,,,,,False,No valid model fit
+SMIM10L2A_33668,,,,,,,False,No valid model fit
+SMIM19_6589,,,,,,,False,No valid model fit
+SMIM1_26428,,,,,,,False,No valid model fit
+SMIM7_17535,,,,,,,False,No valid model fit
+SMN1_25646,,,,,,,False,No valid model fit
+SMOC1_22673,,,,,,,False,No valid model fit
+SMPDL3B_20517,3.960387706756592,2.663079752675822,7.6273940458360805,Linear,38.40364987577129,0.8300426044705671,True,
+SMUG1_27885,,,,,,,False,No valid model fit
+SMUG1_27886,,,,,,,False,No valid model fit
+SMYD5_25405,,,,,,,False,No valid model fit
+SMYD5_6601,,,,,,,False,No valid model fit
+SNAI2_24257,,,,,,,False,No valid model fit
+SNF8_6614,,,,,,,False,No valid model fit
+SNHG32_901,0.02835802733898163,0.021019292282272572,0.060773916401556445,Exponential 5,7.15029366850215,0.13439986195039177,True,
+SNHG6_6616,,,,,,,False,No valid model fit
+SNHG8_6618,,,,,,,False,No valid model fit
+SNRPA1_92725,,,,,,,False,No valid model fit
+SNRPC_92660,7.153917551040649,3.571488802664554,11.063516753922023,Polynomial 2,49.8907143188092,0.22360576426364642,True,
+SNRPD2_23205,,,,,,,False,No valid model fit
+SNRPF_92804,0.4022689955524881,0.10299621904905534,1.7576067434824647,Hill,16.79482873333485,0.748410237778887,True,
+SNRPG_6644,,,,,,,False,No valid model fit
+SNW1_92451,,,,,,,False,No valid model fit
+SNX10_25691,,,,,,,False,No valid model fit
+SNX11_90971,,,,,,,False,No valid model fit
+SNX14_18525,,,,,,,False,No valid model fit
+SNX16_22669,,,,,,,False,No valid model fit
+SNX3_25515,,,,,,,False,No valid model fit
+SNX6_92703,,,,,,,False,No valid model fit
+SOBP_24495,,,,,,,False,No valid model fit
+SOCS5_17907,,,,,,,False,No valid model fit
+SOD1_92822,,,,,,,False,No valid model fit
+SOD2_6667,0.9988954860414622,0.0819155034779931,106.56606832047581,Hill,42.72221805959996,0.8563544546832019,True,
+SON_27891,,,,,,,False,No valid model fit
+SORBS3_90798,,,,,,,False,No valid model fit
+SORBS3_91669,,,,,,,False,No valid model fit
+SOWAHA_14936,,,,,,,False,No valid model fit
+SOX21_33611,,,,,,,False,No valid model fit
+SPACA6_90946,,,,,,,False,No valid model fit
+SPACA9_24794,0.1471333657327605,0.03318292620606212,0.884822476704839,Hill,42.105195331412986,0.6495689106084768,True,
+SPAG8_28892,,,,,,,False,No valid model fit
+SPAG9_12882,,,,,,,False,No valid model fit
+SPATA20_15075,,,,,,,False,No valid model fit
+SPATA5_16599,1.2346997628221532,0.11599211632374117,9.677303573230322,Hill,25.497011422594902,0.1269289692238913,True,
+SPATA7_91570,0.027830666763666106,0.011050437365189883,0.08488574311205997,Hill,18.829228155515963,0.1494188739733674,True,
+SPCS2_21762,0.12959415612441083,0.02898802386221359,0.880890262254431,Hill,53.691600515943236,0.6636628697829867,True,
+SPDYC_15081,,,,,,,False,No valid model fit
+SPEF2_27903,,,,,,,False,No valid model fit
+SPHK1_13551,,,,,,,False,No valid model fit
+SPHK2_6712,,,,,,,False,No valid model fit
+SPINDOC_18589,,,,,,,False,No valid model fit
+SPIRE2_24037,,,,,,,False,No valid model fit
+SPOCD1_17922,,,,,,,False,No valid model fit
+SPOUT1_15434,,,,,,,False,No valid model fit
+SPPL2A_92794,,,,,,,False,No valid model fit
+SPRTN_88688,,,,,,,False,No valid model fit
+SPRY1_18786,,,,,,,False,No valid model fit
+SPRY3_16670,,,,,,,False,No valid model fit
+SPR_6721,,,,,,,False,No valid model fit
+SPSB4_87877,,,,,,,False,No valid model fit
+SPTBN1_6728,,,,,,,False,No valid model fit
+SPTBN2_19769,,,,,,,False,No valid model fit
+SPTBN4_20050,,,,,,,False,No valid model fit
+SPTBN4_27906,,,,,,,False,No valid model fit
+SPTB_12584,,,,,,,False,No valid model fit
+SPTSSB_25421,,,,,,,False,No valid model fit
+SRA1_20834,2.6874303817749023,1.943602973974252,4.282980171331545,Linear,8.471596086211719,0.9872236503105363,True,
+SRCAP_90788,,,,,,,False,No valid model fit
+SRCAP_91495,3.6429619789123535,2.4964636505041913,6.655316430650817,Linear,10.504752841920588,0.28541158559317026,True,
+SRC_87757,6.1623311042785645,2.978939129352824,8.40706411545016,Polynomial 2,38.90808985468904,0.22549034869816076,True,
+SRGAP2C_3832,,,,,,,False,No valid model fit
+SRGAP2_33672,,,,,,,False,No valid model fit
+SRM_6753,,,,,,,False,No valid model fit
+SRP19_24416,,,,,,,False,No valid model fit
+SRP72_28388,,,,,,,False,No valid model fit
+SRPK1_6763,,,,,,,False,No valid model fit
+SRPRA_6764,,,,,,,False,No valid model fit
+SRPRB_12105,,,,,,,False,No valid model fit
+SRPX2_25977,,,,,,,False,No valid model fit
+SRPX_17263,,,,,,,False,No valid model fit
+SRRD_25382,,,,,,,False,No valid model fit
+SRR_20787,,,,,,,False,No valid model fit
+SRSF10_24587,,,,,,,False,No valid model fit
+SRSF5_6773,,,,,,,False,No valid model fit
+SRSF7_26369,,,,,,,False,No valid model fit
+SRXN1_88916,,,,,,,False,No valid model fit
+SSBP1_14985,,,,,,,False,No valid model fit
+SSBP1_27908,,,,,,,False,No valid model fit
+SSB_92788,0.9079958768378755,0.07145192197384566,9.608373066390367,Hill,24.478843236635605,0.32377453931755906,True,
+SSH1_91337,,,,,,,False,No valid model fit
+SSR1_6784,,,,,,,False,No valid model fit
+SSTR2_27909,0.4062658099755359,0.13741381894625762,1.4835965904638941,Hill,51.92822615600977,0.20646235099164478,True,
+SSU72P7_91157,,,,,,,False,No valid model fit
+ST3GAL6_22872,,,,,,,False,No valid model fit
+ST7_6809,,,,,,,False,No valid model fit
+STARD3NL_10928,,,,,,,False,No valid model fit
+STAT2_25506,,,,,,,False,No valid model fit
+STAT6_11686,,,,,,,False,No valid model fit
+STIP1_6841,,,,,,,False,No valid model fit
+STK40_22411,,,,,,,False,No valid model fit
+STMN3_15411,,,,,,,False,No valid model fit
+STOML1_90347,,,,,,,False,No valid model fit
+STON2_11767,,,,,,,False,No valid model fit
+STOX2_13293,,,,,,,False,No valid model fit
+STRADA_24367,0.29696059284179893,0.10240495673213433,0.8506741288395376,Hill,14.173806668567323,0.4469119301887253,True,
+STS_28600,,,,,,,False,No valid model fit
+STUB1_6861,5.797199010848999,4.054023530902163,10.614259871728525,Polynomial 2,41.15363264609789,0.12497347744872156,True,
+STX16_19931,,,,,,,False,No valid model fit
+STXBP2_28380,,,,,,,False,No valid model fit
+STYXL1_26271,,,,,,,False,No valid model fit
+SUGP1_24642,,,,,,,False,No valid model fit
+SULF1_21749,,,,,,,False,No valid model fit
+SUMO1_6890,,,,,,,False,No valid model fit
+SUMO4_27922,,,,,,,False,No valid model fit
+SUN2_12288,,,,,,,False,No valid model fit
+SUPT16H_92421,,,,,,,False,No valid model fit
+SUPT3H_17765,0.16553822388991143,0.01699426500427854,1.5841306821568837,Hill,44.92121791590455,0.36692325245198476,True,
+SURF4_6900,,,,,,,False,No valid model fit
+SUSD1_17935,,,,,,,False,No valid model fit
+SUZ12_6905,,,,,,,False,No valid model fit
+SVIL_21650,0.5857264572976766,0.05087292348652918,5.5678879467928555,Hill,41.39588226423185,0.6386831848704017,True,
+SWT1_14364,3.927185535430908,2.645901861499109,7.521361065580049,Linear,37.90077067193231,0.7457043612250456,True,
+SYBU_23464,,,,,,,False,No valid model fit
+SYCE2_26143,,,,,,,False,No valid model fit
+SYCP2_20826,,,,,,,False,No valid model fit
+SYNC_17010,,,,,,,False,No valid model fit
+SYNGR2_26398,,,,,,,False,No valid model fit
+SYPL2_18719,,,,,,,False,No valid model fit
+SYP_6919,,,,,,,False,No valid model fit
+SYS1_27929,2.0755961326911674,1.6379999167790846,2.747607151674159,Power,-1.8942242830068956,0.24318038374648365,True,
+SYTL1_25933,,,,,,,False,No valid model fit
+SYTL2_21368,,,,,,,False,No valid model fit
+SYTL5_18954,,,,,,,False,No valid model fit
+TACC3_15729,3.0839037895202637,1.6731992393075232,9.851021823645848,Linear,1.8922207407708909,0.2981339181721987,True,
+TAF13_22370,,,,,,,False,No valid model fit
+TAF4B_26534,,,,,,,False,No valid model fit
+TAF4_19365,,,,,,,False,No valid model fit
+TAF5L_12286,,,,,,,False,No valid model fit
+TAF6L_24936,,,,,,,False,No valid model fit
+TAOK3_17039,,,,,,,False,No valid model fit
+TAP2_27935,0.08478116056273681,0.02150794850413704,0.43470227639562664,Hill,17.30742653227189,0.5283628614222493,True,
+TAS2R14_27936,,,,,,,False,No valid model fit
+TAS2R43_6958,,,,,,,False,No valid model fit
+TASOR2_90897,,,,,,,False,No valid model fit
+TATDN3_12595,5.009255409240723,3.167319683539618,11.851917194597126,Linear,20.424229888188172,0.6279702599614774,True,
+TBC1D15_25284,4.248616077544669,2.8091001526762605,9.927902401308495,Power,20.86570384027409,0.27430093900576735,True,
+TBC1D17_12896,,,,,,,False,No valid model fit
+TBC1D19_12620,,,,,,,False,No valid model fit
+TBC1D20_24870,,,,,,,False,No valid model fit
+TBC1D30_28455,,,,,,,False,No valid model fit
+TBC1D5_24322,,,,,,,False,No valid model fit
+TBC1D8B_16267,,,,,,,False,No valid model fit
+TBC1D9_19231,,,,,,,False,No valid model fit
+TBCB_6971,,,,,,,False,No valid model fit
+TBRG1_22742,,,,,,,False,No valid model fit
+TBRG4_21135,,,,,,,False,No valid model fit
+TCAF1_33763,,,,,,,False,No valid model fit
+TCEA2_6992,,,,,,,False,No valid model fit
+TCEA3_20929,,,,,,,False,No valid model fit
+TCEAL8_17852,,,,,,,False,No valid model fit
+TCEANC2_14191,,,,,,,False,No valid model fit
+TCEANC_26702,,,,,,,False,No valid model fit
+TCF24_89917,,,,,,,False,No valid model fit
+TCF3_91725,3.206362724304199,2.253492323163232,5.480920566487058,Linear,30.387276289312197,0.567789815397087,True,
+TCHP_21844,,,,,,,False,No valid model fit
+TCOF1_15308,6.415209770202637,3.080831922634999,8.985376803114418,Polynomial 2,32.959747485294,0.324820750111394,True,
+TCOF1_27945,,,,,,,False,No valid model fit
+TCP1_92625,,,,,,,False,No valid model fit
+TCP1_92626,5.137679576873779,3.2236385842473423,12.515966642537546,Linear,24.530029946265493,0.16249106904612032,True,
+TCTEX1D2_90839,,,,,,,False,No valid model fit
+TCTN1_91134,,,,,,,False,No valid model fit
+TCTN1_91622,,,,,,,False,No valid model fit
+TCTN1_91714,,,,,,,False,No valid model fit
+TDG_24368,,,,,,,False,No valid model fit
+TDRKH_13741,3.1905746459960938,2.2444244200121592,5.441694224912114,Linear,-1.536410320666822,0.3069687932273524,True,
+TEAD4_26655,,,,,,,False,No valid model fit
+TECTA_24403,,,,,,,False,No valid model fit
+TEC_19874,4.469757080078125,2.917617349484734,9.451560994947316,Linear,55.992355459794396,0.8603416991388866,True,
+TEDC1_20289,4.434077739715576,2.9005431868981373,9.311280848059335,Linear,41.72757524636991,0.4495867485356315,True,
+TEN1_12678,,,,,,,False,No valid model fit
+TENM3_24095,,,,,,,False,No valid model fit
+TENT2_19346,6.816105842590332,3.148973630933165,10.030364927963287,Polynomial 2,51.372330156352064,0.7708705956464155,True,
+TENT4A_89434,,,,,,,False,No valid model fit
+TEP1_18252,,,,,,,False,No valid model fit
+TESC_24546,,,,,,,False,No valid model fit
+TESK1_28302,,,,,,,False,No valid model fit
+TESMIN_15697,5.6298792362213135,2.4325357546995656,7.325878131016181,Polynomial 2,31.81090799943667,0.3455748383802073,True,
+TEX14_11881,,,,,,,False,No valid model fit
+TEX15_26219,,,,,,,False,No valid model fit
+TEX2_15987,4.602901935577393,2.9806854781406007,9.992757692436754,Linear,8.187874327404185,0.5836327151532421,True,
+TEX54_88362,,,,,,,False,No valid model fit
+TFAM_7036,,,,,,,False,No valid model fit
+TFAP2E_17151,,,,,,,False,No valid model fit
+TFCP2_7042,,,,,,,False,No valid model fit
+TFDP1_7045,1.3283592468717975,0.20351107750729913,9.738723382596321,Hill,4.217827678478763,0.39042053147353184,True,
+TFF1_21691,,,,,,,False,No valid model fit
+TFF1_7046,,,,,,,False,No valid model fit
+TGFBR3_27950,4.82192432684395,3.0818929259868657,10.953751985269786,Power,17.19811302581563,0.19730542760431014,True,
+TGFBRAP1_26440,0.13054313224350145,0.0421043708240425,0.822210692590798,Hill,20.430777225143835,0.9306165309069229,True,
+TGM1_20398,4.068940877914429,2.7195948948348474,7.986358590998616,Linear,66.18969549844782,0.5727234962950412,True,
+THAP10_21408,,,,,,,False,No valid model fit
+THBS3_28921,,,,,,,False,No valid model fit
+THOC6_12411,2.1615304871443617,0.29521300312469423,9.90227667483932,Hill,17.495233746790035,0.30366855553344374,True,
+TIGAR_25932,,,,,,,False,No valid model fit
+TIGAR_823,,,,,,,False,No valid model fit
+TIGD6_22549,6.771565675735474,3.3246711245621157,9.908640643626761,Polynomial 2,41.91869439769741,0.2783955490265848,True,
+TIMM10B_25535,4.4124802910837015,1.0221677534470937,-9999.0,Hill,30.155385647558703,0.19055702750201808,True,
+TIMM21_15751,,,,,,,False,No valid model fit
+TIMM22_7102,,,,,,,False,No valid model fit
+TIMM23B_15627,,,,,,,False,No valid model fit
+TIMM23B_27959,,,,,,,False,No valid model fit
+TIMM44_23550,5.6121826171875,2.44324454352462,7.29273370463559,Polynomial 2,27.546773737518194,0.46920900233637575,True,
+TIMM50_91602,,,,,,,False,No valid model fit
+TIMM8A_18175,,,,,,,False,No valid model fit
+TIMM9_7106,,,,,,,False,No valid model fit
+TIPRL_17201,,,,,,,False,No valid model fit
+TKFC_14274,,,,,,,False,No valid model fit
+TKT_7123,,,,,,,False,No valid model fit
+TLCD3B_17610,,,,,,,False,No valid model fit
+TLCD4-RWDD3_27980,,,,,,,False,No valid model fit
+TLCD5_25961,,,,,,,False,No valid model fit
+TLCD5_27968,,,,,,,False,No valid model fit
+TLE3_33869,,,,,,,False,No valid model fit
+TLN1_26461,,,,,,,False,No valid model fit
+TLNRD1_87388,6.187828779220581,2.6691445040149957,8.463657222999,Polynomial 2,30.005781867356077,0.9445369359954062,True,
+TM2D1_12834,,,,,,,False,No valid model fit
+TM6SF2_24056,,,,,,,False,No valid model fit
+TM9SF3_7143,1.0315647590080514,0.0899286474232129,192.5377033585339,Hill,47.58033876404531,0.8845484979777829,True,
+TMA7_93241,,,,,,,False,No valid model fit
+TMBIM6_7153,0.315319594903643,0.10530597325319918,3.6286637759468867,Hill,21.0390079219829,0.5281990042417859,True,
+TMCO4_11716,,,,,,,False,No valid model fit
+TMED2_92403,,,,,,,False,No valid model fit
+TMED5_20453,,,,,,,False,No valid model fit
+TMED7-TICAM2_18083,,,,,,,False,No valid model fit
+TMEM101_26550,,,,,,,False,No valid model fit
+TMEM104_18196,,,,,,,False,No valid model fit
+TMEM115_14175,4.449925422668457,2.90811004699349,9.373541946245748,Linear,14.62059112734007,0.3729048285748745,True,
+TMEM116_17519,,,,,,,False,No valid model fit
+TMEM123_7175,,,,,,,False,No valid model fit
+TMEM126B_90748,,,,,,,False,No valid model fit
+TMEM128_7178,,,,,,,False,No valid model fit
+TMEM138_18069,,,,,,,False,No valid model fit
+TMEM161B_15414,,,,,,,False,No valid model fit
+TMEM175_91380,,,,,,,False,No valid model fit
+TMEM183A_34069,,,,,,,False,No valid model fit
+TMEM184B_14508,,,,,,,False,No valid model fit
+TMEM184C_19988,,,,,,,False,No valid model fit
+TMEM189_27974,4.179275035858154,2.7748797192638346,8.367416634983659,Linear,25.74791678522237,0.9752134427827598,True,
+TMEM19_88089,,,,,,,False,No valid model fit
+TMEM214_24547,2.1745657920837402,2.0276812491430904,2.765800758504855,Linear,6.325064953069658,0.48010856471541297,True,
+TMEM225B_89600,,,,,,,False,No valid model fit
+TMEM234_22912,,,,,,,False,No valid model fit
+TMEM236_87950,,,,,,,False,No valid model fit
+TMEM238_13049,,,,,,,False,No valid model fit
+TMEM241_19360,1.5857889663396716,0.4777035018412545,9.39865280275912,Hill,45.79273260525831,0.9680974724690443,True,
+TMEM251_7199,6.952959299087524,3.302346736042041,10.432338557198364,Polynomial 2,45.24863134126876,0.6483703820854674,True,
+TMEM254_13795,,,,,,,False,No valid model fit
+TMEM256_24434,,,,,,,False,No valid model fit
+TMEM25_91693,,,,,,,False,No valid model fit
+TMEM25_91742,,,,,,,False,No valid model fit
+TMEM33_23365,,,,,,,False,No valid model fit
+TMEM35B_17492,,,,,,,False,No valid model fit
+TMEM41A_11795,2.9149723052978516,2.0821550922485006,4.78534432370292,Linear,2.1787390710981756,0.8198537901465595,True,
+TMEM42_87522,,,,,,,False,No valid model fit
+TMEM44_13230,7.428035736083984,3.510462676017847,13.815961974789989,Polynomial 2,65.18201773830845,0.223191061999077,True,
+TMEM50B_7214,,,,,,,False,No valid model fit
+TMEM51_18762,6.739362478256226,3.190571821221717,9.81861158842088,Polynomial 2,49.7886444489686,0.39146402075694087,True,
+TMEM52_26220,6.487375497817993,2.976154375133161,9.161864443115919,Polynomial 2,43.27551550262298,0.712085757352911,True,
+TMEM63A_18448,3.9049329070017924,0.8969792319671441,-9999.0,Hill,49.7202489687116,0.7303104510481833,True,
+TMEM67_25575,,,,,,,False,No valid model fit
+TMEM69_19561,,,,,,,False,No valid model fit
+TMEM70_93074,,,,,,,False,No valid model fit
+TMEM81_26051,,,,,,,False,No valid model fit
+TMEM8B_27984,,,,,,,False,No valid model fit
+TMEM91_91398,,,,,,,False,No valid model fit
+TMEM94_18152,,,,,,,False,No valid model fit
+TMOD3_12492,,,,,,,False,No valid model fit
+TMPO_92628,,,,,,,False,No valid model fit
+TNC_14940,,,,,,,False,No valid model fit
+TNFRSF10A_23823,,,,,,,False,No valid model fit
+TNFRSF10B_23818,6.4131975173950195,2.769160753492045,8.984805356820821,Polynomial 2,3.1526003653137784,0.1935069910099163,True,
+TNFRSF12A_17257,,,,,,,False,No valid model fit
+TNFRSF19_12626,7.32586145401001,4.060363265716259,36.97544656229998,Linear,65.71632004571745,0.3448914347239329,True,
+TNK2_27994,0.3203431170104495,0.10423977608021137,-9999.0,Hill,37.99327681196846,0.11680988973771766,True,
+TNKS1BP1_88735,2.7791197331162505,0.2184029199230108,-9999.0,Hill,51.89071367639919,0.5883809971832299,True,
+TNNC1_88796,,,,,,,False,No valid model fit
+TNPO3_12588,0.1120141123821629,0.0430834373891503,0.6455224966484242,Hill,6.731787522614734,0.7937900449511183,True,
+TNRC18_20439,,,,,,,False,No valid model fit
+TNS3_18725,,,,,,,False,No valid model fit
+TOB1_25125,,,,,,,False,No valid model fit
+TOM1L2_23231,,,,,,,False,No valid model fit
+TOMM34_7272,,,,,,,False,No valid model fit
+TOMM40_7273,,,,,,,False,No valid model fit
+TOMM5_17155,,,,,,,False,No valid model fit
+TOMM70_7276,,,,,,,False,No valid model fit
+TOMM7_93169,,,,,,,False,No valid model fit
+TOMM7_93170,,,,,,,False,No valid model fit
+TOR1AIP2_27996,,,,,,,False,No valid model fit
+TOR1A_7283,,,,,,,False,No valid model fit
+TOR2A_25655,6.294392943382263,2.93276033898048,8.701739594627112,Polynomial 2,42.18364498065027,0.17034796350040127,True,
+TOR3A_26001,,,,,,,False,No valid model fit
+TP53BP2_90409,,,,,,,False,No valid model fit
+TP53I13_90548,,,,,,,False,No valid model fit
+TP53I3_7290,0.6186256364089525,0.05558907783490612,8.992039786486789,Hill,26.954934459816798,0.23015874960086036,True,
+TP53INP2_7291,,,,,,,False,No valid model fit
+TP53RK_22137,,,,,,,False,No valid model fit
+TPCN1_19034,4.104456901550293,2.737526164077066,8.107363321991949,Linear,41.539769804819045,0.7756724465884396,True,
+TPI1_93283,,,,,,,False,No valid model fit
+TPM2_24543,,,,,,,False,No valid model fit
+TPM3_92830,,,,,,,False,No valid model fit
+TPPP3_12338,,,,,,,False,No valid model fit
+TPPP_13685,,,,,,,False,No valid model fit
+TPRN_33657,,,,,,,False,No valid model fit
+TPT1_92740,6.719915866851807,3.210068265469527,9.764776026396714,Polynomial 2,30.074826960015308,0.4092215674927503,True,
+TRAF4_24863,6.647217273712158,2.9543539308685767,9.569558168010705,Polynomial 2,14.970997674853145,0.4825582283712373,True,
+TRAF6_7314,1.1932711273248537,0.11585312456597643,9.69709561293489,Hill,58.859297706226634,0.7604354252717089,True,
+TRAIP_26582,,,,,,,False,No valid model fit
+TRAK1_15646,,,,,,,False,No valid model fit
+TRAM2_7319,4.360377788543701,2.8637051096865633,9.028140007977157,Linear,17.560030059328284,0.2686001071003129,True,
+TRAPPC3_7327,,,,,,,False,No valid model fit
+TRAPPC5_12918,5.913290977478027,2.6037297012910954,7.87967279775808,Polynomial 2,9.514062791418617,0.6810429789267377,True,
+TRAPPC6A_88267,,,,,,,False,No valid model fit
+TREX2_87535,5.655200481414795,3.442844095875412,15.65557957706175,Linear,58.198658774929164,0.4018087058274269,True,
+TRIM14_21810,,,,,,,False,No valid model fit
+TRIM16L_16350,,,,,,,False,No valid model fit
+TRIM23_13987,,,,,,,False,No valid model fit
+TRIM28_20524,,,,,,,False,No valid model fit
+TRIM36_28726,,,,,,,False,No valid model fit
+TRIM37_14843,,,,,,,False,No valid model fit
+TRIM45_23802,,,,,,,False,No valid model fit
+TRIOBP_24719,,,,,,,False,No valid model fit
+TRIQK_19792,,,,,,,False,No valid model fit
+TRIT1_26415,,,,,,,False,No valid model fit
+TRMO_19557,,,,,,,False,No valid model fit
+TRMT10A_22971,,,,,,,False,No valid model fit
+TRMT112_93050,,,,,,,False,No valid model fit
+TRMT11_7349,,,,,,,False,No valid model fit
+TRMT1L_22968,1.1570322775560464,0.24228466578866545,9.612501191814506,Hill,-5.17057219572111,0.26645702043639063,True,
+TRMT61A_20176,,,,,,,False,No valid model fit
+TRNAU1AP_17999,,,,,,,False,No valid model fit
+TROAP_23056,,,,,,,False,No valid model fit
+TRO_26673,,,,,,,False,No valid model fit
+TRPC1_13635,,,,,,,False,No valid model fit
+TRPV3_90869,,,,,,,False,No valid model fit
+TSC1_19318,,,,,,,False,No valid model fit
+TSC2_15367,,,,,,,False,No valid model fit
+TSEN15_93208,2.180638313293457,1.6983615044430511,3.419447571231127,Linear,19.727204140877987,0.32814961624251493,True,
+TSEN15_93209,,,,,,,False,No valid model fit
+TSEN54_20988,,,,,,,False,No valid model fit
+TSGA10_29015,,,,,,,False,No valid model fit
+TSHZ2_25918,4.409092664718628,2.8874167739868555,9.214516715946942,Linear,56.61177118372018,0.5645159749816759,True,
+TSNAXIP1_23989,,,,,,,False,No valid model fit
+TSPAN14_22152,6.142240762710571,3.636317409354357,19.550065139049693,Linear,51.832323291212745,0.1595778883115586,True,
+TSPAN2_19795,0.7783558274506346,0.08613415281301072,6.028239681797766,Hill,31.570484116622637,0.12759735863657262,True,
+TSPAN31_89904,,,,,,,False,No valid model fit
+TSPAN31_90328,,,,,,,False,No valid model fit
+TSPYL4_16122,,,,,,,False,No valid model fit
+TSPYL5_19552,,,,,,,False,No valid model fit
+TSSC4_23858,,,,,,,False,No valid model fit
+TST_17424,,,,,,,False,No valid model fit
+TTC12_90890,,,,,,,False,No valid model fit
+TTC12_91745,,,,,,,False,No valid model fit
+TTC31_90552,,,,,,,False,No valid model fit
+TTC33_22097,3.7900924682617188,2.5745431566050954,7.092157957576177,Linear,13.779178838297252,0.4081268317200648,True,
+TTC38_21693,,,,,,,False,No valid model fit
+TTC39A_18816,,,,,,,False,No valid model fit
+TTC39C_11031,,,,,,,False,No valid model fit
+TTC39C_28022,3.651515245437622,2.501093430798966,6.679991713290874,Linear,24.420747172817904,0.9877679453967565,True,
+TTF2_15901,,,,,,,False,No valid model fit
+TTLL12_16804,,,,,,,False,No valid model fit
+TTLL1_16307,,,,,,,False,No valid model fit
+TTLL4_14717,6.7246198654174805,3.209211763043205,9.777869304275105,Polynomial 2,43.76799631344262,0.4042630639180277,True,
+TTLL7_12898,,,,,,,False,No valid model fit
+TTYH2_14239,,,,,,,False,No valid model fit
+TUBA1A_12436,4.799511432647705,3.0715592973617616,10.850849626394242,Linear,50.3619323302604,0.6713371260636452,True,
+TUBA4A_7404,,,,,,,False,No valid model fit
+TUBB8_11436,,,,,,,False,No valid model fit
+TUBG1_28348,,,,,,,False,No valid model fit
+TUBGCP4_12693,,,,,,,False,No valid model fit
+TUBGCP6_21736,3.5350340604782104,2.4369178139543406,6.34844455839612,Linear,62.518463048699694,0.3499429579916127,True,
+TUT1_91315,,,,,,,False,No valid model fit
+TWF2_7415,4.476542119820964,2.9209281431649643,10.037835999755538,Power,10.177997908155374,0.2567961407313263,True,
+TWISTNB_15825,,,,,,,False,No valid model fit
+TXNDC16_12379,,,,,,,False,No valid model fit
+TXNDC9_7433,2.1776771545410156,1.3188400435867929,4.772146132559413,Linear,-4.926357282631962,0.5326364450856929,True,
+TXNIP_28030,,,,,,,False,No valid model fit
+TXNL1_11627,,,,,,,False,No valid model fit
+TXNRD3_19965,,,,,,,False,No valid model fit
+TYK2_7442,,,,,,,False,No valid model fit
+TYMSOS_25173,,,,,,,False,No valid model fit
+TYRO3_22822,,,,,,,False,No valid model fit
+U2AF1L4_23885,,,,,,,False,No valid model fit
+U2AF2_7449,,,,,,,False,No valid model fit
+UBALD2_25360,,,,,,,False,No valid model fit
+UBAP1_14217,,,,,,,False,No valid model fit
+UBAP2L_7462,,,,,,,False,No valid model fit
+UBB_93029,,,,,,,False,No valid model fit
+UBE2C_93067,,,,,,,False,No valid model fit
+UBE2D3_28033,4.82308030128479,3.082420164557866,10.958926913151803,Linear,39.155156336330215,0.6124375081854161,True,
+UBE2E1_24308,,,,,,,False,No valid model fit
+UBE2E3_93025,,,,,,,False,No valid model fit
+UBE2G1_7477,,,,,,,False,No valid model fit
+UBE2G2_91246,,,,,,,False,No valid model fit
+UBE2I_22486,,,,,,,False,No valid model fit
+UBE2J2_21932,,,,,,,False,No valid model fit
+UBE2K_19279,,,,,,,False,No valid model fit
+UBE2L6_7483,,,,,,,False,No valid model fit
+UBE2V1_28034,3.3232998847961426,1.635170421798805,10.216249991047416,Linear,7.40177079649802,0.8464240292631914,True,
+UBE2W_10807,0.3015375189854947,0.10461019004867839,0.8626632723573016,Hill,17.70085911085222,0.16530008483809333,True,
+UBE3B_90314,3.660298555570348,2.505868564074692,9.530172232516982,Power,15.228873485650903,0.4070675447709041,True,
+UBE3C_7502,,,,,,,False,No valid model fit
+UBL5_7506,,,,,,,False,No valid model fit
+UBN1_91670,1.1159515380859375,0.9855503761881977,1.2293663192423516,Linear,0.7307336134840945,0.4236438878895238,True,
+UBTD1_26698,2.0453881978159547,0.4412868108489348,9.779903214540123,Hill,28.95649579150602,0.8895854698725846,True,
+UBXN7_22634,,,,,,,False,No valid model fit
+UCHL1_23226,,,,,,,False,No valid model fit
+UCHL1_7516,,,,,,,False,No valid model fit
+UCHL5_28035,,,,,,,False,No valid model fit
+UCK2_12590,,,,,,,False,No valid model fit
+UCN_25330,,,,,,,False,No valid model fit
+UEVLD_11769,,,,,,,False,No valid model fit
+UFSP2_24193,,,,,,,False,No valid model fit
+UHMK1_23109,,,,,,,False,No valid model fit
+ULBP2_19027,,,,,,,False,No valid model fit
+UNC45A_88620,,,,,,,False,No valid model fit
+UNKL_28040,,,,,,,False,No valid model fit
+UNK_91474,,,,,,,False,No valid model fit
+UNK_91583,,,,,,,False,No valid model fit
+UPF3A_17420,,,,,,,False,No valid model fit
+UPF3B_13259,,,,,,,False,No valid model fit
+UPK3BL1_33548,,,,,,,False,No valid model fit
+UQCR10_13938,,,,,,,False,No valid model fit
+UQCR11_7561,,,,,,,False,No valid model fit
+URB1_21849,,,,,,,False,No valid model fit
+UROS_25872,,,,,,,False,No valid model fit
+USP10_21653,,,,,,,False,No valid model fit
+USP15_21544,,,,,,,False,No valid model fit
+USP17L5_87586,,,,,,,False,No valid model fit
+USP18_7584,0.5438352175689041,0.11080127488815922,3.005630462559032,Hill,15.997089887706107,0.19937652972437303,True,
+USP1_7579,,,,,,,False,No valid model fit
+USP21_88798,,,,,,,False,No valid model fit
+USP2_25436,,,,,,,False,No valid model fit
+USP32_23424,,,,,,,False,No valid model fit
+USP37_10800,,,,,,,False,No valid model fit
+USP38_7593,,,,,,,False,No valid model fit
+USP39_28046,,,,,,,False,No valid model fit
+USP46_14903,,,,,,,False,No valid model fit
+USP5_7596,4.484367807183595,2.9246914612895276,9.95577153932302,Power,26.729483320650107,0.4058585161360556,True,
+USP7_7602,,,,,,,False,No valid model fit
+USP9X_19690,0.9493730223867248,0.2363982188125741,9.508008687138087,Hill,-20.461410743640638,0.7342454154920852,True,
+USPL1_11076,,,,,,,False,No valid model fit
+UST_13281,,,,,,,False,No valid model fit
+UTP11_22953,,,,,,,False,No valid model fit
+UTP14A_7606,,,,,,,False,No valid model fit
+UTP18_26174,,,,,,,False,No valid model fit
+UTP18_7609,,,,,,,False,No valid model fit
+UTP20_16887,5.538442134857178,3.3949773354383295,14.8717348219655,Linear,52.658628215016115,0.21423887014897636,True,
+UTP23_13888,,,,,,,False,No valid model fit
+UTP3_20380,,,,,,,False,No valid model fit
+UTP4_11499,,,,,,,False,No valid model fit
+UTS2R_89842,,,,,,,False,No valid model fit
+VAC14_91482,,,,,,,False,No valid model fit
+VAMP1_21331,,,,,,,False,No valid model fit
+VAMP2_7615,,,,,,,False,No valid model fit
+VARS2_90978,,,,,,,False,No valid model fit
+VAV1_24399,,,,,,,False,No valid model fit
+VCAN_20627,,,,,,,False,No valid model fit
+VCP_24839,,,,,,,False,No valid model fit
+VDAC3_18842,,,,,,,False,No valid model fit
+VEGFA_12596,,,,,,,False,No valid model fit
+VIM_18185,,,,,,,False,No valid model fit
+VIM_7657,,,,,,,False,No valid model fit
+VIPAS39_12577,5.29735803604126,2.0565048360299825,6.728152086814862,Polynomial 2,10.92928574972381,0.9713037858914092,True,
+VLDLR_16875,,,,,,,False,No valid model fit
+VPREB3_87404,,,,,,,False,No valid model fit
+VPS11_14358,,,,,,,False,No valid model fit
+VPS33A_18054,,,,,,,False,No valid model fit
+VPS52_15052,,,,,,,False,No valid model fit
+VPS53_13304,,,,,,,False,No valid model fit
+WAC_16308,,,,,,,False,No valid model fit
+WASF1_23531,,,,,,,False,No valid model fit
+WASHC1_12639,,,,,,,False,No valid model fit
+WASHC2C_2322,,,,,,,False,No valid model fit
+WASHC3_26517,4.565381744238934,2.9631674998779873,9.837341482707338,Power,7.02009720857206,0.11891275565696258,True,
+WASL_7701,4.357022047042847,2.862112997524134,9.015535814430416,Linear,27.13086438715471,0.6659768310800398,True,
+WBP11_92397,,,,,,,False,No valid model fit
+WBP1L_20603,1.3523973682620434,0.3256279033157247,9.696008531494375,Hill,40.541290077443605,0.8015675736704111,True,
+WDR18_25239,3.023049831390381,2.14597126433653,5.03594843448365,Linear,18.13242281422996,0.39591946385089816,True,
+WDR1_15416,6.407067775726318,2.819537936006924,8.970047324286327,Polynomial 2,20.246405531322438,0.9322710857124685,True,
+WDR33_89383,,,,,,,False,No valid model fit
+WDR36_88222,,,,,,,False,No valid model fit
+WDR43_7707,3.08092087290969,2.179930197691341,9.534331472216927,Power,9.717150646452422,0.1429993428989138,True,
+WDR44_15119,5.301494598388672,2.0606254382677043,6.735298300553372,Polynomial 2,3.4238460563044684,0.978565890815526,True,
+WDR45_93178,,,,,,,False,No valid model fit
+WDR4_25587,,,,,,,False,No valid model fit
+WDR4_28070,,,,,,,False,No valid model fit
+WDR59_14628,3.1410450955850733,0.44492153597321055,9.755223092975168,Hill,-8.098229991992916,0.7425534783264454,True,
+WDR62_26572,,,,,,,False,No valid model fit
+WDR77_12346,,,,,,,False,No valid model fit
+WDR78_15668,,,,,,,False,No valid model fit
+WDR82_7719,,,,,,,False,No valid model fit
+WDR89_23778,,,,,,,False,No valid model fit
+WDR93_21637,,,,,,,False,No valid model fit
+WDSUB1_10611,,,,,,,False,No valid model fit
+WEE1_92973,,,,,,,False,No valid model fit
+WEE1_92974,,,,,,,False,No valid model fit
+WNK1_24249,,,,,,,False,No valid model fit
+WNK2_17808,1.368842029653874,0.30507294632790527,9.631572400067625,Hill,34.94084718379636,0.17711158753339062,True,
+WNT9A_7742,,,,,,,False,No valid model fit
+WRAP53_90266,5.621399879455566,2.277880571445227,7.309982319812939,Polynomial 2,32.913952445325684,0.3539655454591375,True,
+WSB1_21546,1.1673724596850008,0.30332298234662036,9.631933907741967,Hill,22.452475735892797,0.9093307732737709,True,
+WTAP_92852,,,,,,,False,No valid model fit
+WWC1_23847,,,,,,,False,No valid model fit
+WWOX_20294,,,,,,,False,No valid model fit
+WWTR1_19742,,,,,,,False,No valid model fit
+XCL1_21226,,,,,,,False,No valid model fit
+XIST_28223,4.955930709838867,3.14357523415486,11.588733678525253,Linear,23.2958093643995,0.4745521113770409,True,
+XPO4_13297,,,,,,,False,No valid model fit
+XPO6_24206,,,,,,,False,No valid model fit
+XPOT_93135,,,,,,,False,No valid model fit
+XRN1_28080,,,,,,,False,No valid model fit
+XRN2_7788,0.3411868458294532,0.05852718524765211,1.0625262733209233,Hill,17.342355611082695,0.5545194647124597,True,
+XRRA1_13185,,,,,,,False,No valid model fit
+XXYLT1_88934,,,,,,,False,No valid model fit
+XXYLT1_90155,,,,,,,False,No valid model fit
+YARS1_20963,,,,,,,False,No valid model fit
+YARS2_22343,,,,,,,False,No valid model fit
+YBX1_93302,2.221668272689346,1.6471805631304721,9.249035180314248,Power,-9.119230404697388,0.2100752565195766,True,
+YDJC_88440,3.1467795372009277,2.2191849697388117,5.334678919196803,Linear,12.381818663090112,0.9518512471418152,True,
+YIPF3_17436,,,,,,,False,No valid model fit
+YME1L1_7799,,,,,,,False,No valid model fit
+YPEL3_16422,1.0511074851191455,0.3549134731119228,9.368305186156883,Hill,36.85663688895426,0.7590644049481147,True,
+YPEL5_7802,7.328357696533203,4.061185020582116,37.03200698471156,Linear,36.80236544366032,0.10097213211181966,True,
+YRDC_24151,,,,,,,False,No valid model fit
+YWHAB_15704,,,,,,,False,No valid model fit
+YWHAG_7814,,,,,,,False,No valid model fit
+YY1AP1_92936,6.053917407989502,2.8135924646273516,8.169261538876725,Polynomial 2,4.258640672808802,0.20276933817864462,True,
+YY2_28081,7.439650297164917,3.416633278745311,14.256375161613077,Polynomial 2,40.413574209113406,0.8780766907972142,True,
+ZBED8_25769,,,,,,,False,No valid model fit
+ZBTB25_15850,,,,,,,False,No valid model fit
+ZBTB34_13553,,,,,,,False,No valid model fit
+ZBTB40_21158,3.2993130668756567,0.5036460532609359,9.97318097650664,Hill,29.865203375988056,0.6002088850039302,True,
+ZBTB45_88623,,,,,,,False,No valid model fit
+ZBTB8OS_93081,,,,,,,False,No valid model fit
+ZC2HC1A_14213,,,,,,,False,No valid model fit
+ZC3H14_19282,,,,,,,False,No valid model fit
+ZC3H3_91008,,,,,,,False,No valid model fit
+ZC3H6_19588,,,,,,,False,No valid model fit
+ZCCHC12_21181,0.7887389289638662,0.16855011438740958,5.578334893180646,Hill,29.024572177187963,0.6609538045130436,True,
+ZCCHC17_92644,0.9093880314135101,0.07084819308321766,9.582626291010744,Hill,13.821041929866261,0.3896174697506618,True,
+ZCWPW2_19911,,,,,,,False,No valid model fit
+ZDBF2_14134,,,,,,,False,No valid model fit
+ZDHHC14_19477,,,,,,,False,No valid model fit
+ZDHHC24_88467,,,,,,,False,No valid model fit
+ZDHHC3_10680,,,,,,,False,No valid model fit
+ZDHHC4_24325,,,,,,,False,No valid model fit
+ZFAND1_22534,6.398665904998779,3.7337980724952606,22.122377520852964,Linear,38.46510583412818,0.15283580895757165,True,
+ZFHX2_13036,,,,,,,False,No valid model fit
+ZFP2_11079,6.744266748428345,3.0046510066339764,9.832400123473349,Polynomial 2,53.21807145502066,0.8823405161772353,True,
+ZFP90_93139,,,,,,,False,No valid model fit
+ZFP91_17706,0.11194845348973574,0.020881379794729628,0.668550209416753,Hill,-20.002270779996724,0.10708798177725254,True,
+ZFPM2_14341,,,,,,,False,No valid model fit
+ZFYVE19_23772,,,,,,,False,No valid model fit
+ZFYVE1_15983,,,,,,,False,No valid model fit
+ZFYVE28_28095,,,,,,,False,No valid model fit
+ZGRF1_21063,,,,,,,False,No valid model fit
+ZHX2_22523,4.284281791645125,2.826589570602307,9.636147146666659,Power,39.30418163211089,0.3107195723642734,True,
+ZKSCAN1_13775,0.47300785779953003,0.26560526675614576,1.2037310870347762,Exponential 5,21.255847619359415,0.1615387071319827,True,
+ZKSCAN2_89875,,,,,,,False,No valid model fit
+ZKSCAN3_22769,,,,,,,False,No valid model fit
+ZMAT2_25502,,,,,,,False,No valid model fit
+ZMPSTE24_7860,,,,,,,False,No valid model fit
+ZNF101_90237,,,,,,,False,No valid model fit
+ZNF101_90418,,,,,,,False,No valid model fit
+ZNF121_19275,,,,,,,False,No valid model fit
+ZNF138_28103,,,,,,,False,No valid model fit
+ZNF140_88487,,,,,,,False,No valid model fit
+ZNF142_15197,3.14125657081604,2.2151768360992383,5.321070883269822,Linear,38.03331595435249,0.6144990784592531,True,
+ZNF189_15740,,,,,,,False,No valid model fit
+ZNF211_14491,2.391418989493926,1.883910532487556,3.1733748078847763,Power,2.336667309154932,1.0,True,
+ZNF223_17252,,,,,,,False,No valid model fit
+ZNF225_88687,,,,,,,False,No valid model fit
+ZNF226_28107,,,,,,,False,No valid model fit
+ZNF232_24404,,,,,,,False,No valid model fit
+ZNF251_24314,,,,,,,False,No valid model fit
+ZNF25_23793,0.2750768125645499,0.046090420015318795,1.8475485518828156,Hill,41.41254328396713,0.9833631932754887,True,
+ZNF264_90668,,,,,,,False,No valid model fit
+ZNF266_13098,6.899681091308594,3.2736524658585378,10.2717820602145,Polynomial 2,25.00757364161072,0.24826093374577884,True,
+ZNF277_10713,3.5769569873809814,2.460805644590215,6.466214525004044,Linear,25.880608351640312,0.23396396332717218,True,
+ZNF287_23033,18.822250366210938,16.628610125435756,19.25007687438111,Linear,19.971624794573373,0.13142812984081742,True,
+ZNF296_14691,,,,,,,False,No valid model fit
+ZNF333_17836,,,,,,,False,No valid model fit
+ZNF335_10728,,,,,,,False,No valid model fit
+ZNF33A_13507,,,,,,,False,No valid model fit
+ZNF345_22985,,,,,,,False,No valid model fit
+ZNF354A_22337,4.9690961837768555,3.1494662458103067,11.65304583515962,Linear,32.62341637468454,0.9916920491206578,True,
+ZNF35_17703,,,,,,,False,No valid model fit
+ZNF362_11443,,,,,,,False,No valid model fit
+ZNF367_14143,,,,,,,False,No valid model fit
+ZNF391_19301,,,,,,,False,No valid model fit
+ZNF398_15876,,,,,,,False,No valid model fit
+ZNF407_16558,1.3372095945101168,0.13911550274590048,9.793060489981789,Hill,47.861401641692986,0.2612727340892742,True,
+ZNF416_16733,,,,,,,False,No valid model fit
+ZNF419_23157,,,,,,,False,No valid model fit
+ZNF423_12245,,,,,,,False,No valid model fit
+ZNF441_20526,5.796525478363037,2.7299021682851965,7.643356210097743,Polynomial 2,46.481525485365,0.23012352801417868,True,
+ZNF446_14399,,,,,,,False,No valid model fit
+ZNF44_88170,,,,,,,False,No valid model fit
+ZNF460_19456,,,,,,,False,No valid model fit
+ZNF471_17574,,,,,,,False,No valid model fit
+ZNF480_21541,,,,,,,False,No valid model fit
+ZNF501_19520,,,,,,,False,No valid model fit
+ZNF502_23805,,,,,,,False,No valid model fit
+ZNF503_88870,,,,,,,False,No valid model fit
+ZNF511_19148,,,,,,,False,No valid model fit
+ZNF517_26298,,,,,,,False,No valid model fit
+ZNF524_21180,,,,,,,False,No valid model fit
+ZNF530_11536,,,,,,,False,No valid model fit
+ZNF532_20212,,,,,,,False,No valid model fit
+ZNF543_24225,,,,,,,False,No valid model fit
+ZNF547_21485,,,,,,,False,No valid model fit
+ZNF550_17465,0.4602444583025205,0.09758858275251636,2.4431979210832804,Hill,36.999324842234515,0.8201373600228731,True,
+ZNF554_17792,,,,,,,False,No valid model fit
+ZNF559_28118,,,,,,,False,No valid model fit
+ZNF559_28119,,,,,,,False,No valid model fit
+ZNF559_28122,,,,,,,False,No valid model fit
+ZNF572_20190,,,,,,,False,No valid model fit
+ZNF57_20544,,,,,,,False,No valid model fit
+ZNF581_87718,,,,,,,False,No valid model fit
+ZNF583_18678,,,,,,,False,No valid model fit
+ZNF593_7910,4.491174221038818,2.927931093007624,9.536541196944881,Linear,29.23979344291276,0.9241888917941892,True,
+ZNF613_14228,,,,,,,False,No valid model fit
+ZNF614_24084,,,,,,,False,No valid model fit
+ZNF627_12749,4.59612250328064,2.977547644515679,9.964763267862837,Linear,52.25502421190997,0.7771334057275825,True,
+ZNF644_13575,2.1671630387976104,0.2433978164340692,10.118425138213807,Hill,39.26016647813885,0.9206039187765831,True,
+ZNF658_11782,7.046253681182861,3.966353006159279,31.212658500338875,Linear,28.730650383246513,0.16361435522598256,True,
+ZNF669_13399,,,,,,,False,No valid model fit
+ZNF66_90830,,,,,,,False,No valid model fit
+ZNF688_90482,,,,,,,False,No valid model fit
+ZNF692_7912,4.384398460388184,2.8754416292244738,9.119917560386256,Linear,35.89761753440797,0.6481138716984751,True,
+ZNF69_15016,6.800254583358765,3.4037740344340044,9.989824934560033,Polynomial 2,29.87297350128948,0.18889557540889423,True,
+ZNF716_13770,,,,,,,False,No valid model fit
+ZNF717_15128,,,,,,,False,No valid model fit
+ZNF721_16830,1.1004137992858887,0.41358290065546177,9.708720463862143,Exponential 5,17.23890091384102,0.12527960320293685,True,
+ZNF747_24687,,,,,,,False,No valid model fit
+ZNF763_24126,,,,,,,False,No valid model fit
+ZNF765_21748,,,,,,,False,No valid model fit
+ZNF776_21487,,,,,,,False,No valid model fit
+ZNF782_25871,,,,,,,False,No valid model fit
+ZNF784_91080,,,,,,,False,No valid model fit
+ZNF786_20189,6.664562225341797,3.219153793031611,9.615510983968958,Polynomial 2,19.677512106274914,0.11713524972896572,True,
+ZNF791_90838,,,,,,,False,No valid model fit
+ZNF800_18498,,,,,,,False,No valid model fit
+ZNF84_21458,2.526181936264038,0.5490971574104674,645.3874044438091,Exponential 5,43.744472930192416,0.1191686953784925,True,
+ZNF862_19779,,,,,,,False,No valid model fit
+ZNF880_19470,,,,,,,False,No valid model fit
+ZNF92_14475,5.883831977844238,3.5358927293251945,17.346823734502895,Linear,55.06090341943093,0.21488097648284699,True,
+ZNRF1_89375,4.683837890625,3.0183438654850607,10.338058836269251,Linear,36.362167328331545,0.33790941371061634,True,
+ZRANB1_11395,,,,,,,False,No valid model fit
+ZRANB2_16430,,,,,,,False,No valid model fit
+ZRANB3_33753,3.58756362386052,0.5928742085281709,9.863480368663888,Hill,12.39150803683832,0.24338804554545979,True,
+ZSCAN18_91350,,,,,,,False,No valid model fit
+ZSCAN22_18745,,,,,,,False,No valid model fit
+ZSCAN29_19172,5.740213394165039,2.745522304527949,7.532035553307381,Polynomial 2,28.0834069570309,0.15923671849056042,True,
+ZSCAN30_23139,3.6684775352478027,2.5102185336845424,6.729237289028096,Linear,26.25001721738741,0.8561250052776046,True,
+ZSCAN9_26325,,,,,,,False,No valid model fit
+ZSWIM3_17628,,,,,,,False,No valid model fit
+ZSWIM7_90474,2.7284884452819824,1.9695814569629113,4.371404852756756,Linear,12.162781584586375,0.17946967475454467,True,
+ZSWIM8_16286,,,,,,,False,No valid model fit
+ZWILCH_13665,,,,,,,False,No valid model fit
+ZYG11A_21878,,,,,,,False,No valid model fit
+ZYG11B_10994,,,,,,,False,No valid model fit
+ZZEF1_19722,,,,,,,False,No valid model fit

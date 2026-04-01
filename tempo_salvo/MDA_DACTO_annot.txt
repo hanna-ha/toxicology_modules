@@ -1,0 +1,16 @@
+Exp	Condition
+MDA_DACTO_1uM-1	DACTO
+MDA_DACTO_1uM-2	DACTO
+MDA_DACTO_1uM-3	DACTO
+MDA_DMSO1-1	control
+MDA_DMSO1-2	control
+MDA_DMSO1-3	control
+MDA_DMSO1-4	control
+MDA_DMSO1-5	control
+MDA_DMSO1-6	control
+MDA_DMSO2-1	control
+MDA_DMSO2-2	control
+MDA_DMSO2-3	control
+MDA_DMSO2-4	control
+MDA_DMSO2-5	control
+MDA_DMSO2-6	control

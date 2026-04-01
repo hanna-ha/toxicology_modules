@@ -1,60 +1,80 @@
-#pybmds_modules.py
-
-# pybmds_modules.py
 """
-pyBMDS Model Fitting Modules.
+pyBMDS model fitting module.
 
-Functions for:
-    - Creating pyBMDS datasets from summary data
-    - Fitting BMD models for individual genes
-    - Batch fitting across all genes
-    - Extracting and formatting results
-
-Designed to work with output from pre_pybmds_modules.py
+Fits dose-response models to gene-level summary data (from prepare_bmd_input.py)
+and returns results for all models per gene.
 """
 
+import os
+import sys
 import warnings
-from typing import List, Optional
+from contextlib import contextmanager
+from concurrent.futures import ProcessPoolExecutor, as_completed
 
 import numpy as np
 import pandas as pd
 import pybmds
-from pybmds.types.continuous import ContinuousModelSettings, ContinuousRiskType
+from pybmds import ContinuousRiskType
+
+
 
 
 # =============================================================================
 # Dataset Creation
 # =============================================================================
 
-def create_continuous_dataset(gene_data, gene_name ) : 
+def create_continuous_dataset(
+    gene_data: pd.DataFrame,
+    gene_name: str,
+) -> pybmds.ContinuousDataset:
     """
     Create a pyBMDS ContinuousDataset for a single gene.
-    
+
     Args:
-        gene_data: DataFrame with columns [dose, mean_log2fc, sd_log2fc, n]
-        gene_name: Gene identifier for labeling
-    
+        gene_data: DataFrame with columns [gene, dose, mean_log2fc, sd_log2fc, n].
+                   If a 'gene' column is present the data is auto-filtered.
+        gene_name: Gene identifier for labeling.
+
     Returns:
-        pybmds.ContinuousDataset ready for model fitting
-    
+        pybmds.ContinuousDataset ready for model fitting.
+
     Raises:
-        ValueError: If required columns are missing or data is invalid
+        ValueError: If required columns are missing or data is invalid.
     """
+    if "gene" in gene_data.columns:
+        gene_data = gene_data[gene_data["gene"] == gene_name].copy()
+        if len(gene_data) == 0:
+            raise ValueError(f"Gene '{gene_name}' not found in data")
+
     required_cols = ["dose", "mean_log2fc", "sd_log2fc", "n"]
     missing = set(required_cols) - set(gene_data.columns)
     if missing:
         raise ValueError(f"Missing required columns: {missing}")
-    
-    # Sort by dose to ensure correct order
+
     gene_data = gene_data.sort_values("dose").reset_index(drop=True)
-    
-    # Validate data
+
+    if gene_data["dose"].duplicated().any():
+        n_genes = (
+            gene_data["gene"].nunique()
+            if "gene" in gene_data.columns
+            else "unknown"
+        )
+        raise ValueError(
+            f"Duplicate doses found. This usually means you passed the full "
+            f"DataFrame instead of filtering to one gene first. "
+            f"Found {len(gene_data)} rows, genes in data: {n_genes}. "
+            f"Filter first: df[df['gene'] == '{gene_name}']"
+        )
+
     if len(gene_data) < 3:
-        raise ValueError(f"Need at least 3 dose groups, got {len(gene_data)}")
-    
+        raise ValueError(
+            f"Need at least 3 dose groups for BMD modeling, got {len(gene_data)}. "
+            f"With 4+ dose groups, more complex models (Hill) can be fitted."
+        )
+
     if (gene_data["n"] < 1).any():
         raise ValueError("All dose groups must have n >= 1")
-    
+
     dataset = pybmds.ContinuousDataset(
         doses=gene_data["dose"].tolist(),
         means=gene_data["mean_log2fc"].tolist(),
@@ -63,171 +83,110 @@ def create_continuous_dataset(gene_data, gene_name ) :
         name=gene_name,
     )
 
-    
     return dataset
-
-
 # =============================================================================
-# Single Gene Fitting
+# Suppress C++ stdout/stderr noise from bmdscore
 # =============================================================================
 
-def fit_single_gene(gene_data , gene_name, bmr =1.0 , bmr_type: ContinuousRiskType = ContinuousRiskType.StandardDeviation,  alpha: float = 0.05 ) :
-
-    """
-    Fit BMD models for a single gene and return best model results.
-    
-    Fits all default continuous models (Hill, Exponential, Power, Polynomial)
-    and selects the best by AIC among models that pass goodness-of-fit.
-    
-    Args:
-        gene_data: DataFrame with columns [dose, mean_log2fc, sd_log2fc, n]
-        gene_name: Gene identifier
-        bmr: Benchmark response (default: 1.0 SD change from control)
-        bmr_type: Type of BMR (default: StandardDeviation)
-        alpha: Significance level for BMDL/BMDU confidence bounds (default: 0.05)
-    
-    Returns:
-        Dictionary with keys:
-            - gene: Gene name
-            - bmd: Benchmark dose estimate
-            - bmdl: Lower confidence bound
-            - bmdu: Upper confidence bound
-            - model: Best model name
-            - aic: AIC of best model
-            - pvalue: Goodness-of-fit p-value
-            - converged: Whether fitting succeeded
-            - error: Error message if failed
-    """
-    result = {
-        "gene": gene_name,
-        "bmd": np.nan,
-        "bmdl": np.nan,
-        "bmdu": np.nan,
-        "model": None,
-        "aic": np.nan,
-        "pvalue": np.nan,
-        "converged": False,
-        "error": None,
-    }
-    
+@contextmanager
+def _suppress_output():
+    """Redirect stdout and stderr to /dev/null temporarily."""
+    stdout_fd = sys.stdout.fileno()
+    stderr_fd = sys.stderr.fileno()
+    saved_stdout = os.dup(stdout_fd)
+    saved_stderr = os.dup(stderr_fd)
     try:
-        # Create dataset
-        dataset = create_continuous_dataset(gene_data, gene_name)
-        
-        # Create session (no settings argument - settings go on add_default_models)
-        session = pybmds.Session(dataset=dataset)
-        
-        # Add models with settings
-        session.add_default_models(
-            settings={
+        devnull = os.open(os.devnull, os.O_WRONLY)
+        os.dup2(devnull, stdout_fd)
+        os.dup2(devnull, stderr_fd)
+        os.close(devnull)
+        yield
+    finally:
+        os.dup2(saved_stdout, stdout_fd)
+        os.dup2(saved_stderr, stderr_fd)
+        os.close(saved_stdout)
+        os.close(saved_stderr)
+
+
+# =============================================================================
+# Single gene fitting (all models)
+# =============================================================================
+
+def get_pvalue(model):
+    """Extract Test 4 (model fit) p-value."""
+    try:
+        return model.results.tests.p_values[3]
+    except (AttributeError, IndexError):
+        return np.nan
+
+
+def pybmd_fit_gene(gene_data, gene_name, bmr, bmr_type, alpha):
+    """
+    Fit all default continuous models for one gene.
+    Returns a list of dicts, one per model.
+    """
+    gd = gene_data.sort_values("dose").reset_index(drop=True)
+
+    dataset = pybmds.ContinuousDataset(
+        doses=gd["dose"].tolist(),
+        means=gd["mean_log2fc"].tolist(),
+        stdevs=gd["sd_log2fc"].tolist(),
+        ns=gd["n"].astype(int).tolist(),
+        name=gene_name,
+    )
+
+    # run session
+    sys.stdout.flush()
+    sys.stderr.flush()
+    with _suppress_output(), warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        with np.errstate(all="ignore"):
+            session = pybmds.Session(dataset=dataset)
+            session.add_default_models(settings={
                 "bmr": bmr,
                 "bmr_type": bmr_type,
                 "alpha": alpha,
-            }
-        )
-        
-        # Execute and recommend best model
-        session.execute()
-        session.recommend()
-        
-        # Get recommended model
-        best = session.recommended_model
-        
-        if best is not None and hasattr(best, "results") and best.results is not None:
-            # Extract p-value from Test 4 (model fit test)
-            pvalue = np.nan
-            if hasattr(best.results, "tests") and best.results.tests is not None:
-                p_values = best.results.tests.p_values
-                if len(p_values) > 3:
-                    pvalue = p_values[3]  # Test 4 p-value
-            
-            result.update({
-                "bmd": best.results.bmd,
-                "bmdl": best.results.bmdl,
-                "bmdu": best.results.bmdu,
-                "model": best.name(),
-                "aic": best.results.fit.aic if hasattr(best.results, "fit") else np.nan,
-                "pvalue": pvalue,
-                "converged": True,
             })
-        else:
-            result["error"] = "No valid model fit"
-            
-    except Exception as e:
-        result["error"] = str(e)
-    
-    return result
+            session.execute_and_recommend()
 
+    recommended = session.recommended_model
+    recommended_name = recommended.name() if recommended else None
 
-def fit_single_gene_all_models(gene_data, gene_name , bmr = 1.0 , bmr_type: ContinuousRiskType = ContinuousRiskType.StandardDeviation, alpha: float = 0.05) : 
-
-    """
-    Fit all BMD models for a single gene and return results for each.
-    
-    Unlike fit_single_gene which returns only the best model,
-    this returns results for all fitted models.
-    
-    Args:
-        gene_data: DataFrame with columns [dose, mean_log2fc, sd_log2fc, n]
-        gene_name: Gene identifier
-        bmr: Benchmark response (default: 1.0 SD)
-        bmr_type: Type of BMR (default: StandardDeviation)
-        alpha: Significance level (default: 0.05)
-    
-    Returns:
-        List of dictionaries, one per model attempted
-    """
     results = []
-    
+    for model in session.models:
+        row = {
+            "gene": gene_name,
+            "model": model.name(),
+            "bmd": np.nan,
+            "bmdl": np.nan,
+            "bmdu": np.nan,
+            "aic": np.nan,
+            "pvalue": np.nan,
+            "converged": False,
+            "is_recommended": False,
+        }
+
+        if model.results is not None:
+            row["bmd"] = model.results.bmd
+            row["bmdl"] = model.results.bmdl
+            row["bmdu"] = model.results.bmdu
+            row["aic"] = model.results.fit.aic if hasattr(model.results, "fit") else np.nan
+            row["pvalue"] = get_pvalue(model)
+            row["converged"] = True
+            row["is_recommended"] = (model.name() == recommended_name)
+
+        results.append(row)
+
+    return results
+
+
+def pybmd_fit_gene_wrapper(args):
+    """Unpacks args for ProcessPoolExecutor."""
+    gene_data, gene_name, bmr, bmr_type, alpha = args
     try:
-        dataset = create_continuous_dataset(gene_data, gene_name)
-        
-        settings = ContinuousModelSettings(
-            bmr=bmr,
-            bmr_type=bmr_type,
-            alpha=alpha,
-        )
-        
-        session = pybmds.Session(dataset=dataset, settings=settings)
-        session.add_default_models()
-        session.execute()
-        
-        for model in session.models:
-            res = {
-                "gene": gene_name,
-                "model": model.name,
-                "bmd": np.nan,
-                "bmdl": np.nan,
-                "bmdu": np.nan,
-                "aic": np.nan,
-                "pvalue": np.nan,
-                "converged": False,
-                "is_recommended": False,
-                "error": None,
-            }
-            
-            if model.has_results:
-                res.update({
-                    "bmd": model.results.bmd,
-                    "bmdl": model.results.bmdl,
-                    "bmdu": model.results.bmdu,
-                    "aic": model.results.aic,
-                    "pvalue": getattr(model.results.gof, "p_value", np.nan) if hasattr(model.results, "gof") else np.nan,
-                    "converged": True,
-                })
-            
-            results.append(res)
-        
-        # Mark recommended model
-        recommended = session.recommend()
-        if recommended is not None:
-            for res in results:
-                if res["model"] == recommended.name:
-                    res["is_recommended"] = True
-                    break
-                    
+        return pybmd_fit_gene(gene_data, gene_name, bmr, bmr_type, alpha)
     except Exception as e:
-        results.append({
+        return [{
             "gene": gene_name,
             "model": None,
             "bmd": np.nan,
@@ -238,174 +197,130 @@ def fit_single_gene_all_models(gene_data, gene_name , bmr = 1.0 , bmr_type: Cont
             "converged": False,
             "is_recommended": False,
             "error": str(e),
-        })
-    
-    return results
+        }]
 
 
 # =============================================================================
-# Batch Fitting
+# Batch fitting
 # =============================================================================
 
-def fit_all_genes(bmd_input, bmr: float = 1.0,bmr_type: ContinuousRiskType = ContinuousRiskType.StandardDeviation,alpha: float = 0.05, verbose = True, progress_interval: int = 100) : 
-
+def fit_all_genes_all_models(
+    bmd_input,
+    bmr=1.0,
+    bmr_type=ContinuousRiskType.StandardDeviation,
+    alpha=0.05,
+    n_jobs=1,
+    verbose=True,
+    progress_interval=100,
+):
     """
-    Fit BMD models for all genes in the input data.
-    
+    Fit all BMD models for every gene.
+
+    Returns a DataFrame with one row per model per gene.
+    The best model for each gene has is_recommended=True.
+
     Args:
-        bmd_input: Long-format DataFrame with columns [gene, dose, mean_log2fc, sd_log2fc, n]
-        bmr: Benchmark response (default: 1.0 SD)
-        bmr_type: Type of BMR (default: StandardDeviation)
-        alpha: Significance level (default: 0.05)
-        verbose: Print progress (default: True)
-        progress_interval: Print progress every N genes (default: 100)
-    
-    Returns:
-        DataFrame with BMD results for all genes (one row per gene, best model only)
+        bmd_input: DataFrame with columns [gene, dose, mean_log2fc, sd_log2fc, n]
+        bmr: benchmark response value (default 1.0 SD)
+        bmr_type: ContinuousRiskType (default StandardDeviation)
+        alpha: confidence level (default 0.05)
+        n_jobs: parallel workers (1=sequential, -1=all CPUs)
+        verbose: print progress
+        progress_interval: print every N genes
     """
     genes = bmd_input["gene"].unique()
     n_genes = len(genes)
-    
-    if verbose:
-        print(f"Fitting BMD models for {n_genes} genes...")
-    
-    results = []
-    n_failed = 0
-    
-    for i, gene in enumerate(genes):
-        gene_data = bmd_input[bmd_input["gene"] == gene].copy()
-        
-        # Suppress warnings during fitting
-        with warnings.catch_warnings():
-            warnings.simplefilter("ignore")
-            res = fit_single_gene(gene_data, gene, bmr, bmr_type, alpha)
-        
-        results.append(res)
-        
-        if not res["converged"]:
-            n_failed += 1
-        
-        # Progress update
-        if verbose and (i + 1) % progress_interval == 0:
-            print(f"  Processed {i + 1}/{n_genes} genes ({n_failed} failed so far)")
-    
-    if verbose:
-        n_success = n_genes - n_failed
-        print(f"  Complete: {n_success}/{n_genes} converged ({100 * n_success / n_genes:.1f}%)")
-    
-    return pd.DataFrame(results)
 
+    if n_jobs == -1:
+        n_jobs = os.cpu_count() or 1
 
-def fit_all_genes_all_models(bmd_input, bmr = 1.0,bmr_type: ContinuousRiskType = ContinuousRiskType.StandardDeviation,alpha: float = 0.05, verbose = True) : 
-
-    """
-    Fit all BMD models for all genes (returns all models, not just best).
-    
-    Use this when you need to compare model fits or want full diagnostics.
-    
-    Args:
-        bmd_input: Long-format DataFrame with columns [gene, dose, mean_log2fc, sd_log2fc, n]
-        bmr: Benchmark response (default: 1.0 SD)
-        bmr_type: Type of BMR (default: StandardDeviation)
-        alpha: Significance level (default: 0.05)
-        verbose: Print progress (default: True)
-    
-    Returns:
-        DataFrame with all model results (multiple rows per gene)
-    """
-    genes = bmd_input["gene"].unique()
-    n_genes = len(genes)
-    
     if verbose:
-        print(f"Fitting all BMD models for {n_genes} genes...")
-    
+        print(f"Fitting BMD models for {n_genes} genes (n_jobs={n_jobs})...")
+
+    # build per-gene data
+    gene_args = [
+        (bmd_input[bmd_input["gene"] == gene].copy(), gene, bmr, bmr_type, alpha)
+        for gene in genes
+    ]
+
     all_results = []
-    
-    for i, gene in enumerate(genes):
-        gene_data = bmd_input[bmd_input["gene"] == gene].copy()
-        
-        with warnings.catch_warnings():
-            warnings.simplefilter("ignore")
-            gene_results = fit_single_gene_all_models(gene_data, gene, bmr, bmr_type, alpha)
-        
-        all_results.extend(gene_results)
-        
-        if verbose and (i + 1) % 100 == 0:
-            print(f"  Processed {i + 1}/{n_genes} genes")
-    
+
+    if n_jobs == 1:
+        # sequential
+        for i, args in enumerate(gene_args):
+            results = pybmd_fit_gene_wrapper(args)
+            all_results.extend(results)
+            if verbose and (i + 1) % progress_interval == 0:
+                print(f"  {i + 1}/{n_genes} genes done")
+    else:
+        # parallel
+        n_done = 0
+        with ProcessPoolExecutor(max_workers=n_jobs) as executor:
+            futures = {
+                executor.submit(pybmd_fit_gene_wrapper, args): args[1]
+                for args in gene_args
+            }
+            for future in as_completed(futures):
+                all_results.extend(future.result())
+                n_done += 1
+                if verbose and n_done % progress_interval == 0:
+                    print(f"  {n_done}/{n_genes} genes done")
+
     if verbose:
         print(f"  Complete: {n_genes} genes")
-    
-    return pd.DataFrame(all_results)
+
+    results_df = pd.DataFrame(all_results)
+
+    # restore original gene order
+    gene_order = {g: i for i, g in enumerate(genes)}
+    results_df["_order"] = results_df["gene"].map(gene_order)
+    results_df = results_df.sort_values(["_order", "model"]).drop(columns=["_order"]).reset_index(drop=True)
+
+    return results_df
 
 
 # =============================================================================
-# Result Utilities
+# Summary
 # =============================================================================
 
-def summarize_results(bmd_results: pd.DataFrame) :
-    """
-    Generate summary statistics from BMD results.
-    
-    Args:
-        bmd_results: DataFrame from fit_all_genes()
-    
-    Returns:
-        Dictionary with summary statistics
-    """
-    converged = bmd_results[bmd_results["converged"]]
-    failed = bmd_results[~bmd_results["converged"]]
-    
+def get_best_models(all_models_df):
+    """Extract only the recommended model per gene from fit_all_genes_all_models output."""
+    best = all_models_df[all_models_df["is_recommended"] == True].copy()
+
+    # genes where no model was recommended
+    missing = set(all_models_df["gene"].unique()) - set(best["gene"].unique())
+    if missing:
+        missing_rows = pd.DataFrame([{
+            "gene": g, "model": None, "bmd": np.nan, "bmdl": np.nan,
+            "bmdu": np.nan, "aic": np.nan, "pvalue": np.nan,
+            "converged": False, "is_recommended": False,
+        } for g in missing])
+        best = pd.concat([best, missing_rows], ignore_index=True)
+
+    return best.reset_index(drop=True)
+
+
+def summarize_results(bmd_results):
+    """Quick summary stats from BMD results."""
+    converged = bmd_results[bmd_results["converged"] == True]
+    n_total = len(bmd_results)
+    n_conv = len(converged)
+
     summary = {
-        "total_genes": len(bmd_results),
-        "n_converged": len(converged),
-        "n_failed": len(failed),
-        "convergence_rate": len(converged) / len(bmd_results) if len(bmd_results) > 0 else 0,
-        "bmd_median": converged["bmd"].median() if len(converged) > 0 else np.nan,
-        "bmd_mean": converged["bmd"].mean() if len(converged) > 0 else np.nan,
-        "bmd_std": converged["bmd"].std() if len(converged) > 0 else np.nan,
-        "bmd_min": converged["bmd"].min() if len(converged) > 0 else np.nan,
-        "bmd_max": converged["bmd"].max() if len(converged) > 0 else np.nan,
-        "bmd_q25": converged["bmd"].quantile(0.25) if len(converged) > 0 else np.nan,
-        "bmd_q75": converged["bmd"].quantile(0.75) if len(converged) > 0 else np.nan,
+        "total_genes": n_total,
+        "converged": n_conv,
+        "failed": n_total - n_conv,
+        "convergence_rate": n_conv / n_total if n_total else 0,
     }
-    
-    # Model distribution
-    if len(converged) > 0:
-        model_counts = converged["model"].value_counts().to_dict()
-        summary["model_distribution"] = model_counts
-        summary["most_common_model"] = converged["model"].mode().iloc[0] if len(converged) > 0 else None
-    
+
+    if n_conv > 0 and "bmd" in converged.columns:
+        bmd_vals = converged["bmd"].dropna()
+        summary["bmd_median"] = bmd_vals.median()
+        summary["bmd_mean"] = bmd_vals.mean()
+        summary["bmd_min"] = bmd_vals.min()
+        summary["bmd_max"] = bmd_vals.max()
+
+    if n_conv > 0 and "model" in converged.columns:
+        summary["model_counts"] = converged["model"].value_counts().to_dict()
+
     return summary
-
-
-def filter_results(
-    bmd_results: pd.DataFrame,
-    max_bmd: Optional[float] = None,
-    min_pvalue: Optional[float] = None,
-    models: Optional[List[str]] = None,
-) -> pd.DataFrame:
-    """
-    Filter BMD results based on criteria.
-    
-    Args:
-        bmd_results: DataFrame from fit_all_genes()
-        max_bmd: Maximum BMD value to include
-        min_pvalue: Minimum goodness-of-fit p-value (exclude poor fits)
-        models: List of model names to include
-    
-    Returns:
-        Filtered DataFrame
-    """
-    filtered = bmd_results[bmd_results["converged"]].copy()
-    
-    if max_bmd is not None:
-        filtered = filtered[filtered["bmd"] <= max_bmd]
-    
-    if min_pvalue is not None:
-        filtered = filtered[filtered["pvalue"] >= min_pvalue]
-    
-    if models is not None:
-        filtered = filtered[filtered["model"].isin(models)]
-    
-    return filtered

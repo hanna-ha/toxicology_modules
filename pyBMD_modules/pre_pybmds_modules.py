@@ -90,8 +90,8 @@ def run_normalization_and_deg(counts_sub, annot_sub):
     # ---- Normalized counts ----
     size_factors = pd.Series(dds.obs["size_factors"].values, index=dds.obs_names)
     norm_counts = counts_sub.div(size_factors[counts_sub.columns], axis=1)
-    print(f"Normalization complete. Size factors range: "
-          f"{size_factors.min():.3f} - {size_factors.max():.3f}")
+    # print(f"Normalization complete. Size factors range: "
+    #       f"{size_factors.min():.3f} - {size_factors.max():.3f}")
 
     # ---- DEG results for each dose vs control ----
     conditions = [c for c in annot_sub["condition"].unique() if c != "control"]
@@ -207,6 +207,7 @@ def compute_log2fc_and_summarize(norm_counts, sample_doses, gene_list, pseudocou
     # Map sample to numeric dose
     log2fc_long["dose"] = log2fc_long["sample_name"].map(dose_lookup)
 
+
     # Summarize per gene + dose group
     summary = log2fc_long.groupby(["gene", "dose"])["log2fc"].agg(
         mean_log2fc="mean",
@@ -223,4 +224,4 @@ def compute_log2fc_and_summarize(norm_counts, sample_doses, gene_list, pseudocou
     # Sort by gene, then dose
     summary = summary.sort_values(["gene", "dose"]).reset_index(drop=True)
 
-    return summary
+    return log2fc_long, summary
